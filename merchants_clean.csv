@@ -1,0 +1,304 @@
+merchant_id,merchant_name,category,city,vpa,onboarding_date,risk_tier
+M0001,Shopnest,Ecommerce,Hyderabad,shopnest1@hdfcbank,2022-12-31,unrated
+M0002,Shopnest - Mumbai,Ecommerce,Mumbai,shopnestmumbai2@axl,2024-10-22,high
+M0003,Jio Recharge,Telecom,Jaipur,jiorecharge3@paytm,2021-09-14,unrated
+M0004,Bharat Fuel & Sons,Fuel,Kolkata,bharatfuelsons4@sbi,2025-05-09,unrated
+M0005,Bharat Fuel & Sons,Fuel,Jaipur,bharatfuelsons5@hdfcbank,2025-06-16,unrated
+M0006,Daily Basket Pvt Ltd,Grocery,Kolkata,dailybasketpvt6@okbank,2023-07-25,low
+M0007,Spice Hub Pvt Ltd,Food,Pune,spicehubpvtltd7@axl,2021-12-01,unrated
+M0008,Green Grocers Outlet,Grocery,Lucknow,greengrocersou8@okbank,2022-05-07,low
+M0009,Kirana King Outlet,Grocery,Kolkata,kiranakingoutl9@okbank,2024-11-21,medium
+M0010,Ludo Zone,Gaming,Kolkata,ludozone10@paytm,2025-01-18,unrated
+M0011,Chai Point,Food,Lucknow,chaipoint11@ybl,2025-02-05,unrated
+M0012,Quickkart - Mumbai,Ecommerce,Mumbai,quickkartmumba12@icici,2023-01-01,high
+M0013,Megabazaar Pvt Ltd,Ecommerce,Ahmedabad,megabazaarpvtl13@icici,2024-01-25,unrated
+M0014,Shopnest & Sons,Ecommerce,Chennai,shopnestsons14@paytm,2025-01-30,unrated
+M0015,Megabazaar - Bengaluru,Ecommerce,Bengaluru,megabazaarbeng15@okbank,2022-09-19,unrated
+M0016,Megabazaar & Sons,Ecommerce,Delhi,megabazaarsons16@sbi,2021-09-23,high
+M0017,Fantasyking - Bengaluru,Gaming,Bengaluru,fantasykingben17@axl,2022-04-01,unrated
+M0018,Mseb Power,Utilities,Mumbai,msebpower18@sbi,2025-08-18,low
+M0019,Pizza Corner,Food,Ahmedabad,pizzacorner19@axl,2021-12-30,high
+M0020,Biryani House - Kolkata,Food,Kolkata,biryanihouseko20@icici,2022-08-30,low
+M0021,Megabazaar - Ahmedabad,Ecommerce,Ahmedabad,megabazaarahme21@icici,2021-08-24,unrated
+M0022,Chai Point Pvt Ltd,Food,Jaipur,chaipointpvtlt22@okbank,2021-10-21,low
+M0023,Biryani House Pvt Ltd,Food,Pune,biryanihousepv23@icici,2024-01-04,medium
+M0024,Fresh Mart Pvt Ltd,Grocery,Hyderabad,freshmartpvtlt24@axl,2023-09-19,unrated
+M0025,Redbus Outlet,Travel,Kolkata,redbusoutlet25@okbank,2023-07-26,high
+M0026,Fresh Mart,Grocery,Kolkata,freshmart26@ybl,2021-10-24,low
+M0027,Kirana King,Grocery,Kolkata,kiranaking27@icici,2022-01-27,low
+M0028,Shopnest Pvt Ltd,Ecommerce,Chennai,shopnestpvtltd28@icici,2023-02-15,low
+M0029,Pizza Corner & Sons,Food,Delhi,pizzacornerson29@axl,2026-01-07,low
+M0030,Water Board - Mumbai,Utilities,Mumbai,waterboardmumb30@paytm,2024-01-17,unrated
+M0031,Water Board - Hyderabad,Utilities,Hyderabad,waterboardhyde31@okbank,2022-08-13,unrated
+M0032,Tiffin Express & Sons,Food,Pune,tiffinexpresss32@ybl,2024-09-17,unrated
+M0033,Vi Store Outlet,Telecom,Ahmedabad,vistoreoutlet33@okbank,2025-01-09,unrated
+M0034,Quickkart - Hyderabad,Ecommerce,Hyderabad,quickkarthyder34@okbank,2024-06-02,high
+M0035,Mseb Power Outlet,Utilities,Lucknow,msebpoweroutle35@sbi,2024-05-10,low
+M0036,Biryani House Outlet,Food,Lucknow,biryanihouseou36@paytm,2024-07-19,low
+M0037,Hp Petrol Outlet,Fuel,Bengaluru,hppetroloutlet37@axl,2025-06-12,medium
+M0038,Cabgo Pvt Ltd,Travel,Delhi,cabgopvtltd38@ybl,2022-01-20,unrated
+M0039,Cabgo Outlet,Travel,Jaipur,cabgooutlet39@okbank,2025-07-12,unrated
+M0040,Biryani House & Sons,Food,Delhi,biryanihouseso40@axl,2023-05-25,medium
+M0041,Spice Hub - Mumbai,Food,Mumbai,spicehubmumbai41@hdfcbank,2025-10-17,unrated
+M0042,Gas Agency Outlet,Utilities,Kolkata,gasagencyoutle42@ybl,2025-08-20,unrated
+M0043,Tiffin Express Pvt Ltd,Food,Bengaluru,tiffinexpressp43@axl,2021-08-14,high
+M0044,Spice Hub - Delhi,Food,Delhi,spicehubdelhi44@hdfcbank,2026-01-21,high
+M0045,Mseb Power - Lucknow,Utilities,Lucknow,msebpowerluckn45@paytm,2025-09-06,medium
+M0046,Tiffin Express,Food,Hyderabad,tiffinexpress46@icici,2025-05-03,low
+M0047,Water Board - Delhi,Utilities,Delhi,waterboarddelh47@hdfcbank,2021-12-01,medium
+M0048,Tiffin Express,Food,Mumbai,tiffinexpress48@ybl,2022-01-02,unrated
+M0049,Spice Hub,Food,Pune,spicehub49@ybl,2023-01-13,unrated
+M0050,Shopnest Pvt Ltd,Ecommerce,Hyderabad,shopnestpvtltd50@hdfcbank,2023-09-24,low
+M0051,Quickkart,Ecommerce,Mumbai,quickkart51@hdfcbank,2022-02-01,unrated
+M0052,Bharat Fuel Pvt Ltd,Fuel,Delhi,bharatfuelpvtl52@paytm,2022-08-03,unrated
+M0053,Irctc,Travel,Chennai,irctc53@ybl,2024-11-20,medium
+M0054,Kirana King & Sons,Grocery,Ahmedabad,kiranakingsons54@paytm,2022-02-20,low
+M0055,Biryani House Pvt Ltd,Food,Bengaluru,biryanihousepv55@axl,2023-11-23,unrated
+M0056,Spice Hub,Food,Delhi,spicehub56@ybl,2023-11-09,unrated
+M0057,Quickkart - Hyderabad,Ecommerce,Hyderabad,quickkarthyder57@sbi,2021-12-17,unrated
+M0058,Shopnest & Sons,Ecommerce,Mumbai,shopnestsons58@okbank,2025-07-23,unrated
+M0059,Ludo Zone - Kolkata,Gaming,Kolkata,ludozonekolkat59@sbi,2023-03-22,medium
+M0060,Water Board Pvt Ltd,Utilities,Hyderabad,waterboardpvtl60@sbi,2022-04-09,medium
+M0061,Fresh Mart - Delhi,Grocery,Delhi,freshmartdelhi61@hdfcbank,2025-07-02,medium
+M0062,Kirana King & Sons,Grocery,Lucknow,kiranakingsons62@paytm,2025-06-15,low
+M0063,Vi Store,Telecom,Jaipur,vistore63@paytm,2023-05-28,medium
+M0064,Indian Oil Pump,Fuel,Pune,indianoilpump64@paytm,2023-08-09,low
+M0065,Megabazaar Pvt Ltd,Ecommerce,Delhi,megabazaarpvtl65@icici,2025-11-19,unrated
+M0066,Biryani House Outlet,Food,Ahmedabad,biryanihouseou66@axl,2025-09-19,medium
+M0067,Fresh Mart,Grocery,Jaipur,freshmart67@okbank,2026-02-08,low
+M0068,Indian Oil Pump,Fuel,Ahmedabad,indianoilpump68@icici,2025-05-03,unrated
+M0069,Megabazaar,Ecommerce,Delhi,megabazaar69@paytm,2024-12-30,high
+M0070,Airtel Pay - Lucknow,Telecom,Lucknow,airtelpayluckn70@ybl,2022-10-17,unrated
+M0071,Indian Oil Pump Outlet,Fuel,Delhi,indianoilpumpo71@icici,2025-03-25,low
+M0072,Green Grocers & Sons,Grocery,Delhi,greengrocersso72@ybl,2025-01-27,unrated
+M0073,Voucherworld Pvt Ltd,Gift Cards,Pune,voucherworldpv73@sbi,2022-06-07,low
+M0074,Tiffin Express Outlet,Food,Hyderabad,tiffinexpresso74@icici,2024-03-12,low
+M0075,Kirana King Outlet,Grocery,Pune,kiranakingoutl75@ybl,2022-02-05,medium
+M0076,Daily Basket Pvt Ltd,Grocery,Kolkata,dailybasketpvt76@ybl,2021-12-14,medium
+M0077,Voucherworld - Delhi,Gift Cards,Delhi,voucherworldde77@hdfcbank,2025-05-21,medium
+M0078,Green Grocers & Sons,Grocery,Delhi,greengrocersso78@ybl,2025-02-21,low
+M0079,Redbus,Travel,Ahmedabad,redbus79@icici,2025-02-03,high
+M0080,Dream Arena Pvt Ltd,Gaming,Hyderabad,dreamarenapvtl80@paytm,2021-09-25,low
+M0081,Chai Point Outlet,Food,Pune,chaipointoutle81@paytm,2024-01-19,unrated
+M0082,Fresh Mart Outlet,Grocery,Ahmedabad,freshmartoutle82@ybl,2025-03-04,unrated
+M0083,Chai Point Outlet,Food,Lucknow,chaipointoutle83@okbank,2023-07-17,unrated
+M0084,Hp Petrol - Kolkata,Fuel,Kolkata,hppetrolkolkat84@okbank,2026-02-03,low
+M0085,Megabazaar Outlet,Ecommerce,Mumbai,megabazaaroutl85@ybl,2022-12-14,low
+M0086,Quickkart - Hyderabad,Ecommerce,Hyderabad,quickkarthyder86@icici,2023-01-25,medium
+M0087,Quickkart - Kolkata,Ecommerce,Kolkata,quickkartkolka87@hdfcbank,2023-12-25,unrated
+M0088,Hp Petrol Pvt Ltd,Fuel,Pune,hppetrolpvtltd88@hdfcbank,2022-09-11,low
+M0089,Biryani House,Food,Bengaluru,biryanihouse89@okbank,2025-05-24,low
+M0090,Daily Basket Pvt Ltd,Grocery,Ahmedabad,dailybasketpvt90@hdfcbank,2025-10-25,unrated
+M0091,Irctc,Travel,Hyderabad,irctc91@okbank,2023-08-07,medium
+M0092,Tiffin Express,Food,Lucknow,tiffinexpress92@hdfcbank,2026-02-01,low
+M0093,Green Grocers & Sons,Grocery,Delhi,greengrocersso93@paytm,2021-08-24,unrated
+M0094,Megabazaar - Mumbai,Ecommerce,Mumbai,megabazaarmumb94@sbi,2024-08-26,low
+M0095,Redbus & Sons,Travel,Delhi,redbussons95@axl,2022-11-30,medium
+M0096,Spice Hub & Sons,Food,Pune,spicehubsons96@paytm,2023-01-22,low
+M0097,Tiffin Express & Sons,Food,Delhi,tiffinexpresss97@ybl,2024-01-12,medium
+M0098,Spice Hub - Bengaluru,Food,Bengaluru,spicehubbengal98@okbank,2022-04-07,low
+M0099,Biryani House Outlet,Food,Lucknow,biryanihouseou99@hdfcbank,2023-06-14,medium
+M0100,Fresh Mart,Grocery,Lucknow,freshmart100@axl,2025-11-30,medium
+M0101,Fresh Mart Outlet,Grocery,Ahmedabad,freshmartoutle101@ybl,2022-12-05,unrated
+M0102,Daily Basket Pvt Ltd,Grocery,Kolkata,dailybasketpvt102@hdfcbank,2021-08-12,medium
+M0103,Quickkart Outlet,Ecommerce,Delhi,quickkartoutle103@hdfcbank,2022-07-05,medium
+M0104,Shopnest,Ecommerce,Ahmedabad,shopnest104@okbank,2024-02-07,unrated
+M0105,Megabazaar - Ahmedabad,Ecommerce,Ahmedabad,megabazaarahme105@hdfcbank,2023-08-15,low
+M0106,Redbus - Jaipur,Travel,Jaipur,redbusjaipur106@paytm,2024-03-14,unrated
+M0107,Pizza Corner Pvt Ltd,Food,Kolkata,pizzacornerpvt107@sbi,2025-05-07,medium
+M0108,Airtel Pay & Sons,Telecom,Pune,airtelpaysons108@icici,2023-09-20,unrated
+M0109,Fresh Mart - Bengaluru,Grocery,Bengaluru,freshmartbenga109@axl,2023-05-27,low
+M0110,Spice Hub Pvt Ltd,Food,Delhi,spicehubpvtltd110@okbank,2023-07-27,medium
+M0111,Megabazaar,Ecommerce,Chennai,megabazaar111@axl,2022-05-29,unrated
+M0112,Spice Hub Pvt Ltd,Food,Kolkata,spicehubpvtltd112@paytm,2025-02-10,unrated
+M0113,Tiffin Express & Sons,Food,Hyderabad,tiffinexpresss113@okbank,2024-05-15,unrated
+M0114,Jio Recharge & Sons,Telecom,Lucknow,jiorechargeson114@sbi,2026-03-07,low
+M0115,Vi Store Outlet,Telecom,Bengaluru,vistoreoutlet115@paytm,2026-01-09,unrated
+M0116,Daily Basket Pvt Ltd,Grocery,Ahmedabad,dailybasketpvt116@axl,2023-07-28,medium
+M0117,Vi Store Pvt Ltd,Telecom,Delhi,vistorepvtltd117@paytm,2023-07-30,unrated
+M0118,Hp Petrol,Fuel,Kolkata,hppetrol118@axl,2021-08-24,low
+M0119,Vi Store & Sons,Telecom,Bengaluru,vistoresons119@okbank,2025-12-01,unrated
+M0120,Tiffin Express Outlet,Food,Kolkata,tiffinexpresso120@sbi,2022-09-30,unrated
+M0121,Fantasyking - Lucknow,Gaming,Lucknow,fantasykingluc121@okbank,2023-03-02,low
+M0122,Kirana King,Grocery,Lucknow,kiranaking122@sbi,2023-06-23,low
+M0123,Quickkart & Sons,Ecommerce,Hyderabad,quickkartsons123@okbank,2022-05-21,unrated
+M0124,Airtel Pay Outlet,Telecom,Bengaluru,airtelpayoutle124@ybl,2023-05-04,unrated
+M0125,Daily Basket & Sons,Grocery,Kolkata,dailybasketson125@paytm,2022-10-02,unrated
+M0126,Spice Hub & Sons,Food,Mumbai,spicehubsons126@sbi,2026-01-29,low
+M0127,Tiffin Express & Sons,Food,Delhi,tiffinexpresss127@axl,2025-09-27,high
+M0128,Kirana King Pvt Ltd,Grocery,Hyderabad,kiranakingpvtl128@ybl,2021-08-24,unrated
+M0129,Shopnest Pvt Ltd,Ecommerce,Ahmedabad,shopnestpvtltd129@paytm,2023-12-02,low
+M0130,Kirana King & Sons,Grocery,Mumbai,kiranakingsons130@okbank,2024-10-17,unrated
+M0131,Pizza Corner,Food,Pune,pizzacorner131@axl,2025-08-17,low
+M0132,Fresh Mart,Grocery,Lucknow,freshmart132@okbank,2022-05-15,low
+M0133,Kirana King Pvt Ltd,Grocery,Hyderabad,kiranakingpvtl133@hdfcbank,2025-09-26,medium
+M0134,Indian Oil Pump Outlet,Fuel,Bengaluru,indianoilpumpo134@hdfcbank,2022-06-01,unrated
+M0135,Quickkart Outlet,Ecommerce,Mumbai,quickkartoutle135@icici,2023-03-11,medium
+M0136,Biryani House Pvt Ltd,Food,Chennai,biryanihousepv136@ybl,2025-11-21,high
+M0137,Jio Recharge Outlet,Telecom,Delhi,jiorechargeout137@paytm,2025-09-15,medium
+M0138,Kirana King Outlet,Grocery,Jaipur,kiranakingoutl138@sbi,2022-01-18,unrated
+M0139,Fantasyking Outlet,Gaming,Chennai,fantasykingout139@sbi,2023-02-23,high
+M0140,Megabazaar Pvt Ltd,Ecommerce,Delhi,megabazaarpvtl140@okbank,2025-09-30,low
+M0141,Tiffin Express Pvt Ltd,Food,Chennai,tiffinexpressp141@paytm,2025-06-07,unrated
+M0142,Tiffin Express Pvt Ltd,Food,Lucknow,tiffinexpressp142@sbi,2021-12-12,low
+M0143,Mseb Power - Kolkata,Utilities,Kolkata,msebpowerkolka143@axl,2024-07-12,high
+M0144,Redbus & Sons,Travel,Bengaluru,redbussons144@paytm,2023-05-23,high
+M0145,Fresh Mart Pvt Ltd,Grocery,Ahmedabad,freshmartpvtlt145@sbi,2025-08-14,high
+M0146,Ludo Zone Outlet,Gaming,Jaipur,ludozoneoutlet146@icici,2025-05-18,unrated
+M0147,Fresh Mart & Sons,Grocery,Lucknow,freshmartsons147@paytm,2025-12-05,low
+M0148,Irctc Outlet,Travel,Pune,irctcoutlet148@icici,2022-03-07,unrated
+M0149,Daily Basket Pvt Ltd,Grocery,Kolkata,dailybasketpvt149@hdfcbank,2023-05-15,medium
+M0150,Chai Point Outlet,Food,Kolkata,chaipointoutle150@icici,2026-04-28,unrated
+M0151,Daily Basket,Grocery,Jaipur,dailybasket151@paytm,2024-10-23,low
+M0152,Quickkart & Sons,Ecommerce,Bengaluru,quickkartsons152@sbi,2024-08-30,unrated
+M0153,Kirana King Pvt Ltd,Grocery,Lucknow,kiranakingpvtl153@paytm,2021-07-31,medium
+M0154,Daily Basket Pvt Ltd,Grocery,Kolkata,dailybasketpvt154@okbank,2022-01-15,high
+M0155,Dream Arena - Mumbai,Gaming,Mumbai,dreamarenamumb155@okbank,2023-06-07,unrated
+M0156,Irctc Outlet,Travel,Jaipur,irctcoutlet156@axl,2022-08-12,low
+M0157,Irctc Pvt Ltd,Travel,Delhi,irctcpvtltd157@ybl,2025-06-09,unrated
+M0158,Indian Oil Pump - Hyderabad,Fuel,Hyderabad,indianoilpumph158@sbi,2022-09-30,unrated
+M0159,Kirana King - Delhi,Grocery,Delhi,kiranakingdelh159@ybl,2022-02-10,unrated
+M0160,Tiffin Express,Food,Ahmedabad,tiffinexpress160@axl,2021-12-10,unrated
+M0161,Jio Recharge,Telecom,Lucknow,jiorecharge161@paytm,2021-08-01,high
+M0162,Chai Point & Sons,Food,Jaipur,chaipointsons162@sbi,2024-10-28,unrated
+M0163,Chai Point Pvt Ltd,Food,Delhi,chaipointpvtlt163@sbi,2025-01-25,medium
+M0164,Gifthub,Gift Cards,Mumbai,gifthub164@icici,2021-12-30,low
+M0165,Fantasyking - Bengaluru,Gaming,Bengaluru,fantasykingben165@icici,2026-02-04,high
+M0166,Vi Store - Bengaluru,Telecom,Bengaluru,vistorebengalu166@axl,2021-09-03,unrated
+M0167,Biryani House & Sons,Food,Mumbai,biryanihouseso167@okbank,2023-04-16,low
+M0168,Fresh Mart - Kolkata,Grocery,Kolkata,freshmartkolka168@sbi,2021-10-03,unrated
+M0169,Water Board & Sons,Utilities,Chennai,waterboardsons169@sbi,2025-04-16,unrated
+M0170,Daily Basket Pvt Ltd,Grocery,Pune,dailybasketpvt170@okbank,2023-11-24,unrated
+M0171,Megabazaar,Ecommerce,Bengaluru,megabazaar171@axl,2023-03-08,low
+M0172,Spice Hub Outlet,Food,Bengaluru,spicehuboutlet172@ybl,2022-04-19,low
+M0173,Pizza Corner,Food,Bengaluru,pizzacorner173@hdfcbank,2025-01-05,medium
+M0174,Daily Basket & Sons,Grocery,Kolkata,dailybasketson174@ybl,2023-04-25,unrated
+M0175,Green Grocers Outlet,Grocery,Pune,greengrocersou175@paytm,2025-07-05,low
+M0176,Quickkart,Ecommerce,Hyderabad,quickkart176@hdfcbank,2025-05-06,unrated
+M0177,Fresh Mart Pvt Ltd,Grocery,Ahmedabad,freshmartpvtlt177@ybl,2021-09-12,unrated
+M0178,Pizza Corner - Jaipur,Food,Jaipur,pizzacornerjai178@paytm,2026-02-01,unrated
+M0179,Pizza Corner Pvt Ltd,Food,Ahmedabad,pizzacornerpvt179@axl,2024-12-28,unrated
+M0180,Biryani House,Food,Lucknow,biryanihouse180@sbi,2023-05-02,medium
+M0181,Mseb Power,Utilities,Ahmedabad,msebpower181@paytm,2025-03-12,unrated
+M0182,Chai Point Pvt Ltd,Food,Bengaluru,chaipointpvtlt182@hdfcbank,2023-04-30,low
+M0183,Gifthub Outlet,Gift Cards,Delhi,gifthuboutlet183@paytm,2022-05-17,low
+M0184,Chai Point Outlet,Food,Ahmedabad,chaipointoutle184@ybl,2024-10-05,unrated
+M0185,Green Grocers Pvt Ltd,Grocery,Ahmedabad,greengrocerspv185@icici,2022-10-16,unrated
+M0186,Ludo Zone,Gaming,Jaipur,ludozone186@paytm,2024-03-22,low
+M0187,Fresh Mart,Grocery,Mumbai,freshmart187@icici,2026-04-25,unrated
+M0188,Shopnest Outlet,Ecommerce,Pune,shopnestoutlet188@sbi,2022-06-21,medium
+M0189,Quickkart & Sons,Ecommerce,Bengaluru,quickkartsons189@ybl,2024-10-09,medium
+M0190,Tiffin Express Pvt Ltd,Food,Pune,tiffinexpressp190@hdfcbank,2024-05-02,low
+M0191,Pizza Corner,Food,Chennai,pizzacorner191@sbi,2025-11-16,unrated
+M0192,Gas Agency - Lucknow,Utilities,Lucknow,gasagencyluckn192@axl,2024-03-21,unrated
+M0193,Indian Oil Pump,Fuel,Jaipur,indianoilpump193@paytm,2025-11-21,unrated
+M0194,Redbus Pvt Ltd,Travel,Chennai,redbuspvtltd194@hdfcbank,2024-11-07,unrated
+M0195,Shopnest - Ahmedabad,Ecommerce,Ahmedabad,shopnestahmeda195@okbank,2023-01-01,high
+M0196,Airtel Pay Outlet,Telecom,Pune,airtelpayoutle196@ybl,2021-10-30,low
+M0197,Green Grocers,Grocery,Pune,greengrocers197@okbank,2023-06-28,unrated
+M0198,Chai Point Pvt Ltd,Food,Delhi,chaipointpvtlt198@icici,2021-11-17,high
+M0199,Pizza Corner Pvt Ltd,Food,Lucknow,pizzacornerpvt199@hdfcbank,2023-12-13,medium
+M0200,Shopnest & Sons,Ecommerce,Pune,shopnestsons200@hdfcbank,2022-04-19,unrated
+M0201,Shopnest Outlet,Ecommerce,Ahmedabad,shopnestoutlet201@sbi,2023-11-01,low
+M0202,Chai Point Pvt Ltd,Food,Kolkata,chaipointpvtlt202@paytm,2025-05-03,unrated
+M0203,Vi Store - Bengaluru,Telecom,Bengaluru,vistorebengalu203@sbi,2023-12-15,low
+M0204,Shopnest Outlet,Ecommerce,Kolkata,shopnestoutlet204@axl,2024-06-10,low
+M0205,Ludo Zone & Sons,Gaming,Bengaluru,ludozonesons205@hdfcbank,2022-01-01,low
+M0206,Bharat Fuel & Sons,Fuel,Ahmedabad,bharatfuelsons206@okbank,2021-09-22,unrated
+M0207,Indian Oil Pump & Sons,Fuel,Pune,indianoilpumps207@ybl,2022-01-18,low
+M0208,Megabazaar - Ahmedabad,Ecommerce,Ahmedabad,megabazaarahme208@icici,2023-04-19,low
+M0209,Cabgo & Sons,Travel,Chennai,cabgosons209@okbank,2024-04-26,unrated
+M0210,Megabazaar,Ecommerce,Bengaluru,megabazaar210@sbi,2022-04-22,high
+M0211,Ludo Zone,Gaming,Pune,ludozone211@sbi,2022-09-14,high
+M0212,Fantasyking,Gaming,Jaipur,fantasyking212@okbank,2024-10-16,unrated
+M0213,Biryani House Outlet,Food,Chennai,biryanihouseou213@icici,2023-03-23,unrated
+M0214,Bharat Fuel Outlet,Fuel,Bengaluru,bharatfueloutl214@ybl,2022-01-17,unrated
+M0215,Jio Recharge - Pune,Telecom,Pune,jiorechargepun215@icici,2022-08-06,unrated
+M0216,Biryani House & Sons,Food,Pune,biryanihouseso216@icici,2023-03-24,high
+M0217,Airtel Pay Pvt Ltd,Telecom,Delhi,airtelpaypvtlt217@okbank,2022-11-22,medium
+M0218,Biryani House Outlet,Food,Kolkata,biryanihouseou218@sbi,2024-02-06,high
+M0219,Tiffin Express - Chennai,Food,Chennai,tiffinexpressc219@paytm,2024-06-17,medium
+M0220,Tiffin Express & Sons,Food,Bengaluru,tiffinexpresss220@axl,2022-04-05,medium
+M0221,Shopnest Outlet,Ecommerce,Pune,shopnestoutlet221@hdfcbank,2023-06-23,unrated
+M0222,Shopnest Outlet,Ecommerce,Ahmedabad,shopnestoutlet222@hdfcbank,2022-02-26,unrated
+M0223,Spice Hub & Sons,Food,Hyderabad,spicehubsons223@icici,2023-07-21,unrated
+M0224,Biryani House,Food,Chennai,biryanihouse224@hdfcbank,2025-02-06,unrated
+M0225,Fresh Mart & Sons,Grocery,Pune,freshmartsons225@axl,2024-05-01,unrated
+M0226,Water Board & Sons,Utilities,Pune,waterboardsons226@sbi,2023-12-23,low
+M0227,Mseb Power Outlet,Utilities,Jaipur,msebpoweroutle227@hdfcbank,2022-07-03,unrated
+M0228,Pizza Corner Pvt Ltd,Food,Chennai,pizzacornerpvt228@sbi,2021-12-05,unrated
+M0229,Green Grocers Pvt Ltd,Grocery,Chennai,greengrocerspv229@axl,2021-10-12,unrated
+M0230,Fresh Mart,Grocery,Mumbai,freshmart230@icici,2024-07-12,unrated
+M0231,Fresh Mart,Grocery,Ahmedabad,freshmart231@paytm,2024-05-12,unrated
+M0232,Cabgo - Ahmedabad,Travel,Ahmedabad,cabgoahmedabad232@icici,2025-03-21,low
+M0233,Green Grocers,Grocery,Lucknow,greengrocers233@sbi,2022-08-03,unrated
+M0234,Daily Basket Pvt Ltd,Grocery,Hyderabad,dailybasketpvt234@icici,2026-04-21,medium
+M0235,Hp Petrol Pvt Ltd,Fuel,Chennai,hppetrolpvtltd235@paytm,2022-05-08,medium
+M0236,Green Grocers Outlet,Grocery,Ahmedabad,greengrocersou236@hdfcbank,2022-03-22,low
+M0237,Kirana King & Sons,Grocery,Ahmedabad,kiranakingsons237@axl,2023-04-28,medium
+M0238,Green Grocers - Kolkata,Grocery,Kolkata,greengrocersko238@hdfcbank,2025-12-15,unrated
+M0239,Kirana King - Kolkata,Grocery,Kolkata,kiranakingkolk239@paytm,2022-09-24,unrated
+M0240,Daily Basket & Sons,Grocery,Lucknow,dailybasketson240@icici,2022-09-14,low
+M0241,Fresh Mart Outlet,Grocery,Delhi,freshmartoutle241@okbank,2024-05-28,medium
+M0242,Mseb Power Pvt Ltd,Utilities,Hyderabad,msebpowerpvtlt242@sbi,2024-03-03,low
+M0243,Hp Petrol Pvt Ltd,Fuel,Delhi,hppetrolpvtltd243@icici,2022-03-23,low
+M0244,Quickkart Outlet,Ecommerce,Delhi,quickkartoutle244@hdfcbank,2023-02-15,low
+M0245,Biryani House - Ahmedabad,Food,Ahmedabad,biryanihouseah245@ybl,2024-08-21,low
+M0246,Biryani House Outlet,Food,Lucknow,biryanihouseou246@axl,2022-02-16,unrated
+M0247,Kirana King Outlet,Grocery,Bengaluru,kiranakingoutl247@sbi,2025-05-28,unrated
+M0248,Vi Store Pvt Ltd,Telecom,Bengaluru,vistorepvtltd248@hdfcbank,2026-04-26,high
+M0249,Mseb Power & Sons,Utilities,Pune,msebpowersons249@okbank,2021-10-31,low
+M0250,Spice Hub - Jaipur,Food,Jaipur,spicehubjaipur250@sbi,2021-09-10,unrated
+M0251,Pizza Corner Outlet,Food,Hyderabad,pizzacornerout251@ybl,2025-05-29,high
+M0252,Tiffin Express Outlet,Food,Ahmedabad,tiffinexpresso252@hdfcbank,2025-09-08,medium
+M0253,Fantasyking Pvt Ltd,Gaming,Ahmedabad,fantasykingpvt253@paytm,2026-01-26,medium
+M0254,Bharat Fuel Pvt Ltd,Fuel,Pune,bharatfuelpvtl254@icici,2022-02-13,low
+M0255,Megabazaar Outlet,Ecommerce,Lucknow,megabazaaroutl255@paytm,2025-08-13,low
+M0256,Redbus - Chennai,Travel,Chennai,redbuschennai256@sbi,2024-04-10,unrated
+M0257,Airtel Pay - Delhi,Telecom,Delhi,airtelpaydelhi257@okbank,2022-02-21,high
+M0258,Voucherworld Outlet,Gift Cards,Mumbai,voucherworldou258@paytm,2022-09-14,low
+M0259,Bharat Fuel - Hyderabad,Fuel,Hyderabad,bharatfuelhyde259@ybl,2024-02-28,low
+M0260,Irctc & Sons,Travel,Mumbai,irctcsons260@ybl,2026-02-24,low
+M0261,Pizza Corner,Food,Lucknow,pizzacorner261@ybl,2024-07-19,medium
+M0262,Dream Arena Pvt Ltd,Gaming,Kolkata,dreamarenapvtl262@sbi,2024-08-14,unrated
+M0263,Tiffin Express Outlet,Food,Pune,tiffinexpresso263@ybl,2023-12-16,unrated
+M0264,Pizza Corner & Sons,Food,Chennai,pizzacornerson264@sbi,2021-08-09,medium
+M0265,Pizza Corner Outlet,Food,Jaipur,pizzacornerout265@okbank,2024-12-11,unrated
+M0266,Biryani House,Food,Mumbai,biryanihouse266@okbank,2025-11-12,low
+M0267,Redbus Outlet,Travel,Bengaluru,redbusoutlet267@sbi,2022-01-15,unrated
+M0268,Pizza Corner Outlet,Food,Ahmedabad,pizzacornerout268@ybl,2023-01-26,medium
+M0269,Gifthub & Sons,Gift Cards,Ahmedabad,gifthubsons269@icici,2023-12-04,low
+M0270,Fresh Mart Pvt Ltd,Grocery,Ahmedabad,freshmartpvtlt270@icici,2024-11-04,unrated
+M0271,Vi Store & Sons,Telecom,Chennai,vistoresons271@okbank,2024-07-04,unrated
+M0272,Daily Basket,Grocery,Chennai,dailybasket272@axl,2024-01-10,medium
+M0273,Daily Basket - Jaipur,Grocery,Jaipur,dailybasketjai273@paytm,2025-12-04,medium
+M0274,Chai Point & Sons,Food,Jaipur,chaipointsons274@ybl,2023-01-04,low
+M0275,Kirana King,Grocery,Kolkata,kiranaking275@axl,2025-10-24,high
+M0276,Quickkart - Delhi,Ecommerce,Delhi,quickkartdelhi276@ybl,2023-04-14,unrated
+M0277,Kirana King - Mumbai,Grocery,Mumbai,kiranakingmumb277@ybl,2022-02-22,unrated
+M0278,Quickkart - Lucknow,Ecommerce,Lucknow,quickkartluckn278@icici,2025-07-16,high
+M0279,Quickkart Pvt Ltd,Ecommerce,Delhi,quickkartpvtlt279@icici,2025-12-21,unrated
+M0280,Daily Basket Pvt Ltd,Grocery,Delhi,dailybasketpvt280@ybl,2021-12-17,medium
+M0281,Spice Hub - Hyderabad,Food,Hyderabad,spicehubhydera281@paytm,2024-03-04,high
+M0282,Shopnest - Mumbai,Ecommerce,Mumbai,shopnestmumbai282@axl,2024-06-24,unrated
+M0283,Biryani House Outlet,Food,Delhi,biryanihouseou283@axl,2023-08-13,unrated
+M0284,Fresh Mart,Grocery,Hyderabad,freshmart284@icici,2026-04-04,unrated
+M0285,Daily Basket,Grocery,Jaipur,dailybasket285@ybl,2024-02-14,unrated
+M0286,Vi Store Pvt Ltd,Telecom,Bengaluru,vistorepvtltd286@icici,2023-12-15,high
+M0287,Daily Basket - Jaipur,Grocery,Jaipur,dailybasketjai287@ybl,2024-01-14,unrated
+M0288,Pizza Corner - Delhi,Food,Delhi,pizzacornerdel288@sbi,2023-04-10,low
+M0289,Tiffin Express - Ahmedabad,Food,Ahmedabad,tiffinexpressa289@ybl,2022-09-09,unrated
+M0290,Spice Hub,Food,Lucknow,spicehub290@paytm,2025-07-08,unrated
+M0291,Tiffin Express Pvt Ltd,Food,Ahmedabad,tiffinexpressp291@paytm,2025-12-04,low
+M0292,Cabgo & Sons,Travel,Bengaluru,cabgosons292@hdfcbank,2022-01-29,unrated
+M0293,Kirana King Outlet,Grocery,Jaipur,kiranakingoutl293@sbi,2021-08-21,low
+M0294,Spice Hub - Kolkata,Food,Kolkata,spicehubkolkat294@paytm,2022-04-13,unrated
+M0295,Spice Hub - Jaipur,Food,Jaipur,spicehubjaipur295@axl,2023-07-28,low
+M0296,Gas Agency,Utilities,Pune,gasagency296@okbank,2024-03-11,low
+M0297,Spice Hub Pvt Ltd,Food,Hyderabad,spicehubpvtltd297@paytm,2022-06-16,unrated
+M0298,Mseb Power,Utilities,Jaipur,msebpower298@icici,2022-02-05,unrated
+M0299,Bharat Fuel Pvt Ltd,Fuel,Mumbai,bharatfuelpvtl299@paytm,2026-04-18,unrated
+M0300,Gas Agency,Utilities,Lucknow,gasagency300@sbi,2025-04-17,low
+M0301,Abc Traders,Gift Cards,Ahmedabad,abctraders301@ybl,2026-06-14,unrated
+M0302,Lucky Gift Zone,Gaming,Hyderabad,luckygiftzone302@ybl,2026-05-22,unrated
+M0303,Quickcash Vouchers,Gift Cards,Jaipur,quickcashvouch303@ybl,2026-06-11,unrated
