@@ -1,0 +1,1528 @@
+﻿ticket_id,created_at,cust_id,phone,txn_ref,channel,complaint_text,status,priority
+TKT-4000,2026-07-02 00:00:00,C03596,66339 47219,UPI2026000019012,twitter,need statement for last 3 months,OPEN,
+TKT-4001,2026-07-02 02:00:00,C04586,71810 06821,T0042109,branch,app not opening after update pls help,open,
+TKT-4002,2026-07-02 03:00:00,C00480,+918308829195,,twitter,"MERCHANT SAYS NOT RECEIVED, BANK SAYS SUCCESS. WHO IS RIGHT?  ",closed,
+TKT-4003,02-Jul-26 04:00,C00076,84580 98894,NULL,twitter,payment failed but money deducted!!,in progress,
+TKT-4004,02/07/2026 04:00 AM,C01278,+918109287275,T0050562,branch,transaction stuck in pending  ,Closed,
+TKT-4005,02/07/2026 05:00 AM,C01336,7564428780,txn_44821,branch,UPI pin reset not working  ,resolved,med
+TKT-4006,2026-07-02 05:00:00,C02570,95601 92074,T0059024,call_center,payment failed but money deducted pls help,in progress,low
+TKT-4007,02/07/2026 07:00 AM,C00645,9913309627,NULL,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!,reopened,low
+TKT-4008,2026-07-02 07:00:00,C03091,6758270459,T0026918,email,app not opening after update!!,resolved,
+TKT-4009,2026-07-02T02:30:00Z,,91-9050643957,N/A,twitter,cashback not received for last order!!,open,
+TKT-4010,2026-07-02 09:00:00,C03602,60595 97403,T0016611,email,PAISA KAT GAYA BUT MERCHANT BOL RAHA PAYMENT NAHI MILA!! pls help,closed,
+TKT-4011,2026-07-02 09:00:00,C04181,90956 64101,N/A,branch,need statement for last 3 months,OPEN,
+TKT-4012,2026-07-02 12:00:00,C03181,+919465448514,T0059940,call_center,need statement for last 3 months,OPEN,
+TKT-4013,2026-07-02 13:00:00,C02701,+918224303835,T0040036,call_center,transaction stuck in pending!!,in progress,low
+TKT-4014,2026-07-02 13:00:00,C03426,91-7576007124,T0018807,call_center,transaction stuck in pending,Closed,
+TKT-4015,02/07/2026 01:00 PM,,+916342202362,T0054137,app_chat,double debit for same order!!,in progress,HIGH
+TKT-4016,2026-07-02 14:00:00,C01724,7875984914,NULL,branch,app not opening after update,closed,
+TKT-4017,1782984600,C04131,+919892118977,T0058005,call_center,transaction stuck in pending,OPEN,
+TKT-4018,2026-07-02 15:00:00,C01338,91-8466207175,,branch,transaction stuck in pending,OPEN,med
+TKT-4019,02/07/2026 04:00 PM,C03211,8844114413,T0010985,branch,"merchant says not received, bank says success. who is right?",OPEN,
+TKT-4020,2026-07-02 16:00:00,C00438,9720866662,N/A,email,transaction stuck in pending,reopened,med
+TKT-4021,2026-07-02 17:00:00,C03965,9392203113,UPI2026000034919,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!,Closed,HIGH
+TKT-4022,2026-07-02 18:00:00,C00228,+916423727843,N/A,branch,"merchant says not received, bank says success. who is right?",Closed,HIGH
+TKT-4023,2026-07-02 19:00:00,C00577,91-9886602284,unknown,call_center,app not opening after update!!,open,
+TKT-4024,02-Jul-26 19:00,C01684,92803 13448,NULL,branch,DOUBLE DEBIT FOR SAME ORDER,reopened,med
+TKT-4025,2026-07-02 20:00:00,,8365558983,T0022776,email,cashback not received for last order!!,Closed,
+TKT-4026,2026-07-02 22:00:00,C02100,73180 60033,T0046997,twitter,"refund pending since 6 days, ticket #1712 reopened 3rd time",Closed,med
+TKT-4027,2026-07-02 23:00:00,C04034,8822781237,T0035631,branch,double debit for same order!!,resolved,low
+TKT-4028,2026-07-03 00:00:00,C02779,09027472498,T0010728,email,UPI pin reset not working!!,in progress,HIGH
+TKT-4029,2026-07-02T20:30:00Z,C01435,+916756108503,T0037824,twitter,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,Closed,
+TKT-4030,2026-07-03 02:00:00,C02288,6220423431,T0028830,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!  ,in progress,
+TKT-4031,2026-07-03T01:30:00Z,C03566,7812787940,T0002939,call_center,transaction stuck in pending pls help,reopened,low
+TKT-4032,2026-07-03 09:00:00,C01355,91-6871586898,T0039083,app_chat,CASHBACK NOT RECEIVED FOR LAST ORDER,Closed,
+TKT-4033,1783053000,C01317,7018306364,T0026345,email,"merchant says not received, bank says success. who is right?!!",OPEN,
+TKT-4034,2026-07-03 10:00:00,C04228,09739009574,T0005176,call_center,cashback not received for last order  ,Closed,
+TKT-4035,2026-07-03 10:00:00,C04545,7025657027,T0046628,twitter,app not opening after update!!,resolved,
+TKT-4036,03-Jul-26 11:00,C00408,6285039620,T0044950,twitter,cashback not received for last order!!,OPEN,med
+TKT-4037,1783063800,,6318060597,unknown,branch,payment failed but money deducted!!,resolved,
+TKT-4038,2026-07-03 16:00:00,C04406,7884078751,NULL,branch,need statement for last 3 months,resolved,
+TKT-4039,1783081800,C04142,+918906187129,T0030825,call_center,"REFUND PENDING SINCE 8 DAYS, TICKET #2060 REOPENED 4RD TIME pls help",closed,low
+TKT-4040,03/07/2026 09:00 PM,,8891182559,UPI2026000044396,app_chat,double debit for same order pls help,closed,
+TKT-4041,03/07/2026 09:00 PM,,7012136241,,twitter,payment failed but money deducted,resolved,med
+TKT-4042,2026-07-03 22:00:00,C03063,60263 38270,UPI2026000021204,app_chat,UPI pin reset not working!!,closed,
+TKT-4043,2026-07-03T18:30:00Z,C00081,6333840628,T0058699,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!,Closed,
+TKT-4044,04-Jul-26 01:00,C02340,07883473480,N/A,branch,need statement for last 3 months  ,open,med
+TKT-4045,2026-07-04 03:00:00,C00301,9667272039,UPI2026000022916,branch,app not opening after update,Closed,
+TKT-4046,2026-07-04 04:00:00,C02912,6744875289,T0060217,app_chat,cashback not received for last order!!,closed,low
+TKT-4047,1783125000,C02337,9317384791,NULL,email,payment failed but money deducted,OPEN,
+TKT-4048,2026-07-04 07:00:00,,7666845190,T0025294,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!,closed,
+TKT-4049,04/07/2026 10:00 AM,C03750,74864 07790,T0042652,branch,cashback not received for last order pls help,OPEN,
+TKT-4050,04/07/2026 12:00 PM,C03018,7908286875,NULL,app_chat,app not opening after update,OPEN,med
+TKT-4051,04/07/2026 04:00 PM,C03488,90886 04822,T0007310,twitter,cashback not received for last order,OPEN,HIGH
+TKT-4052,04/07/2026 06:00 PM,C04095,6930621711,txn_10245,app_chat,need statement for last 3 months,reopened,
+TKT-4053,2026-07-05 02:00:00,,91-8558640944,T0043648,branch,UPI pin reset not working pls help,closed,
+TKT-4054,2026-07-05 04:00:00,C02998,8677606985,T0003752,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!,closed,
+TKT-4055,05-Jul-26 04:00,C02839,73686 91728,UPI2026000044431,call_center,app not opening after update pls help,OPEN,
+TKT-4056,05/07/2026 05:00 AM,C04206,74957 62364,T0050505,email,paisa kat gaya but merchant bol raha payment nahi mila!!!!,closed,low
+TKT-4057,05/07/2026 06:00 AM,,6806111099,,branch,need statement for last 3 months  ,resolved,HIGH
+TKT-4058,2026-07-05 06:00:00,C03161,91-7894052564,UPI2026000033898,email,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,open,
+TKT-4059,2026-07-05 07:00:00,C04506,6883928389,T0039503,call_center,app not opening after update  ,Closed,
+TKT-4060,2026-07-05T01:30:00Z,,8896956047,T0056440,branch,"refund pending since 6 days, ticket #1216 reopened 3rd time",reopened,
+TKT-4061,2026-07-05 11:00:00,C02561,7829451252,T0025345,call_center,cashback not received for last order,open,low
+TKT-4062,05/07/2026 02:00 PM,,9996866771,UPI2026000021040,email,app not opening after update,closed,med
+TKT-4063,2026-07-05 17:00:00,C00847,72573 32935,N/A,email,UPI pin reset not working  ,closed,low
+TKT-4064,2026-07-05 21:00:00,,7181990715,T0012460,app_chat,need statement for last 3 months!!,closed,
+TKT-4065,2026-07-05 23:00:00,C04598,6321432959,T0032740,app_chat,"merchant says not received, bank says success. who is right?  ",resolved,
+TKT-4066,06-Jul-26 02:00,,8151019717,UPI2026000015183,branch,double debit for same order!!,closed,low
+TKT-4067,2026-07-06 04:00:00,C04142,8906187129,NULL,app_chat,app not opening after update  ,reopened,med
+TKT-4068,06-Jul-26 04:00,C00517,+919453601055,T0021881,call_center,DOUBLE DEBIT FOR SAME ORDER,reopened,
+TKT-4069,2026-07-06 06:00:00,C02583,06001793633,T0037165,app_chat,payment failed but money deducted,resolved,
+TKT-4070,2026-07-06T01:30:00Z,,+917620131432,T0039168,app_chat,transaction stuck in pending,open,low
+TKT-4071,2026-07-06T03:30:00Z,C02078,91-8766355708,T0019729,branch,"UNAUTHORISED TRANSACTIONS, I NEVER ADDED THESE BENEFICIARIES. TOTAL LOSS ₹37,765 pls help",in progress,
+TKT-4072,2026-07-06 09:00:00,C00312,6105105024,T0020070,call_center,app not opening after update,OPEN,
+TKT-4073,06/07/2026 01:00 PM,C01346,9972920235,,twitter,"merchant says not received, bank says success. who is right?  ",OPEN,
+TKT-4074,2026-07-06 13:00:00,C02568,+917160574934,T0054754,branch,payment failed but money deducted,Closed,HIGH
+TKT-4075,2026-07-06 13:00:00,C03690,6938873114,txn_42423,email,"merchant says not received, bank says success. who is right?",in progress,med
+TKT-4076,06/07/2026 01:00 PM,C01192,08345487591,N/A,twitter,"merchant says not received, bank says success. who is right?",open,
+TKT-4077,2026-07-06T07:30:00Z,C04800,6980128245,T0042268,call_center,"REFUND PENDING SINCE 20 DAYS, TICKET #2790 REOPENED 3RD TIME!!",Closed,HIGH
+TKT-4078,2026-07-06 18:00:00,C01617,7537298630,,branch,transaction stuck in pending,closed,
+TKT-4079,2026-07-06T12:30:00Z,C00620,+919381993282,N/A,twitter,payment failed but money deducted,Closed,
+TKT-4080,1783355400,,6142519824,,branch,transaction stuck in pending,closed,
+TKT-4081,2026-07-06 22:00:00,C02181,9411691946,N/A,branch,"refund pending since 11 days, ticket #1840 reopened 2rd time",reopened,HIGH
+TKT-4082,2026-07-06T17:30:00Z,C03379,+919740654171,unknown,call_center,"online shopping page se order kiya, ₹8,800 diye, ab seller reply nahi kar raha  ",in progress,
+TKT-4083,2026-07-06T18:30:00Z,C03011,9896044575,T0055411,call_center,transaction stuck in pending  ,reopened,
+TKT-4084,2026-07-07 02:00:00,,+919410306043,T0016935,email,PAYMENT FAILED BUT MONEY DEDUCTED,resolved,HIGH
+TKT-4085,07/07/2026 02:00 AM,C03186,91-6973825887,T0008267,call_center,transaction stuck in pending pls help,OPEN,HIGH
+TKT-4086,2026-07-07 06:00:00,C03163,76324 80121,T0053674,branch,UPI pin reset not working,reopened,HIGH
+TKT-4087,2026-07-07T00:30:00Z,C01252,7990924833,T0058962,call_center,app not opening after update,reopened,
+TKT-4088,2026-07-07 06:00:00,C02278,06745547265,T0028032,app_chat,double debit for same order  ,open,
+TKT-4089,2026-07-07 08:00:00,C04312,9856003184,T0056804,branch,"sim card stopped working, got alerts for payments to unknown ids",closed,
+TKT-4090,1783391400,C00159,+918313287095,T0001998,branch,UPI pin reset not working,closed,
+TKT-4091,2026-07-07 11:00:00,C03912,06635910109,txn_51171,branch,paisa kat gaya but merchant bol raha payment nahi mila!!,OPEN,
+TKT-4092,2026-07-07 12:00:00,C03616,+919212208871,T0040812,call_center,"refund pending since 15 days, ticket #6016 reopened 2rd time!!",Closed,
+TKT-4093,07/07/2026 04:00 PM,C04349,9725279604,T0011210,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!,reopened,HIGH
+TKT-4094,2026-07-07 18:00:00,C02717,8042257316,T0027354,email,need statement for last 3 months!!,reopened,
+TKT-4095,2026-07-07 21:00:00,C04839,8607890848,T0003458,branch,cashback not received for last order  ,open,med
+TKT-4096,08-Jul-26 00:00,C01638,7473405759,T0059096,twitter,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,OPEN,
+TKT-4097,2026-07-07T18:30:00Z,C01513,9918256638,T0025993,call_center,NEED STATEMENT FOR LAST 3 MONTHS!!,resolved,low
+TKT-4098,1783449000,C00529,8672019678,T0032582,app_chat,app not opening after update!!,closed,
+TKT-4099,2026-07-08 01:00:00,C00479,8018927628,unknown,call_center,UPI pin reset not working!!,Closed,HIGH
+TKT-4100,08-Jul-26 04:00,C03906,07037681927,T0038395,branch,"refund pending since 17 days, ticket #2112 reopened 5rd time",in progress,med
+TKT-4101,2026-07-08 05:00:00,,8726289345,T0025927,app_chat,need statement for last 3 months,Closed,low
+TKT-4102,2026-07-08 07:00:00,C04513,7071557022,UPI2026000058035,twitter,"REFUND PENDING SINCE 10 DAYS, TICKET #4313 REOPENED 5RD TIME  ",OPEN,low
+TKT-4103,2026-07-08 07:00:00,C01042,91-9527083577,NULL,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!,Closed,med
+TKT-4104,2026-07-08 09:00:00,C01711,91-8738504720,T0043128,email,need statement for last 3 months,Closed,med
+TKT-4105,1783488600,C04576,91-7010178634,T0043959,email,app not opening after update!!,in progress,
+TKT-4106,2026-07-08 13:00:00,C01599,7662378418,T0019947,email,paisa kat gaya but merchant bol raha payment nahi mila!!,OPEN,low
+TKT-4107,2026-07-08 20:00:00,C03401,7815800771,T0000791,branch,double debit for same order  ,closed,HIGH
+TKT-4108,2026-07-08 21:00:00,C00956,91-9118348092,,call_center,upi pin reset not working pls help,OPEN,HIGH
+TKT-4109,2026-07-08 22:00:00,C04762,9811167447,T0022832,twitter,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,open,HIGH
+TKT-4110,2026-07-08 23:00:00,C01417,9496196487,T0054175,twitter,payment failed but money deducted pls help,closed,
+TKT-4111,1783539000,,66213 39678,T0023789,app_chat,"refund pending since 15 days, ticket #1527 reopened 5rd time",OPEN,HIGH
+TKT-4112,2026-07-09 02:00:00,C04091,06113689872,UPI2026000045229,email,double debit for same order pls help,OPEN,HIGH
+TKT-4113,2026-07-09 02:00:00,C00468,91-7490724338,unknown,app_chat,payment failed but money deducted  ,reopened,low
+TKT-4114,2026-07-09 03:00:00,C04927,09560491312,T0042278,email,paisa kat gaya but merchant bol raha payment nahi mila!!  ,resolved,low
+TKT-4115,09/07/2026 04:00 AM,C01042,9527083577,UPI2026000047778,email,app not opening after update!!,reopened,HIGH
+TKT-4116,2026-07-09 05:00:00,C01599,7662378418,UPI2026000022993,app_chat,app not opening after update,reopened,low
+TKT-4117,09-Jul-26 09:00,C04069,+918734538027,UPI2026000004679,twitter,"online shopping page se order kiya, 13k diye, ab seller reply nahi kar raha  ",reopened,
+TKT-4118,09/07/2026 12:00 PM,C02994,+918161855854,T0037161,email,"refund pending since 16 days, ticket #2653 reopened 4rd time!!",Closed,
+TKT-4119,2026-07-09 13:00:00,C03745,6442655165,,call_center,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,resolved,med
+TKT-4120,2026-07-09 13:00:00,C04666,+916142519824,UPI2026000051006,twitter,payment failed but money deducted!!,OPEN,
+TKT-4121,2026-07-09T07:30:00Z,C04127,9072707756,T0019999,email,cashback not received for last order,open,med
+TKT-4122,2026-07-09 15:00:00,C02132,7722503536,unknown,app_chat,payment failed but money deducted,reopened,
+TKT-4123,09/07/2026 03:00 PM,,8566737457,,app_chat,need statement for last 3 months  ,open,low
+TKT-4124,2026-07-09 17:00:00,C03695,6929893066,T0022298,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!,reopened,med
+TKT-4125,2026-07-09 18:00:00,C02940,8248943563,T0042607,app_chat,double debit for same order,OPEN,low
+TKT-4126,2026-07-09 20:00:00,C04023,+918269150738,N/A,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!!!,resolved,HIGH
+TKT-4127,1783614600,,9307944184,T0027091,email,need statement for last 3 months!!,open,med
+TKT-4128,2026-07-09 23:00:00,C04556,91-6445901407,,app_chat,need statement for last 3 months!!,open,HIGH
+TKT-4129,2026-07-10 00:00:00,C03305,6849094883,UPI2026000035401,app_chat,payment failed but money deducted pls help,closed,
+TKT-4130,10/07/2026 01:00 AM,C04011,9153813266,NULL,app_chat,"i got a request to 'receive' money, approved it and paid 21900 rs instead  ",open,med
+TKT-4131,2026-07-10 03:00:00,C01424,90015 27923,NULL,app_chat,double debit for same order  ,OPEN,low
+TKT-4132,2026-07-10 05:00:00,C02466,+917026580839,T0029197,call_center,"fake KYC call aaya tha, usne OTP maanga, mere account se ₹34,700 kat gaye",resolved,med
+TKT-4133,1783647000,C04915,+919028261525,,call_center,"merchant says not received, bank says success. who is right? pls help",open,med
+TKT-4134,2026-07-10 08:00:00,C03853,8891644528,T0021867,app_chat,transaction stuck in pending  ,reopened,low
+TKT-4135,2026-07-10 10:00:00,C03196,+916411586917,NULL,call_center,need statement for last 3 months,open,med
+TKT-4136,2026-07-10 12:00:00,,6973825887,NULL,email,double debit for same order,in progress,HIGH
+TKT-4137,2026-07-10 13:00:00,C00654,8575505569,UPI2026000027182,branch,paisa kat gaya but merchant bol raha payment nahi mila!!  ,resolved,
+TKT-4138,2026-07-10 16:00:00,C02940,8248943563,NULL,email,app not opening after update pls help,OPEN,
+TKT-4139,10-Jul-26 19:00,C00898,91-9355683598,T0015136,email,"refund pending since 15 days, ticket #4145 reopened 4rd time pls help",resolved,
+TKT-4140,2026-07-10 20:00:00,,6157699215,T0052224,app_chat,need statement for last 3 months,closed,
+TKT-4141,2026-07-10T14:30:00Z,C03843,+917776522603,,call_center,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,OPEN,
+TKT-4142,2026-07-10 21:00:00,C04195,+917052191169,unknown,call_center,app not opening after update,Closed,low
+TKT-4143,2026-07-10 22:00:00,,83771 43857,T0029123,branch,"paid 13k to seller on instagram, blocked me after payment",in progress,
+TKT-4144,1783704600,C00684,6593993263,,email,"merchant says not received, bank says success. who is right? pls help",in progress,
+TKT-4145,2026-07-10 23:00:00,C02518,8279048195,T0033144,app_chat,PAYMENT FAILED BUT MONEY DEDUCTED,open,low
+TKT-4146,1783708200,C03672,79215 14277,T0037108,app_chat,"refund pending since 4 days, ticket #6841 reopened 2rd time pls help",OPEN,
+TKT-4147,11-Jul-26 00:00,C00382,6750347430,T0018334,call_center,"refund pending since 14 days, ticket #7090 reopened 2rd time",in progress,med
+TKT-4148,2026-07-11 01:00:00,C00554,6011036226,T0052604,email,transaction stuck in pending pls help,resolved,
+TKT-4149,2026-07-11 02:00:00,C02111,6955778589,T0034694,call_center,payment failed but money deducted,reopened,
+TKT-4150,2026-07-11 03:00:00,,93705 95934,unknown,twitter,PAYMENT FAILED BUT MONEY DEDUCTED!!,reopened,low
+TKT-4151,2026-07-11 04:00:00,C04188,7199113018,T0041428,twitter,UPI pin reset not working  ,in progress,
+TKT-4152,11/07/2026 05:00 AM,C00435,91-6933446419,unknown,call_center,transaction stuck in pending pls help,resolved,med
+TKT-4153,11-Jul-26 11:00,C03754,06625385077,T0024371,email,CASHBACK NOT RECEIVED FOR LAST ORDER pls help,reopened,
+TKT-4154,11/07/2026 12:00 PM,C03186,+916973825887,T0008270,call_center,double debit for same order!!,Closed,HIGH
+TKT-4155,11/07/2026 03:00 PM,,08565666743,,email,"refund pending since 10 days, ticket #1356 reopened 5rd time",reopened,
+TKT-4156,2026-07-11 17:00:00,C02130,6394386831,T0037515,twitter,"refund pending since 8 days, ticket #7267 reopened 2rd time",resolved,
+TKT-4157,11-Jul-26 19:00,C00937,6778459753,,twitter,"merchant says not received, bank says success. who is right? pls help",open,
+TKT-4158,2026-07-11 20:00:00,C01343,7442461754,,branch,CASHBACK NOT RECEIVED FOR LAST ORDER!!,open,
+TKT-4159,2026-07-11 20:00:00,C03173,69387 96085,,call_center,double debit for same order,resolved,med
+TKT-4160,11/07/2026 08:00 PM,C03324,91-9467964013,T0030994,app_chat,UPI pin reset not working  ,in progress,med
+TKT-4161,1783783800,C01174,+919084999622,N/A,email,need statement for last 3 months pls help,open,med
+TKT-4162,12-Jul-26 00:00,C00996,91-8791120957,,call_center,"online shopping page se order kiya, ₹6,400 diye, ab seller reply nahi kar raha!!",OPEN,low
+TKT-4163,12/07/2026 12:00 AM,C02704,8406267559,T0035733,branch,"merchant says not received, bank says success. who is right?",reopened,med
+TKT-4164,2026-07-12 01:00:00,C01824,7150482960,N/A,branch,UPI pin reset not working pls help,reopened,
+TKT-4165,2026-07-12 01:00:00,C03673,+919113726303,T0002129,call_center,"refund pending since 19 days, ticket #1269 reopened 5rd time  ",resolved,low
+TKT-4166,12/07/2026 02:00 AM,,8362597639,,branch,payment failed but money deducted,Closed,HIGH
+TKT-4167,2026-07-12 02:00:00,C02830,6779651760,T0008938,call_center,double debit for same order  ,open,HIGH
+TKT-4168,2026-07-12 03:00:00,C04753,9940629170,T0039414,app_chat,payment failed but money deducted!!,in progress,med
+TKT-4169,1783809000,,7440674698,txn_47257,email,"sim card stopped working, got alerts for payments to unknown ids!!",resolved,low
+TKT-4170,2026-07-12 05:00:00,,7566263823,T0057636,call_center,"got call from 'bank officer', shared otp, 17000 rs gone. pls block!!",open,
+TKT-4171,12-Jul-26 07:00,C04895,6079819175,UPI2026000011678,call_center,"refund pending since 10 days, ticket #7295 reopened 3rd time",reopened,
+TKT-4172,12-Jul-26 08:00,C03633,7437644836,NULL,email,double debit for same order,OPEN,med
+TKT-4173,1783834200,C03229,8389818375,unknown,twitter,"refund pending since 4 days, ticket #7180 reopened 2rd time",resolved,HIGH
+TKT-4174,2026-07-12 13:00:00,C02563,07212841495,T0027595,call_center,PAISA KAT GAYA BUT MERCHANT BOL RAHA PAYMENT NAHI MILA!!  ,open,
+TKT-4175,2026-07-12 14:00:00,C00813,8362990034,UPI2026000044695,branch,"COLLECT REQUEST APPROVE KIYA, PAISA MILA NAHI BALKI KAT GAYA 10600 RS pls help",reopened,low
+TKT-4176,2026-07-12 14:00:00,C01678,7160881800,N/A,branch,need statement for last 3 months!!,reopened,HIGH
+TKT-4177,2026-07-12 14:00:00,C00322,+917853567465,unknown,email,double debit for same order,in progress,HIGH
+TKT-4178,2026-07-12 16:00:00,C00382,6750347430,NULL,call_center,transaction stuck in pending pls help,in progress,
+TKT-4179,12/07/2026 05:00 PM,C01706,91-7473744438,,app_chat,PAYMENT FAILED BUT MONEY DEDUCTED!!,resolved,
+TKT-4180,12-Jul-26 18:00,,+916685721953,T0053050,app_chat,"merchant says not received, bank says success. who is right?",OPEN,
+TKT-4181,2026-07-12 18:00:00,C03427,7766944172,T0017429,branch,payment failed but money deducted,OPEN,med
+TKT-4182,2026-07-12 19:00:00,C01993,+918489098998,T0025960,twitter,"paid 6k to seller on instagram, blocked me after payment  ",Closed,HIGH
+TKT-4183,2026-07-12 21:00:00,C02000,91-8127799645,,call_center,payment failed but money deducted!!,reopened,low
+TKT-4184,2026-07-12 21:00:00,C01731,91-7082253083,T0037406,twitter,double debit for same order,reopened,med
+TKT-4185,13/07/2026 12:00 AM,C04463,6536988200,T0036771,app_chat,cashback not received for last order  ,resolved,med
+TKT-4186,13-Jul-26 01:00,C01346,09972920235,unknown,email,cashback not received for last order pls help,closed,low
+TKT-4187,2026-07-13 01:00:00,,6784595901,NULL,twitter,cashback not received for last order!!,in progress,
+TKT-4188,2026-07-13 01:00:00,C02086,7263690184,T0042292,call_center,APP NOT OPENING AFTER UPDATE,reopened,HIGH
+TKT-4189,2026-07-13 05:00:00,C01157,86715 28099,NULL,app_chat,"online shopping page se order kiya, 14500 rs diye, ab seller reply nahi kar raha",open,
+TKT-4190,2026-07-13T01:30:00Z,C01684,9280313448,N/A,email,cashback not received for last order pls help,OPEN,low
+TKT-4191,13/07/2026 08:00 AM,C00669,+916445090468,T0009380,email,"online shopping page se order kiya, ₹19,100 diye, ab seller reply nahi kar raha",closed,
+TKT-4192,2026-07-13 08:00:00,C02982,6878233654,T0018013,twitter,"merchant says not received, bank says success. who is right?",Closed,low
+TKT-4193,2026-07-13 09:00:00,C03976,8275156940,UPI2026000029162,call_center,cashback not received for last order  ,open,HIGH
+TKT-4194,2026-07-13T04:30:00Z,C03837,9316814466,T0059026,branch,cashback not received for last order  ,resolved,low
+TKT-4195,2026-07-13 11:00:00,C04210,6591448420,T0024471,twitter,app not opening after update,in progress,low
+TKT-4196,13/07/2026 12:00 PM,C00342,9726423859,T0005539,app_chat,"fake KYC call aaya tha, usne OTP maanga, mere account se ₹32,400 kat gaye",OPEN,
+TKT-4197,2026-07-13 12:00:00,C01679,9941096085,T0024217,email,transaction stuck in pending,reopened,med
+TKT-4198,13-Jul-26 13:00,C01271,91-6398791210,T0029343,email,"merchant says not received, bank says success. who is right?",Closed,low
+TKT-4199,13-Jul-26 13:00,C01702,91-8283011678,txn_32857,call_center,"refund pending since 6 days, ticket #4528 reopened 4rd time pls help",open,
+TKT-4200,2026-07-13 14:00:00,C02073,8325088572,,app_chat,payment failed but money deducted,open,HIGH
+TKT-4201,2026-07-13 15:00:00,,+916264941554,UPI2026000051435,call_center,"got call from 'bank officer', shared OTP, 18k gone. pls block",OPEN,
+TKT-4202,2026-07-13 17:00:00,,9738279922,T0015384,call_center,cashback not received for last order!!,open,
+TKT-4203,2026-07-13 17:00:00,C01836,91-8111259004,T0017409,branch,APP NOT OPENING AFTER UPDATE,reopened,
+TKT-4204,2026-07-13 18:00:00,C00999,+918971221597,T0047076,twitter,UPI pin reset not working pls help,Closed,HIGH
+TKT-4205,2026-07-13 21:00:00,,09832448194,T0035844,app_chat,transaction stuck in pending  ,resolved,HIGH
+TKT-4206,2026-07-13 22:00:00,C00425,8412006643,unknown,call_center,"merchant says not received, bank says success. who is right?",open,
+TKT-4207,1783963800,C03867,6174392994,T0001781,email,payment failed but money deducted,Closed,low
+TKT-4208,2026-07-13 23:00:00,C02843,09603961886,T0034361,branch,payment failed but money deducted pls help,OPEN,low
+TKT-4209,1783963800,C00642,8106875933,T0034513,branch,UPI pin reset not working  ,reopened,
+TKT-4210,14/07/2026 04:00 AM,C03373,9590579752,T0021994,twitter,need statement for last 3 months!!,closed,
+TKT-4211,2026-07-14 04:00:00,C02127,6989761945,T0046014,twitter,PAISA KAT GAYA BUT MERCHANT BOL RAHA PAYMENT NAHI MILA!!!!,closed,med
+TKT-4212,14/07/2026 05:00 AM,C04937,80859 26341,T0037236,branch,UPI pin reset not working pls help,open,
+TKT-4213,14/07/2026 06:00 AM,,9317384791,T0048506,twitter,need statement for last 3 months,open,low
+TKT-4214,1783992600,,79150 24386,T0050748,app_chat,app not opening after update pls help,open,low
+TKT-4215,1783992600,C02214,9345369425,T0040570,email,paisa kat gaya but merchant bol raha payment nahi mila!!,in progress,
+TKT-4216,2026-07-14 10:00:00,C02127,69897 61945,T0035443,email,paisa kat gaya but merchant bol raha payment nahi mila!!!!,resolved,low
+TKT-4217,2026-07-14 11:00:00,C03650,8699830087,T0045349,app_chat,"i got a request to 'receive' money, approved it and paid ₹2,800 instead",Closed,
+TKT-4218,2026-07-14 13:00:00,,07450470654,T0022924,app_chat,"refund pending since 18 days, ticket #2673 reopened 3rd time!!",closed,med
+TKT-4219,14/07/2026 03:00 PM,,8999452973,T0024819,email,"refund pending since 9 days, ticket #9323 reopened 3rd time!!",in progress,low
+TKT-4220,14/07/2026 04:00 PM,C03003,6247342053,unknown,twitter,transaction stuck in pending  ,OPEN,
+TKT-4221,2026-07-14 17:00:00,,8298642341,T0019307,branch,need statement for last 3 months pls help,resolved,
+TKT-4222,2026-07-14 18:00:00,C03974,+917592905423,T0054332,twitter,app not opening after update pls help,OPEN,HIGH
+TKT-4223,1784043000,C02636,7769385665,T0060301,email,transaction stuck in pending pls help,resolved,
+TKT-4224,2026-07-14T16:30:00Z,C04106,6569804190,T0038440,twitter,cashback not received for last order pls help,Closed,med
+TKT-4225,1784053800,,6700411979,N/A,branch,NEED STATEMENT FOR LAST 3 MONTHS pls help,OPEN,med
+TKT-4226,1784075400,C03097,+917021947233,N/A,branch,"refund pending since 6 days, ticket #3855 reopened 2rd time pls help",open,
+TKT-4227,1784079000,C04148,+916307369571,,branch,double debit for same order,in progress,med
+TKT-4228,2026-07-15 08:00:00,C04479,8896956047,,branch,cashback not received for last order,closed,
+TKT-4229,15/07/2026 12:00 PM,C01745,91-6595220625,T0018452,email,paisa kat gaya but merchant bol raha payment nahi mila!!!!,reopened,
+TKT-4230,2026-07-15 14:00:00,C00396,7754940482,T0024263,call_center,"fake KYC call aaya tha, usne OTP maanga, mere account se ₹34,700 kat gaye  ",open,
+TKT-4231,2026-07-15 14:00:00,C01977,91-6839716576,T0006814,twitter,"someone called saying card blocked, i gave otp. 75400 rs debited!!",resolved,
+TKT-4232,2026-07-15 14:00:00,C04157,6299209703,unknown,app_chat,UPI pin reset not working!!,resolved,low
+TKT-4233,2026-07-15 14:00:00,,6744875289,T0022823,branch,need statement for last 3 months,resolved,med
+TKT-4234,15/07/2026 03:00 PM,C00742,+918529321913,T0001066,twitter,app not opening after update,closed,low
+TKT-4235,2026-07-15 16:00:00,C00483,7201609917,N/A,email,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,open,HIGH
+TKT-4236,2026-07-15 17:00:00,C02940,8248943563,N/A,twitter,"multiple small charges on my card i dont recognise, then one big of 11800 rs  ",OPEN,
+TKT-4237,1784115000,C02165,09467359224,T0037758,email,"refund pending since 9 days, ticket #5727 reopened 5rd time pls help",open,low
+TKT-4238,2026-07-15 19:00:00,C02548,09765884813,T0002689,email,need statement for last 3 months pls help,closed,low
+TKT-4239,2026-07-15 23:00:00,C03440,8307772123,,twitter,"refund pending since 16 days, ticket #4619 reopened 5rd time!!",reopened,HIGH
+TKT-4240,2026-07-15 23:00:00,C02525,72769 70789,txn_60350,app_chat,"merchant says not received, bank says success. who is right?",in progress,HIGH
+TKT-4241,2026-07-16 00:00:00,C03402,09347587438,,email,"refund pending since 7 days, ticket #7206 reopened 3rd time",resolved,med
+TKT-4242,16/07/2026 01:00 AM,C00140,6074184092,N/A,email,need statement for last 3 months!!,closed,HIGH
+TKT-4243,2026-07-16 03:00:00,C02156,91-8686338744,unknown,app_chat,"merchant says not received, bank says success. who is right?",in progress,
+TKT-4244,2026-07-16 03:00:00,,+918652121305,,twitter,APP NOT OPENING AFTER UPDATE!!,Closed,HIGH
+TKT-4245,2026-07-15T23:30:00Z,C03531,09050163107,T0015041,app_chat,payment failed but money deducted,resolved,HIGH
+TKT-4246,2026-07-16 05:00:00,C03020,76383 45801,T0036676,branch,PAYMENT FAILED BUT MONEY DEDUCTED pls help,closed,med
+TKT-4247,2026-07-16 05:00:00,C04829,9314309270,T0021679,call_center,app not opening after update  ,OPEN,low
+TKT-4248,16/07/2026 05:00 AM,,+919762658027,T0050033,email,app not opening after update!!,Closed,low
+TKT-4249,2026-07-16 08:00:00,C04507,+918894750098,T0058285,twitter,"fake KYC call aaya tha, usne OTP maanga, mere account se 90400 rs kat gaye",OPEN,low
+TKT-4250,2026-07-16 08:00:00,C02283,91-7620131432,T0041872,branch,app not opening after update!!,open,
+TKT-4251,2026-07-16 15:00:00,C01158,6684104360,unknown,call_center,"refund pending since 18 days, ticket #8858 reopened 4rd time pls help",OPEN,HIGH
+TKT-4252,2026-07-16 18:00:00,C03186,6973825887,,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!,Closed,HIGH
+TKT-4253,1784208600,C00593,83995 02663,T0027764,twitter,app not opening after update,open,HIGH
+TKT-4254,2026-07-16T17:30:00Z,C03934,9782243620,,twitter,payment failed but money deducted  ,reopened,HIGH
+TKT-4255,2026-07-17 00:00:00,,+916138436941,T0045882,email,need statement for last 3 months!!,open,
+TKT-4256,2026-07-16T20:30:00Z,C01340,91-6762825609,T0051287,email,"MERCHANT SAYS NOT RECEIVED, BANK SAYS SUCCESS. WHO IS RIGHT?",resolved,
+TKT-4257,2026-07-16T21:30:00Z,C00408,62850 39620,T0029937,email,paisa kat gaya but merchant bol raha payment nahi mila!!,in progress,
+TKT-4258,2026-07-17 07:00:00,C03014,86070 28748,UPI2026000016259,app_chat,need statement for last 3 months pls help,in progress,
+TKT-4259,17/07/2026 08:00 AM,C04420,+919019937106,T0018621,twitter,UPI pin reset not working pls help,reopened,low
+TKT-4260,2026-07-17 09:00:00,C04079,8927945515,N/A,call_center,"unauthorised transactions, i never added these beneficiaries. total loss 19k",Closed,
+TKT-4261,2026-07-17 09:00:00,,9816644174,N/A,branch,"merchant says not received, bank says success. who is right?!!",open,low
+TKT-4262,2026-07-17 13:00:00,C03495,9590100240,T0005671,email,"refund pending since 19 days, ticket #1936 reopened 5rd time!!",resolved,
+TKT-4263,17/07/2026 05:00 PM,C04435,06786670474,T0008056,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!,resolved,med
+TKT-4264,2026-07-17 21:00:00,C04057,6326874045,T0048243,branch,cashback not received for last order,reopened,
+TKT-4265,2026-07-17 21:00:00,C03796,88449 49931,unknown,email,UPI pin reset not working pls help,in progress,HIGH
+TKT-4266,2026-07-18 01:00:00,C03158,+916644931307,T0052628,call_center,transaction stuck in pending,open,
+TKT-4267,18/07/2026 03:00 AM,C04510,9796930697,T0038369,branch,"merchant says not received, bank says success. who is right?!!",open,HIGH
+TKT-4268,2026-07-18 04:00:00,C00065,8655329029,unknown,call_center,"merchant says not received, bank says success. who is right?",resolved,low
+TKT-4269,18/07/2026 05:00 AM,,08432046671,T0002775,app_chat,need statement for last 3 months,in progress,
+TKT-4270,2026-07-18 06:00:00,C03977,91-8323559431,T0004032,twitter,PAYMENT FAILED BUT MONEY DEDUCTED,Closed,HIGH
+TKT-4271,2026-07-18 07:00:00,C01127,+916281409620,UPI2026000059711,email,"refund pending since 16 days, ticket #4486 reopened 4rd time",resolved,
+TKT-4272,2026-07-18 07:00:00,C02522,7603314162,NULL,app_chat,DOUBLE DEBIT FOR SAME ORDER  ,resolved,med
+TKT-4273,2026-07-18 08:00:00,C02650,07641824091,N/A,branch,app not opening after update!!,open,med
+TKT-4274,2026-07-18 09:00:00,C00806,60190 75377,T0010101,email,"online shopping page se order kiya, 9k diye, ab seller reply nahi kar raha pls help",open,
+TKT-4275,18-Jul-26 09:00,C03506,72095 98597,N/A,call_center,UPI pin reset not working  ,Closed,
+TKT-4276,1784352600,C01392,91-6600973563,,branch,UPI PIN RESET NOT WORKING pls help,reopened,low
+TKT-4277,2026-07-18 12:00:00,C04042,6223167866,T0014628,twitter,UPI pin reset not working!!,in progress,
+TKT-4278,2026-07-18 13:00:00,C02479,62025 01379,T0037638,branch,UPI pin reset not working pls help,in progress,
+TKT-4279,18/07/2026 02:00 PM,C00525,+917438753976,T0042370,email,double debit for same order pls help,in progress,low
+TKT-4280,2026-07-18 14:00:00,C02592,88253 43839,UPI2026000047534,twitter,"refund pending since 15 days, ticket #1007 reopened 4rd time  ",OPEN,
+TKT-4281,2026-07-18 17:00:00,,8791120957,T0058915,branch,double debit for same order  ,Closed,med
+TKT-4282,2026-07-18 22:00:00,C01863,6667585727,N/A,email,UPI pin reset not working  ,resolved,med
+TKT-4283,2026-07-18 23:00:00,C01427,07885450111,T0030370,twitter,"refund pending since 15 days, ticket #6127 reopened 2rd time  ",Closed,low
+TKT-4284,2026-07-19 00:00:00,C01583,9071235085,T0056873,email,UPI PIN RESET NOT WORKING,reopened,
+TKT-4285,2026-07-19 00:00:00,C04804,9727750259,N/A,email,cashback not received for last order,reopened,med
+TKT-4286,2026-07-19 00:00:00,C01644,69030 76025,,app_chat,app not opening after update,Closed,
+TKT-4287,2026-07-19 02:00:00,C04110,91-9213097478,T0004838,branch,"ONLINE SHOPPING PAGE SE ORDER KIYA, 14K DIYE, AB SELLER REPLY NAHI KAR RAHA  ",open,
+TKT-4288,19/07/2026 03:00 AM,C03281,6661197897,,branch,"merchant says not received, bank says success. who is right?",closed,
+TKT-4289,19/07/2026 03:00 AM,C04223,6436820160,T0044610,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!,open,
+TKT-4290,2026-07-19 03:00:00,C04005,9397891213,NULL,twitter,double debit for same order,Closed,low
+TKT-4291,19/07/2026 06:00 AM,C04258,7893077396,NULL,twitter,"unauthorised transactions, i never added these beneficiaries. total loss 23k",Closed,med
+TKT-4292,19/07/2026 06:00 AM,C01636,65492 97665,T0045095,app_chat,UPI pin reset not working!!,reopened,med
+TKT-4293,2026-07-19 06:00:00,C04339,08940188471,T0044504,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!,closed,
+TKT-4294,1784424600,C03777,+917654398133,T0051327,app_chat,double debit for same order  ,in progress,
+TKT-4295,1784424600,C01929,8555012098,T0024757,email,"merchant says not received, bank says success. who is right?",Closed,med
+TKT-4296,2026-07-19 09:00:00,C04360,64212 69151,NULL,branch,transaction stuck in pending!!,OPEN,med
+TKT-4297,1784435400,C02143,+918859093092,T0022603,branch,payment failed but money deducted pls help,in progress,med
+TKT-4298,1784439000,C01222,+917701969756,T0033941,call_center,"refund pending since 14 days, ticket #7888 reopened 2rd time",Closed,low
+TKT-4299,2026-07-19 13:00:00,C00249,06060910110,T0058870,branch,double debit for same order,OPEN,
+TKT-4300,19-Jul-26 13:00,C04248,8726289345,,call_center,UPI pin reset not working,Closed,
+TKT-4301,2026-07-19 14:00:00,C02671,91-8840939688,T0054049,call_center,"merchant says not received, bank says success. who is right?  ",closed,
+TKT-4302,19/07/2026 02:00 PM,C03003,06247342053,T0049271,branch,paisa kat gaya but merchant bol raha payment nahi mila!!  ,reopened,
+TKT-4303,2026-07-19 14:00:00,,91-6134108053,T0059200,email,cashback not received for last order  ,reopened,
+TKT-4304,19-Jul-26 15:00,C02605,6742588401,T0008932,email,"online shopping page se order kiya, 13200 rs diye, ab seller reply nahi kar raha  ",resolved,
+TKT-4305,2026-07-19 15:00:00,,91-8391023779,N/A,branch,cashback not received for last order pls help,resolved,
+TKT-4306,2026-07-19 17:00:00,C03272,+917239894929,T0033933,twitter,cashback not received for last order!!,resolved,med
+TKT-4307,19/07/2026 07:00 PM,C01109,9087468416,T0001461,call_center,transaction stuck in pending,OPEN,med
+TKT-4308,1784467800,C01828,8646557257,T0045667,email,UPI pin reset not working,Closed,low
+TKT-4309,2026-07-19 21:00:00,C00112,9228140445,T0012312,email,"merchant says not received, bank says success. who is right?",Closed,med
+TKT-4310,2026-07-20 02:00:00,C00810,7108982589,T0021815,email,double debit for same order!!,OPEN,
+TKT-4311,2026-07-20 02:00:00,C00119,6035001447,,branch,payment failed but money deducted,resolved,
+TKT-4312,1784496600,C02189,7578189573,T0033542,twitter,payment failed but money deducted!!,Closed,
+TKT-4313,2026-07-20 04:00:00,C04479,8896956047,T0042648,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!,Closed,low
+TKT-4314,20/07/2026 05:00 AM,C01144,+919710516082,T0035859,email,"sim card stopped working, got alerts for payments to unknown ids  ",resolved,HIGH
+TKT-4315,2026-07-20 07:00:00,C01355,6871586898,UPI2026000048046,call_center,transaction stuck in pending  ,in progress,med
+TKT-4316,2026-07-20 07:00:00,C01458,91-7010115571,T0039217,app_chat,need statement for last 3 months pls help,in progress,low
+TKT-4317,20/07/2026 09:00 AM,C02952,+918207327076,T0013047,call_center,payment failed but money deducted pls help,resolved,
+TKT-4318,20-Jul-26 10:00,C02416,91-9473278679,T0049905,app_chat,transaction stuck in pending pls help,open,
+TKT-4319,20/07/2026 10:00 AM,C02604,+919351665853,T0060591,app_chat,app not opening after update pls help,Closed,
+TKT-4320,20/07/2026 11:00 AM,C03479,7176090561,,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,open,
+TKT-4321,1784532600,C02167,6583212936,T0004867,email,transaction stuck in pending,in progress,med
+TKT-4322,20/07/2026 02:00 PM,C03390,88996 53513,T0002374,twitter,app not opening after update pls help,Closed,HIGH
+TKT-4323,2026-07-20 16:00:00,C02609,75803 75317,T0053312,app_chat,cashback not received for last order!!,resolved,HIGH
+TKT-4324,2026-07-20 17:00:00,C04294,91-6083355935,T0050742,email,cashback not received for last order pls help,OPEN,
+TKT-4325,2026-07-20 18:00:00,C01336,+917564428780,T0060903,twitter,payment failed but money deducted!!,resolved,
+TKT-4326,2026-07-20 19:00:00,C02827,9371986797,T0006598,email,transaction stuck in pending  ,reopened,HIGH
+TKT-4327,20/07/2026 08:00 PM,,+918740329042,T0025338,call_center,payment failed but money deducted,resolved,low
+TKT-4328,2026-07-20 20:00:00,,06703646828,N/A,app_chat,transaction stuck in pending,resolved,
+TKT-4329,20/07/2026 10:00 PM,C04990,9362376475,unknown,app_chat,transaction stuck in pending  ,open,med
+TKT-4330,2026-07-21 01:00:00,C00202,8490971022,T0043901,email,double debit for same order,OPEN,
+TKT-4331,2026-07-21 02:00:00,C02427,7367969641,,email,payment failed but money deducted,closed,
+TKT-4332,21-Jul-26 03:00,C03953,07869539764,T0056713,branch,APP NOT OPENING AFTER UPDATE pls help,Closed,
+TKT-4333,2026-07-21 06:00:00,C03343,91-9372567533,unknown,app_chat,UPI PIN RESET NOT WORKING pls help,closed,
+TKT-4334,2026-07-21 07:00:00,,+917826374477,T0017082,call_center,"refund pending since 4 days, ticket #1017 reopened 2rd time!!",closed,
+TKT-4335,2026-07-21 08:00:00,C04870,91-7658819724,UPI2026000060015,twitter,APP NOT OPENING AFTER UPDATE!!,reopened,
+TKT-4336,2026-07-21 14:00:00,C02979,91-8660228240,T0059280,call_center,"got call from 'bank officer', shared OTP, 80900 rs gone. pls block  ",Closed,low
+TKT-4337,2026-07-21T12:30:00Z,C03363,91-9506030898,T0020906,call_center,UPI PIN RESET NOT WORKING pls help,OPEN,
+TKT-4338,21-Jul-26 22:00,C01134,91-7499732658,,twitter,cashback not received for last order  ,OPEN,low
+TKT-4339,21-Jul-26 23:00,,8603270143,NULL,app_chat,"sim card stopped working, got alerts for payments to unknown ids",reopened,med
+TKT-4340,2026-07-22 01:00:00,C00166,08137580564,T0019298,branch,cashback not received for last order!!,resolved,med
+TKT-4341,2026-07-22T01:30:00Z,C00675,8165101163,unknown,email,"merchant says not received, bank says success. who is right?",OPEN,low
+TKT-4342,2026-07-22 10:00:00,,91-9532081225,T0029897,twitter,app not opening after update,Closed,med
+TKT-4343,2026-07-22T05:30:00Z,C01380,6733522229,T0030230,app_chat,transaction stuck in pending  ,resolved,
+TKT-4344,1784698200,C01168,91-7830555382,T0020042,branch,need statement for last 3 months,in progress,
+TKT-4345,22-Jul-26 11:00,C02207,+916905494528,T0005163,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!  ,open,low
+TKT-4346,2026-07-22 12:00:00,C03626,9715733212,T0011645,email,double debit for same order  ,open,low
+TKT-4347,2026-07-22 12:00:00,C01890,7675378202,,app_chat,UPI pin reset not working!!,reopened,low
+TKT-4348,2026-07-22 13:00:00,C00427,+918132062688,,app_chat,transaction stuck in pending  ,open,
+TKT-4349,22/07/2026 06:00 PM,C03900,09053310268,T0012408,branch,payment failed but money deducted,closed,
+TKT-4350,2026-07-22 19:00:00,,06749508569,N/A,call_center,CASHBACK NOT RECEIVED FOR LAST ORDER,Closed,med
+TKT-4351,2026-07-22 20:00:00,C01749,+916640584020,unknown,email,"merchant says not received, bank says success. who is right? pls help",resolved,low
+TKT-4352,2026-07-22 20:00:00,C01936,91-6330328185,NULL,email,paisa kat gaya but merchant bol raha payment nahi mila!!  ,Closed,
+TKT-4353,2026-07-22 20:00:00,C03937,+917474351838,T0038737,twitter,TRANSACTION STUCK IN PENDING,closed,low
+TKT-4354,22/07/2026 08:00 PM,C03770,+917197700457,N/A,twitter,need statement for last 3 months  ,in progress,low
+TKT-4355,2026-07-23 05:00:00,,6189232346,T0046873,app_chat,cashback not received for last order  ,Closed,
+TKT-4356,23/07/2026 06:00 AM,C01995,9393787348,N/A,twitter,cashback not received for last order pls help,reopened,
+TKT-4357,23-Jul-26 06:00,C04248,08726289345,NULL,branch,app not opening after update  ,Closed,low
+TKT-4358,23/07/2026 09:00 AM,C04765,7046787661,unknown,email,cashback not received for last order  ,closed,
+TKT-4359,2026-07-23T03:30:00Z,C04315,73754 72336,T0024834,email,app not opening after update pls help,resolved,
+TKT-4360,2026-07-23 11:00:00,C01855,91-8689413927,T0027471,app_chat,"merchant says not received, bank says success. who is right?!!",closed,HIGH
+TKT-4361,23-Jul-26 15:00,C01098,7039578203,T0050684,twitter,app not opening after update!!,open,
+TKT-4362,2026-07-23T09:30:00Z,,91-6706021825,T0056396,branch,"merchant says not received, bank says success. who is right?",resolved,HIGH
+TKT-4363,23-Jul-26 19:00,C00345,9362659033,N/A,app_chat,UPI pin reset not working,closed,
+TKT-4364,23/07/2026 07:00 PM,C03570,8944132532,,branch,"merchant says not received, bank says success. who is right?",Closed,
+TKT-4365,2026-07-23 21:00:00,C02259,07878830420,T0031738,email,"unauthorised transactions, i never added these beneficiaries. total loss ₹34,833",in progress,
+TKT-4366,23/07/2026 10:00 PM,C02479,6202501379,T0042868,call_center,UPI pin reset not working pls help,open,med
+TKT-4367,23-Jul-26 22:00,C02791,66962 77425,,branch,UPI pin reset not working  ,closed,HIGH
+TKT-4368,2026-07-23 23:00:00,C02291,9996866771,NULL,app_chat,app not opening after update,OPEN,HIGH
+TKT-4369,2026-07-24 01:00:00,,+918190209672,NULL,app_chat,"refund pending since 14 days, ticket #9198 reopened 5rd time",in progress,med
+TKT-4370,2026-07-24 02:00:00,C03156,95900 52913,unknown,call_center,double debit for same order pls help,resolved,HIGH
+TKT-4371,2026-07-24 03:00:00,C03745,06442655165,T0030172,branch,UPI pin reset not working!!,OPEN,
+TKT-4372,2026-07-24 04:00:00,,6165284142,,email,"someone called saying card blocked, i gave otp. ₹42,900 debited!!",closed,med
+TKT-4373,2026-07-24 04:00:00,C00874,7820711401,,email,UPI pin reset not working,in progress,
+TKT-4374,2026-07-24 07:00:00,C00127,+917214345559,T0017343,twitter,"refund pending since 14 days, ticket #5890 reopened 3rd time  ",OPEN,med
+TKT-4375,2026-07-24 09:00:00,C00643,8089190882,T0058359,branch,"refund pending since 14 days, ticket #1157 reopened 4rd time  ",closed,
+TKT-4376,2026-07-24T03:30:00Z,,+918500782501,,branch,"refund pending since 5 days, ticket #4031 reopened 2rd time",OPEN,med
+TKT-4377,2026-07-24 09:00:00,C00447,91-6696473259,NULL,twitter,need statement for last 3 months,resolved,
+TKT-4378,2026-07-24 10:00:00,,+916211129202,N/A,branch,"sim card stopped working, got alerts for payments to unknown ids!!",open,med
+TKT-4379,24/07/2026 12:00 PM,C01301,7918572600,T0042527,call_center,payment failed but money deducted,resolved,med
+TKT-4380,1784885400,C04644,06068922082,UPI2026000006940,branch,app not opening after update,open,
+TKT-4381,2026-07-24 18:00:00,C01056,+918086610560,,email,need statement for last 3 months,OPEN,
+TKT-4382,2026-07-24 22:00:00,C03162,+917295542823,unknown,twitter,need statement for last 3 months,Closed,HIGH
+TKT-4383,2026-07-24 23:00:00,,6849094883,T0012598,branch,need statement for last 3 months!!,OPEN,HIGH
+TKT-4384,1784921400,C00274,67388 78041,T0052826,app_chat,"merchant says not received, bank says success. who is right?  ",closed,
+TKT-4385,25/07/2026 03:00 AM,C03848,94088 03897,NULL,branch,cashback not received for last order,OPEN,HIGH
+TKT-4386,2026-07-25 04:00:00,C02310,9528310076,,email,app not opening after update,closed,med
+TKT-4387,2026-07-25 04:00:00,C03264,8365558983,N/A,call_center,app not opening after update pls help,closed,med
+TKT-4388,1784935800,C00882,96120 65590,T0048364,email,payment failed but money deducted,reopened,
+TKT-4389,2026-07-25 07:00:00,C04004,6098819085,T0015007,twitter,payment failed but money deducted  ,open,low
+TKT-4390,2026-07-25 09:00:00,C00264,7497651057,NULL,app_chat,transaction stuck in pending pls help,closed,
+TKT-4391,2026-07-25T05:30:00Z,C03664,7074469168,UPI2026000047773,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!,reopened,HIGH
+TKT-4392,2026-07-25 12:00:00,C03993,+918159583132,N/A,email,need statement for last 3 months!!,closed,HIGH
+TKT-4393,2026-07-25T07:30:00Z,C03658,+916319286695,,email,"merchant says not received, bank says success. who is right? pls help",Closed,
+TKT-4394,1784964600,C03219,91-6352359651,T0034926,branch,need statement for last 3 months,Closed,
+TKT-4395,25/07/2026 02:00 PM,,6958575127,T0044234,twitter,"refund pending since 7 days, ticket #8191 reopened 4rd time pls help",reopened,low
+TKT-4396,25/07/2026 03:00 PM,C01144,+919710516082,T0035862,call_center,cashback not received for last order,in progress,
+TKT-4397,25/07/2026 03:00 PM,,9972243880,T0051250,branch,double debit for same order,Closed,med
+TKT-4398,2026-07-25 16:00:00,C04337,8198873011,N/A,branch,app not opening after update,closed,med
+TKT-4399,2026-07-25 18:00:00,C04747,9931857462,T0058022,branch,transaction stuck in pending  ,open,
+TKT-4400,25/07/2026 06:00 PM,,78840 78751,N/A,app_chat,UPI pin reset not working!!,resolved,low
+TKT-4401,2026-07-25T13:30:00Z,C03107,+916069265762,T0004787,email,need statement for last 3 months  ,open,HIGH
+TKT-4402,25-Jul-26 19:00,C04231,+919037504131,T0033354,app_chat,need statement for last 3 months,in progress,
+TKT-4403,2026-07-25 20:00:00,C00014,7008495500,T0035920,app_chat,"merchant says not received, bank says success. who is right?",closed,
+TKT-4404,1784993400,C03888,6429553864,T0009123,email,"online shopping page se order kiya, 18k diye, ab seller reply nahi kar raha",in progress,
+TKT-4405,2026-07-25 21:00:00,C04005,9397891213,NULL,branch,payment failed but money deducted pls help,resolved,HIGH
+TKT-4406,25/07/2026 09:00 PM,C01241,7607352466,T0009832,email,paisa kat gaya but merchant bol raha payment nahi mila!!,OPEN,
+TKT-4407,26/07/2026 02:00 AM,C02883,7611740965,,email,"got call from 'bank officer', shared OTP, 93700 rs gone. pls block",closed,med
+TKT-4408,2026-07-26 06:00:00,C01349,9684657852,T0033251,app_chat,"merchant says not received, bank says success. who is right?",Closed,HIGH
+TKT-4409,2026-07-26 07:00:00,,91-9317384791,unknown,email,paisa kat gaya but merchant bol raha payment nahi mila!!  ,resolved,
+TKT-4410,26-Jul-26 08:00,C03955,7466988404,,email,need statement for last 3 months,resolved,med
+TKT-4411,2026-07-26 11:00:00,C04010,7580256657,T0033944,app_chat,"unauthorised transactions, i never added these beneficiaries. total loss ₹27,331 pls help",closed,
+TKT-4412,2026-07-26 11:00:00,,7915341721,,twitter,NEED STATEMENT FOR LAST 3 MONTHS pls help,closed,
+TKT-4413,2026-07-26 13:00:00,C03134,7122697999,,branch,payment failed but money deducted  ,Closed,
+TKT-4414,2026-07-26 18:00:00,C03651,7444883277,T0029767,email,upi pin reset not working  ,in progress,
+TKT-4415,26/07/2026 07:00 PM,C01987,6316008984,T0056947,branch,"someone called saying card blocked, i gave otp. 46000 rs debited!!  ",OPEN,med
+TKT-4416,2026-07-26 20:00:00,C02352,6380922763,NULL,app_chat,"merchant says not received, bank says success. who is right?",in progress,
+TKT-4417,2026-07-26 20:00:00,C04888,7459088072,,twitter,payment failed but money deducted  ,Closed,med
+TKT-4418,26/07/2026 10:00 PM,C02570,9560192074,UPI2026000007843,app_chat,"i got a request to 'receive' money, approved it and paid 24k instead  ",reopened,med
+TKT-4419,2026-07-26 23:00:00,,6098819085,T0015016,twitter,payment failed but money deducted  ,closed,low
+TKT-4420,26-Jul-26 23:00,C04740,9488389946,T0056100,call_center,CASHBACK NOT RECEIVED FOR LAST ORDER pls help,OPEN,HIGH
+TKT-4421,2026-07-27 02:00:00,C03140,8069208555,UPI2026000033853,twitter,double debit for same order,resolved,
+TKT-4422,2026-07-27 03:00:00,C00330,9196074953,T0044530,app_chat,"i got a request to 'receive' money, approved it and paid 14k instead  ",closed,
+TKT-4423,2026-07-26T21:30:00Z,C04789,8683142318,T0003576,app_chat,cashback not received for last order,in progress,
+TKT-4424,2026-07-27 03:00:00,C00593,+918399502663,T0049108,email,"merchant says not received, bank says success. who is right? pls help",Closed,med
+TKT-4425,2026-07-27 05:00:00,C00075,9775411680,T0034907,branch,APP NOT OPENING AFTER UPDATE pls help,open,low
+TKT-4426,2026-07-27T02:30:00Z,C01699,8202461388,UPI2026000019841,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!!!,open,
+TKT-4427,2026-07-27 11:00:00,C01878,6362639447,,twitter,PAISA KAT GAYA BUT MERCHANT BOL RAHA PAYMENT NAHI MILA!!,open,HIGH
+TKT-4428,2026-07-27 12:00:00,C04320,8298642341,T0001236,twitter,"MERCHANT SAYS NOT RECEIVED, BANK SAYS SUCCESS. WHO IS RIGHT?",open,med
+TKT-4429,2026-07-27T08:30:00Z,C03207,6003950923,,branch,transaction stuck in pending  ,resolved,
+TKT-4430,27/07/2026 03:00 PM,C03077,+919800184572,,twitter,"online shopping page se order kiya, 12500 rs diye, ab seller reply nahi kar raha pls help",resolved,HIGH
+TKT-4431,27/07/2026 06:00 PM,C00525,7438753976,T0018772,branch,transaction stuck in pending pls help,reopened,
+TKT-4432,27/07/2026 06:00 PM,C02143,91-8859093092,T0011599,app_chat,cashback not received for last order!!,in progress,
+TKT-4433,27-Jul-26 18:00,C03310,7207995603,unknown,email,double debit for same order,reopened,
+TKT-4434,1785159000,C04092,+916494412748,NULL,branch,"merchant says not received, bank says success. who is right?!!",reopened,
+TKT-4435,2026-07-27 21:00:00,C01815,91-8690384692,T0026690,email,UPI PIN RESET NOT WORKING,reopened,
+TKT-4436,27/07/2026 09:00 PM,C04181,9095664101,T0040014,twitter,"REFUND PENDING SINCE 16 DAYS, TICKET #7128 REOPENED 4RD TIME",in progress,HIGH
+TKT-4437,27/07/2026 09:00 PM,C03689,6590636984,UPI2026000015202,branch,need statement for last 3 months  ,reopened,
+TKT-4438,2026-07-27 22:00:00,C01793,91-8187492785,UPI2026000032105,app_chat,app not opening after update!!,OPEN,HIGH
+TKT-4439,27-Jul-26 23:00,C02004,86199 13591,unknown,app_chat,need statement for last 3 months,reopened,
+TKT-4440,2026-07-28 00:00:00,C03983,+919255289624,,app_chat,transaction stuck in pending,OPEN,HIGH
+TKT-4441,1785180600,C03144,7290720681,NULL,twitter,payment failed but money deducted pls help,Closed,
+TKT-4442,28/07/2026 01:00 AM,C02881,07532706199,T0026633,email,UPI pin reset not working,in progress,HIGH
+TKT-4443,2026-07-28 02:00:00,C02525,7276970789,T0011648,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!,in progress,HIGH
+TKT-4444,2026-07-28 05:00:00,C00892,90430 05119,UPI2026000017576,app_chat,cashback not received for last order,OPEN,
+TKT-4445,28/07/2026 09:00 AM,C02559,+918743418047,UPI2026000019585,call_center,"refund pending since 11 days, ticket #9222 reopened 5rd time",in progress,
+TKT-4446,2026-07-28 13:00:00,,6239554485,T0020771,branch,payment failed but money deducted,closed,med
+TKT-4447,2026-07-28 15:00:00,C04798,9526522340,unknown,email,"ONLINE SHOPPING PAGE SE ORDER KIYA, ₹16,400 DIYE, AB SELLER REPLY NAHI KAR RAHA!!",resolved,
+TKT-4448,2026-07-28 15:00:00,C02505,77393 42622,T0021276,email,"merchant says not received, bank says success. who is right?",open,HIGH
+TKT-4449,2026-07-28 17:00:00,C03912,66359 10109,,app_chat,"refund pending since 6 days, ticket #3125 reopened 3rd time!!",Closed,
+TKT-4450,2026-07-28 18:00:00,C02830,+916779651760,UPI2026000056929,twitter,double debit for same order pls help,Closed,low
+TKT-4451,2026-07-28 18:00:00,C02706,6318379892,NULL,call_center,"refund pending since 10 days, ticket #7199 reopened 5rd time  ",OPEN,med
+TKT-4452,2026-07-28 18:00:00,,9923511548,T0012435,branch,"merchant says not received, bank says success. who is right?",OPEN,
+TKT-4453,2026-07-28 19:00:00,C02057,+916898525816,T0049914,email,"got call from 'bank officer', shared OTP, 62900 rs gone. pls block  ",in progress,
+TKT-4454,1785245400,C03325,8650459435,T0010323,app_chat,double debit for same order pls help,OPEN,
+TKT-4455,2026-07-28 20:00:00,C00905,91-9918159470,T0042232,call_center,cashback not received for last order!!,resolved,med
+TKT-4456,2026-07-28 20:00:00,C00878,6440007315,T0004375,twitter,transaction stuck in pending!!,resolved,med
+TKT-4457,2026-07-28 20:00:00,C04491,84628 69663,T0003870,app_chat,"refund pending since 15 days, ticket #5351 reopened 2rd time",closed,med
+TKT-4458,2026-07-28 21:00:00,C02432,9823288069,,call_center,"sim card stopped working, got alerts for payments to unknown ids!!",Closed,low
+TKT-4459,2026-07-29 00:00:00,C03545,6881632166,,twitter,double debit for same order pls help,Closed,med
+TKT-4460,29/07/2026 01:00 AM,C04752,91-6980362866,,email,payment failed but money deducted!!,Closed,low
+TKT-4461,2026-07-29 04:00:00,C03745,6442655165,N/A,branch,UPI pin reset not working pls help,Closed,
+TKT-4462,2026-07-29 06:00:00,C03380,88271 07691,T0016228,app_chat,"refund pending since 19 days, ticket #6230 reopened 4rd time",open,low
+TKT-4463,29/07/2026 07:00 AM,C01725,6740165396,T0049311,call_center,payment failed but money deducted!!,reopened,
+TKT-4464,2026-07-29 08:00:00,C03819,9692389803,T0012501,twitter,need statement for last 3 months  ,OPEN,
+TKT-4465,2026-07-29 09:00:00,C01660,7959821896,,email,double debit for same order  ,open,
+TKT-4466,1785299400,,+916137502141,T0026069,call_center,payment failed but money deducted  ,Closed,
+TKT-4467,2026-07-29 10:00:00,C02794,91-8244499406,N/A,call_center,payment failed but money deducted,resolved,
+TKT-4468,2026-07-29 10:00:00,,9218779479,T0048242,branch,"merchant says not received, bank says success. who is right?!!",open,
+TKT-4469,29-Jul-26 13:00,C00645,9913309627,UPI2026000035166,app_chat,"sim card stopped working, got alerts for payments to unknown ids pls help",in progress,med
+TKT-4470,2026-07-29T08:30:00Z,C01215,+917997815437,T0034488,branch,"sim card stopped working, got alerts for payments to unknown ids  ",in progress,
+TKT-4471,2026-07-29 14:00:00,C01664,9967539235,NULL,branch,UPI pin reset not working,in progress,
+TKT-4472,2026-07-29 15:00:00,C01775,8752808550,T0007782,call_center,need statement for last 3 months,reopened,
+TKT-4473,29/07/2026 03:00 PM,C03946,8454889536,NULL,app_chat,cashback not received for last order,open,
+TKT-4474,2026-07-29 17:00:00,C04639,9787261476,UPI2026000025328,branch,"fake kyc call aaya tha, usne otp maanga, mere account se ₹35,100 kat gaye!!",in progress,
+TKT-4475,1785328200,C02746,+918758527708,T0055764,email,"got call from 'bank officer', shared OTP, 32900 rs gone. pls block  ",in progress,med
+TKT-4476,2026-07-29 20:00:00,C01100,09463184540,T0017825,email,need statement for last 3 months  ,Closed,
+TKT-4477,2026-07-29 22:00:00,C00253,97929 43795,T0003568,app_chat,transaction stuck in pending,resolved,
+TKT-4478,2026-07-30 01:00:00,C02863,8818783672,T0037014,twitter,app not opening after update  ,in progress,
+TKT-4479,2026-07-30 02:00:00,C02947,7499149433,N/A,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!  ,Closed,
+TKT-4480,2026-07-30 04:00:00,C01879,8377892890,UPI2026000025899,app_chat,"merchant says not received, bank says success. who is right?",open,
+TKT-4481,30/07/2026 06:00 AM,C02536,+918808580232,T0037753,app_chat,"refund pending since 20 days, ticket #4973 reopened 4rd time  ",reopened,
+TKT-4482,2026-07-30 06:00:00,C00099,9282521720,unknown,twitter,"refund pending since 3 days, ticket #6493 reopened 4rd time",in progress,med
+TKT-4483,2026-07-30 07:00:00,C00329,+917135088354,T0035885,email,"my phone suddenly lost network, then 38k was transferred without my knowledge  ",OPEN,
+TKT-4484,30-Jul-26 07:00,C01683,91-8455657073,,call_center,payment failed but money deducted,in progress,
+TKT-4485,30/07/2026 10:00 AM,C03602,60595 97403,T0040408,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!,reopened,HIGH
+TKT-4486,2026-07-30 19:00:00,C02109,91-6384614241,unknown,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!  ,reopened,
+TKT-4487,1785421800,C03509,91-9370978067,T0051492,branch,double debit for same order,open,low
+TKT-4488,2026-07-30 20:00:00,C02828,+916599621404,,call_center,need statement for last 3 months,open,low
+TKT-4489,2026-07-30 22:00:00,C01406,8067256914,,branch,"online shopping page se order kiya, 19400 rs diye, ab seller reply nahi kar raha",in progress,
+TKT-4490,1785429000,C01415,8644433843,T0012717,email,payment failed but money deducted!!,open,HIGH
+TKT-4491,2026-07-31 02:00:00,C03956,07935122165,T0004739,app_chat,"paid 10000 rs to seller on instagram, blocked me after payment  ",closed,HIGH
+TKT-4492,2026-07-31 05:00:00,,08719311268,T0004024,call_center,cashback not received for last order,reopened,
+TKT-4493,2026-07-31 05:00:00,C01878,6362639447,NULL,twitter,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,open,
+TKT-4494,1785454200,C03488,9088604822,T0024895,branch,"merchant says not received, bank says success. who is right?  ",reopened,med
+TKT-4495,2026-07-31 07:00:00,C03686,6402985243,NULL,email,double debit for same order  ,OPEN,HIGH
+TKT-4496,2026-07-31 07:00:00,C00933,8734309157,unknown,app_chat,transaction stuck in pending  ,reopened,
+TKT-4497,1785461400,C00279,6335161173,T0038325,twitter,need statement for last 3 months!!,closed,low
+TKT-4498,2026-07-31 08:00:00,,91-6209925143,T0059407,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!  ,OPEN,
+TKT-4499,2026-07-31 08:00:00,C04716,8749670863,T0013566,app_chat,UPI pin reset not working!!,open,HIGH
+TKT-4500,31-Jul-26 09:00,C03799,6506059741,T0023130,email,"merchant says not received, bank says success. who is right?  ",resolved,med
+TKT-4501,2026-07-31T04:30:00Z,C04331,89495 52752,N/A,twitter,cashback not received for last order,OPEN,
+TKT-4502,2026-07-31 12:00:00,C02962,7137832871,T0048070,twitter,transaction stuck in pending,Closed,
+TKT-4503,2026-07-31 13:00:00,C01665,91-9755927847,unknown,branch,paisa kat gaya but merchant bol raha payment nahi mila!!,resolved,low
+TKT-4504,31/07/2026 02:00 PM,C04082,06882368577,,email,need statement for last 3 months pls help,OPEN,
+TKT-4505,2026-07-31 17:00:00,C01549,06030014881,UPI2026000005546,app_chat,payment failed but money deducted!!,OPEN,HIGH
+TKT-4506,2026-07-31 18:00:00,C04905,08229448322,T0019327,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!  ,open,
+TKT-4507,2026-07-31 18:00:00,C04360,06421269151,T0050780,call_center,"refund pending since 17 days, ticket #4499 reopened 2rd time  ",resolved,low
+TKT-4508,2026-07-31 19:00:00,C02821,7893549363,,branch,"paid ₹5,200 to seller on instagram, blocked me after payment",open,HIGH
+TKT-4509,2026-07-31T13:30:00Z,C03596,6633947219,,twitter,UPI pin reset not working  ,closed,
+TKT-4510,2026-07-31T14:30:00Z,C04302,+918555943159,T0012784,twitter,"merchant says not received, bank says success. who is right?",open,
+TKT-4511,2026-07-31 20:00:00,C01269,7635398358,T0012243,app_chat,transaction stuck in pending pls help,reopened,HIGH
+TKT-4512,1785522600,C04890,+917256363367,NULL,twitter,need statement for last 3 months,OPEN,HIGH
+TKT-4513,2026-08-01 01:00:00,C00049,7246116364,N/A,email,paisa kat gaya but merchant bol raha payment nahi mila!!  ,closed,HIGH
+TKT-4514,2026-08-01 03:00:00,C00316,9860407642,UPI2026000014087,twitter,double debit for same order pls help,reopened,med
+TKT-4515,2026-08-01 03:00:00,C04872,98582 88775,T0031318,email,"MERCHANT SAYS NOT RECEIVED, BANK SAYS SUCCESS. WHO IS RIGHT?  ",OPEN,med
+TKT-4516,2026-08-01 06:00:00,,9712889854,T0036260,email,"merchant says not received, bank says success. who is right?",Closed,
+TKT-4517,01-Aug-26 06:00,C02481,9917995232,T0059428,email,need statement for last 3 months,Closed,low
+TKT-4518,2026-08-01 08:00:00,C03063,06026338270,T0012866,twitter,"merchant says not received, bank says success. who is right?",Closed,HIGH
+TKT-4519,2026-08-01 09:00:00,C01792,+918105901342,T0010065,branch,cashback not received for last order,in progress,
+TKT-4520,2026-08-01 09:00:00,C02807,71657 01792,T0035030,app_chat,cashback not received for last order pls help,resolved,HIGH
+TKT-4521,2026-08-01 11:00:00,C03579,8946118084,T0039814,email,payment failed but money deducted!!,open,
+TKT-4522,2026-08-01 12:00:00,C02068,8040503465,T0011179,call_center,need statement for last 3 months,resolved,med
+TKT-4523,01-Aug-26 13:00,C04399,94335 68331,T0047770,email,"i got a request to 'receive' money, approved it and paid ₹12,300 instead",in progress,HIGH
+TKT-4524,2026-08-01 14:00:00,C04491,8462869663,txn_45966,app_chat,"merchant says not received, bank says success. who is right? pls help",OPEN,
+TKT-4525,2026-08-01 15:00:00,C03429,6318060597,,app_chat,transaction stuck in pending pls help,closed,
+TKT-4526,2026-08-01 17:00:00,,+919260807267,NULL,call_center,app not opening after update pls help,reopened,med
+TKT-4527,2026-08-01T12:30:00Z,C00041,80268 50785,T0013700,branch,"refund pending since 18 days, ticket #3596 reopened 5rd time!!",OPEN,
+TKT-4528,2026-08-01 19:00:00,C03186,69738 25887,N/A,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,closed,low
+TKT-4529,2026-08-01 19:00:00,,98921 18977,UPI2026000047642,twitter,"merchant says not received, bank says success. who is right?!!",closed,med
+TKT-4530,2026-08-01 20:00:00,C00414,91-9742495022,,email,cashback not received for last order,open,
+TKT-4531,2026-08-01 21:00:00,C00530,91-6640981703,N/A,branch,UPI pin reset not working,in progress,HIGH
+TKT-4532,2026-08-01 22:00:00,C01098,70395 78203,T0042221,email,"merchant says not received, bank says success. who is right?",closed,
+TKT-4533,2026-08-02 00:00:00,C02273,91-7462506204,T0022385,email,paisa kat gaya but merchant bol raha payment nahi mila!!  ,OPEN,low
+TKT-4534,02/08/2026 04:00 AM,,8307772123,T0043642,email,double debit for same order pls help,closed,
+TKT-4535,2026-08-02 04:00:00,C02430,76820 22838,unknown,app_chat,payment failed but money deducted,in progress,
+TKT-4536,2026-08-02 07:00:00,,86863 38744,T0013248,email,app not opening after update pls help,closed,HIGH
+TKT-4537,02/08/2026 07:00 AM,C01794,8217028347,txn_42380,branch,"refund pending since 12 days, ticket #6687 reopened 2rd time pls help",Closed,low
+TKT-4538,02/08/2026 10:00 AM,C00554,91-6011036226,,branch,payment failed but money deducted pls help,Closed,med
+TKT-4539,2026-08-02 11:00:00,C02430,7682022838,UPI2026000005248,app_chat,UPI pin reset not working,closed,med
+TKT-4540,2026-08-02 12:00:00,,+918083027840,UPI2026000010581,call_center,"online shopping page se order kiya, ₹2,600 diye, ab seller reply nahi kar raha  ",closed,
+TKT-4541,2026-08-02 14:00:00,C03597,8102129019,T0053743,app_chat,need statement for last 3 months!!,Closed,
+TKT-4542,02/08/2026 06:00 PM,,6506059741,T0058598,app_chat,"merchant says not received, bank says success. who is right?!!",Closed,HIGH
+TKT-4543,2026-08-02T15:30:00Z,C02542,8565666743,txn_26761,call_center,transaction stuck in pending,open,
+TKT-4544,2026-08-03 00:00:00,C00656,+916041878927,T0041398,call_center,DOUBLE DEBIT FOR SAME ORDER,reopened,
+TKT-4545,03-Aug-26 00:00,C01339,+916220510261,T0043034,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!  ,closed,HIGH
+TKT-4546,1785699000,C04463,6536988200,N/A,email,need statement for last 3 months  ,closed,
+TKT-4547,03/08/2026 02:00 AM,C04710,9712229226,unknown,branch,cashback not received for last order pls help,in progress,low
+TKT-4548,1785706200,,07604875462,,app_chat,UPI pin reset not working,resolved,
+TKT-4549,2026-08-03 05:00:00,C04947,+919463270993,,email,CASHBACK NOT RECEIVED FOR LAST ORDER!!,Closed,HIGH
+TKT-4550,03-Aug-26 06:00,C01533,72471 55562,T0059227,app_chat,"refund pending since 9 days, ticket #7787 reopened 5rd time",resolved,
+TKT-4551,2026-08-03 07:00:00,C01886,7585795219,T0017237,branch,TRANSACTION STUCK IN PENDING  ,OPEN,low
+TKT-4552,03/08/2026 08:00 AM,C04286,+918781182323,T0013843,branch,UPI pin reset not working pls help,resolved,
+TKT-4553,2026-08-03 08:00:00,C02296,91-6249619565,NULL,branch,app not opening after update!!,Closed,
+TKT-4554,2026-08-03 09:00:00,,6221759342,unknown,app_chat,transaction stuck in pending  ,OPEN,low
+TKT-4555,2026-08-03 10:00:00,C01630,8776710487,T0041756,app_chat,"merchant says not received, bank says success. who is right?",reopened,
+TKT-4556,2026-08-03 11:00:00,C04082,68823 68577,,call_center,cashback not received for last order  ,in progress,HIGH
+TKT-4557,2026-08-03 11:00:00,C02807,7165701792,T0043826,twitter,DOUBLE DEBIT FOR SAME ORDER,open,HIGH
+TKT-4558,1785756600,C02920,8437337648,,app_chat,UPI pin reset not working!!,Closed,low
+TKT-4559,2026-08-03 22:00:00,,7722503536,,email,need statement for last 3 months,resolved,HIGH
+TKT-4560,1785778200,C02825,7900658499,N/A,call_center,"someone called saying card blocked, i gave otp. ₹30,900 debited!! pls help",open,low
+TKT-4561,2026-08-04 01:00:00,C02960,+917075058226,T0027966,email,UPI pin reset not working!!,closed,low
+TKT-4562,04-Aug-26 02:00,C04435,91-6786670474,T0000558,branch,"merchant says not received, bank says success. who is right? pls help",resolved,HIGH
+TKT-4563,1785803400,C02368,61983 92327,UPI2026000022067,app_chat,double debit for same order!!,in progress,
+TKT-4564,04/08/2026 08:00 AM,C03762,+917267094986,T0026850,app_chat,cashback not received for last order pls help,resolved,low
+TKT-4565,1785814200,C00227,+918155531525,N/A,twitter,transaction stuck in pending  ,resolved,low
+TKT-4566,04-Aug-26 10:00,C00031,8593915826,T0000931,app_chat,payment failed but money deducted,closed,med
+TKT-4567,2026-08-04 11:00:00,C02047,09600217004,T0020914,email,UPI pin reset not working,open,med
+TKT-4568,2026-08-04 12:00:00,C01445,7562653483,T0031806,email,"fake kyc call aaya tha, usne otp maanga, mere account se 24600 rs kat gaye  ",OPEN,
+TKT-4569,04/08/2026 12:00 PM,C04172,91-6701782053,T0000958,branch,payment failed but money deducted,in progress,med
+TKT-4570,04/08/2026 02:00 PM,C02980,6036291902,T0034515,twitter,payment failed but money deducted!!,OPEN,HIGH
+TKT-4571,1785835800,C04776,7628410685,T0043011,branch,"merchant says not received, bank says success. who is right?",reopened,low
+TKT-4572,1785839400,C01477,7649575102,T0039438,email,"merchant says not received, bank says success. who is right? pls help",Closed,low
+TKT-4573,2026-08-04 16:00:00,C02940,8248943563,T0042611,email,cashback not received for last order,closed,med
+TKT-4574,2026-08-04 18:00:00,C00203,6768375075,,app_chat,cashback not received for last order,OPEN,
+TKT-4575,2026-08-04 19:00:00,C03567,6613731568,T0006268,twitter,double debit for same order!!,open,
+TKT-4576,04-Aug-26 20:00,C01327,7563306406,T0025873,app_chat,transaction stuck in pending pls help,OPEN,low
+TKT-4577,05-Aug-26 00:00,C00003,8868570220,T0030614,app_chat,app not opening after update,in progress,HIGH
+TKT-4578,1785875400,C02729,9998205217,T0044015,email,need statement for last 3 months  ,in progress,
+TKT-4579,2026-08-05 03:00:00,,+917544601807,unknown,call_center,cashback not received for last order!!,reopened,low
+TKT-4580,2026-08-05 10:00:00,,8959078691,UPI2026000040464,email,payment failed but money deducted  ,reopened,
+TKT-4581,05-Aug-26 11:00,C01709,+917463102316,T0004561,email,"paid 3k to seller on instagram, blocked me after payment",closed,
+TKT-4582,2026-08-05 15:00:00,C02106,7494238920,T0049989,branch,need statement for last 3 months  ,closed,med
+TKT-4583,05-Aug-26 18:00,C00386,7752358307,T0016594,branch,"i got a request to 'receive' money, approved it and paid 16k instead!!",resolved,HIGH
+TKT-4584,2026-08-05T17:30:00Z,,+918510491018,,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!!!,OPEN,
+TKT-4585,1785951000,C02660,73632 27232,UPI2026000050702,twitter,"merchant says not received, bank says success. who is right? pls help",reopened,low
+TKT-4586,05/08/2026 11:00 PM,C04416,9549736799,T0017752,app_chat,payment failed but money deducted,Closed,
+TKT-4587,2026-08-06 00:00:00,C01706,7473744438,,twitter,cashback not received for last order!!,open,low
+TKT-4588,2026-08-06 00:00:00,C04207,9173909767,,app_chat,"merchant says not received, bank says success. who is right?  ",resolved,HIGH
+TKT-4589,2026-08-06 02:00:00,,+919988297609,T0052413,branch,"refund pending since 4 days, ticket #7428 reopened 5rd time  ",closed,HIGH
+TKT-4590,2026-08-06 05:00:00,C00847,91-7257332935,NULL,call_center,UPI pin reset not working,OPEN,
+TKT-4591,2026-08-06T01:30:00Z,C01540,7311752215,,app_chat,"refund pending since 16 days, ticket #4260 reopened 2rd time pls help",OPEN,
+TKT-4592,1785979800,C01780,91-6246125556,,email,cashback not received for last order pls help,reopened,
+TKT-4593,2026-08-06 07:00:00,C01770,66857 21953,NULL,twitter,UPI pin reset not working,reopened,
+TKT-4594,2026-08-06T04:30:00Z,C02695,7104835643,T0056446,branch,payment failed but money deducted,closed,
+TKT-4595,2026-08-06 11:00:00,C04555,7362124053,NULL,branch,transaction stuck in pending,in progress,
+TKT-4596,06-Aug-26 12:00,C01581,94211 89153,T0023054,email,app not opening after update,reopened,
+TKT-4597,1785997800,C03180,7154965504,NULL,app_chat,transaction stuck in pending pls help,reopened,
+TKT-4598,2026-08-06 13:00:00,C03126,60987 62787,T0051092,call_center,"merchant says not received, bank says success. who is right?",closed,HIGH
+TKT-4599,2026-08-06 16:00:00,C00904,6170395955,T0008007,email,paisa kat gaya but merchant bol raha payment nahi mila!!,closed,
+TKT-4600,2026-08-06 17:00:00,C00215,8398061962,NULL,twitter,"refund pending since 8 days, ticket #7522 reopened 3rd time  ",open,low
+TKT-4601,1786019400,C03539,+918743329835,,app_chat,payment failed but money deducted pls help,in progress,
+TKT-4602,2026-08-06 18:00:00,C02441,6357310882,T0007280,app_chat,cashback not received for last order pls help,open,
+TKT-4603,06-Aug-26 19:00,C03072,8274595265,T0048197,call_center,transaction stuck in pending,resolved,med
+TKT-4604,1786030200,C03077,9800184572,NULL,app_chat,UPI pin reset not working pls help,Closed,low
+TKT-4605,2026-08-07 02:00:00,C04223,6436820160,T0053459,branch,need statement for last 3 months,in progress,HIGH
+TKT-4606,2026-08-07 06:00:00,C02288,6220423431,T0040607,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!!!,resolved,
+TKT-4607,2026-08-07 07:00:00,C01455,68248 37734,unknown,email,"merchant says not received, bank says success. who is right?",OPEN,
+TKT-4608,2026-08-07 08:00:00,C00845,91-9585448815,unknown,call_center,double debit for same order  ,reopened,HIGH
+TKT-4609,2026-08-07 09:00:00,C03072,+918274595265,T0023536,twitter,"refund pending since 11 days, ticket #3942 reopened 3rd time pls help",Closed,HIGH
+TKT-4610,2026-08-07 10:00:00,C02728,7271256069,T0007470,app_chat,cashback not received for last order pls help,resolved,
+TKT-4611,2026-08-07 10:00:00,C04507,8894750098,T0056951,email,"merchant says not received, bank says success. who is right?  ",OPEN,
+TKT-4612,2026-08-07T05:30:00Z,C00770,9829332110,NULL,app_chat,payment failed but money deducted  ,Closed,
+TKT-4613,2026-08-07 17:00:00,C03584,7956292646,NULL,email,payment failed but money deducted,resolved,med
+TKT-4614,07-Aug-26 23:00,C02768,7937684941,T0041432,app_chat,"merchant says not received, bank says success. who is right?!!",in progress,med
+TKT-4615,2026-08-08 00:00:00,C00841,8603837541,T0053387,email,transaction stuck in pending!!,Closed,
+TKT-4616,2026-08-08 00:00:00,C04222,9477131515,T0020397,email,transaction stuck in pending pls help,OPEN,med
+TKT-4617,2026-08-08 03:00:00,C02504,+916922416532,NULL,email,"refund pending since 3 days, ticket #3894 reopened 5rd time",in progress,low
+TKT-4618,2026-08-08 03:00:00,C03305,6849094883,NULL,call_center,transaction stuck in pending  ,open,low
+TKT-4619,1786149000,C02933,08249164410,T0004815,twitter,UPI pin reset not working pls help,resolved,
+TKT-4620,2026-08-08T00:30:00Z,C04062,6707798348,T0018881,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!,open,
+TKT-4621,2026-08-08 08:00:00,C03796,88449 49931,T0008609,email,need statement for last 3 months,OPEN,med
+TKT-4622,08/08/2026 09:00 AM,C04929,7073303711,T0036792,branch,UPI pin reset not working!!,OPEN,med
+TKT-4623,2026-08-08T05:30:00Z,C02593,7143541610,,email,"fake KYC call aaya tha, usne OTP maanga, mere account se 29k kat gaye!!",closed,
+TKT-4624,2026-08-08 11:00:00,C00642,8106875933,T0020155,call_center,payment failed but money deducted pls help,closed,HIGH
+TKT-4625,1786167000,C01078,7131686140,T0035433,email,cashback not received for last order pls help,reopened,low
+TKT-4626,08-Aug-26 12:00,,+918498927117,T0042697,twitter,"merchant says not received, bank says success. who is right?",reopened,HIGH
+TKT-4627,2026-08-08 13:00:00,C02305,91-7882729412,T0027580,twitter,UPI pin reset not working,OPEN,
+TKT-4628,2026-08-08 15:00:00,C04058,91-7896343664,T0001784,email,payment failed but money deducted,Closed,HIGH
+TKT-4629,2026-08-08 15:00:00,C00590,+917081183805,T0044135,app_chat,NEED STATEMENT FOR LAST 3 MONTHS pls help,in progress,med
+TKT-4630,2026-08-08 16:00:00,C01278,8109287275,T0055925,email,transaction stuck in pending  ,OPEN,
+TKT-4631,2026-08-08 17:00:00,C02283,91-7620131432,unknown,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!  ,resolved,low
+TKT-4632,08/08/2026 06:00 PM,C03842,6113167047,T0050925,call_center,"sim card stopped working, got alerts for payments to unknown ids  ",resolved,low
+TKT-4633,2026-08-08 18:00:00,C02575,+919384038903,UPI2026000055106,call_center,double debit for same order,Closed,
+TKT-4634,2026-08-08 19:00:00,C01169,7029649324,UPI2026000019996,twitter,UPI pin reset not working  ,Closed,
+TKT-4635,08/08/2026 08:00 PM,C02623,70305 07471,T0013996,twitter,"refund pending since 4 days, ticket #3199 reopened 2rd time pls help",open,med
+TKT-4636,2026-08-08 20:00:00,C02538,9980363193,T0020653,email,double debit for same order,OPEN,HIGH
+TKT-4637,2026-08-08 21:00:00,,+919043005119,,app_chat,app not opening after update,reopened,HIGH
+TKT-4638,1786206600,C03213,91-7022803094,T0024004,twitter,need statement for last 3 months  ,resolved,HIGH
+TKT-4639,2026-08-08 22:00:00,C01460,8846173154,unknown,call_center,APP NOT OPENING AFTER UPDATE pls help,reopened,
+TKT-4640,2026-08-08 23:00:00,C03288,91-6279590312,N/A,app_chat,cashback not received for last order pls help,resolved,
+TKT-4641,2026-08-09 01:00:00,C02506,9678829691,UPI2026000026098,branch,"merchant says not received, bank says success. who is right?  ",resolved,HIGH
+TKT-4642,2026-08-09 03:00:00,C00059,08490446490,T0059129,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!,reopened,med
+TKT-4643,2026-08-08T21:30:00Z,C02208,91-6970220093,T0014145,branch,need statement for last 3 months,closed,
+TKT-4644,2026-08-09 04:00:00,C03827,7098138225,T0032458,branch,cashback not received for last order  ,OPEN,med
+TKT-4645,2026-08-09 08:00:00,C02627,91-8170247358,N/A,app_chat,"merchant says not received, bank says success. who is right? pls help",in progress,
+TKT-4646,2026-08-09 09:00:00,C04754,9544471955,T0023824,twitter,"SOMEONE CALLED SAYING CARD BLOCKED, I GAVE OTP. 94K DEBITED!!",closed,
+TKT-4647,2026-08-09 10:00:00,C02912,6744875289,T0019080,app_chat,need statement for last 3 months!!,resolved,
+TKT-4648,2026-08-09 12:00:00,C01447,08154174961,T0019237,call_center,need statement for last 3 months,Closed,low
+TKT-4649,2026-08-09 12:00:00,C03225,+916998631664,T0040573,email,need statement for last 3 months  ,OPEN,
+TKT-4650,2026-08-09 13:00:00,,90200 96450,T0014409,twitter,UPI pin reset not working,OPEN,HIGH
+TKT-4651,2026-08-09 14:00:00,C04582,91-6155835992,T0021650,twitter,UPI pin reset not working  ,in progress,HIGH
+TKT-4652,09-Aug-26 15:00,C03916,8199745622,T0040351,branch,need statement for last 3 months  ,Closed,low
+TKT-4653,09/08/2026 05:00 PM,C02784,8320051365,T0046505,app_chat,double debit for same order!!,closed,
+TKT-4654,2026-08-09 20:00:00,C02673,9920781620,T0042293,app_chat,"REFUND PENDING SINCE 6 DAYS, TICKET #3740 REOPENED 5RD TIME pls help",resolved,med
+TKT-4655,2026-08-09 21:00:00,C00427,91-8132062688,,call_center,APP NOT OPENING AFTER UPDATE  ,open,
+TKT-4656,2026-08-10 00:00:00,C00351,+917607708320,N/A,twitter,double debit for same order pls help,Closed,low
+TKT-4657,2026-08-10 01:00:00,C03080,7027481886,T0028452,app_chat,double debit for same order,in progress,HIGH
+TKT-4658,10/08/2026 01:00 AM,C01532,8959078691,T0034713,twitter,app not opening after update,closed,med
+TKT-4659,1786314600,C04665,+918182733335,,app_chat,"fake KYC call aaya tha, usne OTP maanga, mere account se 24400 rs kat gaye",reopened,
+TKT-4660,10/08/2026 04:00 AM,C04691,7200817135,T0000729,app_chat,need statement for last 3 months,in progress,HIGH
+TKT-4661,1786332600,C00063,+916173308541,T0030935,email,"fake KYC call aaya tha, usne OTP maanga, mere account se 65k kat gaye",in progress,
+TKT-4662,10/08/2026 09:00 AM,C02167,+916583212936,T0003680,email,"merchant says not received, bank says success. who is right?!!",open,
+TKT-4663,2026-08-10 10:00:00,C04612,91-9833676827,,twitter,"merchant says not received, bank says success. who is right? pls help",Closed,
+TKT-4664,2026-08-10T04:30:00Z,C00759,+919028509803,,email,"refund pending since 8 days, ticket #5877 reopened 5rd time pls help",OPEN,
+TKT-4665,10/08/2026 11:00 AM,C01346,09972920235,T0015833,email,double debit for same order!!,in progress,
+TKT-4666,10/08/2026 11:00 AM,C04834,79657 74272,,twitter,need statement for last 3 months,Closed,
+TKT-4667,10-Aug-26 15:00,C03886,+919206153182,,email,payment failed but money deducted  ,closed,
+TKT-4668,2026-08-10 15:00:00,C00047,+916547461493,T0035918,branch,paisa kat gaya but merchant bol raha payment nahi mila!!  ,open,HIGH
+TKT-4669,2026-08-10 16:00:00,C04538,06288226180,T0003906,twitter,"unauthorised transactions, i never added these beneficiaries. total loss ₹24,953!!",Closed,
+TKT-4670,10-Aug-26 16:00,C01479,06639751450,,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!,closed,
+TKT-4671,10/08/2026 05:00 PM,C00057,7972855827,T0004999,call_center,UPI pin reset not working  ,open,
+TKT-4672,2026-08-10 21:00:00,,07046787661,txn_4745,branch,"paid ₹4,400 to seller on instagram, blocked me after payment",resolved,low
+TKT-4673,2026-08-10 22:00:00,,6778459753,,call_center,"my phone suddenly lost network, then 29880 rs was transferred without my knowledge",in progress,
+TKT-4674,10-Aug-26 22:00,,7104824988,,email,TRANSACTION STUCK IN PENDING  ,reopened,
+TKT-4675,2026-08-11 01:00:00,C02156,86863 38744,T0013245,call_center,"multiple small charges on my card i dont recognise, then one big of 15500 rs!!",Closed,
+TKT-4676,2026-08-11 02:00:00,C00958,8887924986,NULL,branch,"refund pending since 20 days, ticket #6839 reopened 4rd time pls help",Closed,HIGH
+TKT-4677,1786401000,C02380,9079111355,UPI2026000011459,email,paisa kat gaya but merchant bol raha payment nahi mila!!  ,in progress,low
+TKT-4678,2026-08-11 04:00:00,C02149,+917454715894,T0050226,email,UPI pin reset not working  ,OPEN,
+TKT-4679,2026-08-10T23:30:00Z,C04606,09319322371,T0022031,branch,paisa kat gaya but merchant bol raha payment nahi mila!!  ,OPEN,HIGH
+TKT-4680,2026-08-11 06:00:00,C04828,+918320878949,unknown,call_center,"I GOT A REQUEST TO 'RECEIVE' MONEY, APPROVED IT AND PAID 14800 RS INSTEAD!!",reopened,
+TKT-4681,11/08/2026 07:00 AM,C02990,8008757653,T0000812,branch,double debit for same order pls help,resolved,
+TKT-4682,11/08/2026 07:00 AM,C04906,+918114505696,unknown,app_chat,payment failed but money deducted  ,reopened,med
+TKT-4683,2026-08-11 10:00:00,C02590,08607992111,,email,app not opening after update,closed,med
+TKT-4684,11/08/2026 11:00 AM,C03384,+916901021768,T0022064,email,paisa kat gaya but merchant bol raha payment nahi mila!!!!,reopened,low
+TKT-4685,2026-08-11 12:00:00,C00376,9816644174,,branch,transaction stuck in pending pls help,resolved,
+TKT-4686,11-Aug-26 12:00,C03689,06590636984,UPI2026000037886,call_center,payment failed but money deducted!!,open,HIGH
+TKT-4687,2026-08-11 12:00:00,C02132,07722503536,T0020964,app_chat,"merchant says not received, bank says success. who is right?  ",OPEN,med
+TKT-4688,1786429800,C01786,91-9146509089,,call_center,UPI pin reset not working  ,open,low
+TKT-4689,2026-08-11 16:00:00,,67060 02278,T0000266,twitter,UPI pin reset not working,closed,HIGH
+TKT-4690,1786444200,C03908,8826347238,T0060642,email,payment failed but money deducted  ,reopened,low
+TKT-4691,2026-08-11 19:00:00,C01402,+919123074683,T0031171,twitter,APP NOT OPENING AFTER UPDATE pls help,closed,HIGH
+TKT-4692,2026-08-11 19:00:00,C02258,8671261612,NULL,branch,"refund pending since 14 days, ticket #4413 reopened 5rd time pls help",resolved,
+TKT-4693,2026-08-11 20:00:00,,6868858115,T0047127,call_center,UPI pin reset not working pls help,closed,med
+TKT-4694,2026-08-11 20:00:00,C03898,6680442940,T0044881,email,"merchant says not received, bank says success. who is right? pls help",Closed,med
+TKT-4695,2026-08-11 21:00:00,C03921,+917156384253,T0032708,twitter,cashback not received for last order!!,in progress,
+TKT-4696,2026-08-11T15:30:00Z,C03363,91-9506030898,T0040562,email,double debit for same order  ,resolved,
+TKT-4697,2026-08-12 01:00:00,,+919408803897,,email,app not opening after update pls help,Closed,
+TKT-4698,12/08/2026 04:00 AM,,9929195916,,app_chat,cashback not received for last order,in progress,
+TKT-4699,2026-08-12 04:00:00,C01684,91-9280313448,NULL,email,app not opening after update  ,open,med
+TKT-4700,2026-08-12 05:00:00,C03821,+917289630261,unknown,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,resolved,
+TKT-4701,2026-08-12 05:00:00,C03440,8307772123,N/A,branch,payment failed but money deducted!!,reopened,
+TKT-4702,2026-08-12 09:00:00,C02639,+919431683640,,email,paisa kat gaya but merchant bol raha payment nahi mila!!,Closed,
+TKT-4703,2026-08-12 14:00:00,C02849,9538457882,NULL,twitter,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,resolved,low
+TKT-4704,1786523400,C01433,9561350863,,app_chat,NEED STATEMENT FOR LAST 3 MONTHS  ,OPEN,HIGH
+TKT-4705,12-Aug-26 15:00,C04939,6459419090,unknown,call_center,need statement for last 3 months,reopened,low
+TKT-4706,2026-08-12 20:00:00,C04864,7128292253,T0039818,app_chat,"merchant says not received, bank says success. who is right?",OPEN,
+TKT-4707,2026-08-12 22:00:00,C00945,6813504405,N/A,call_center,cashback not received for last order,open,med
+TKT-4708,2026-08-12 23:00:00,C03650,08699830087,T0001399,twitter,payment failed but money deducted,open,low
+TKT-4709,2026-08-12T22:30:00Z,C00687,83949 15316,T0005691,twitter,"refund pending since 8 days, ticket #9453 reopened 5rd time  ",OPEN,
+TKT-4710,2026-08-13 05:00:00,C02720,8164930401,T0005759,app_chat,"merchant says not received, bank says success. who is right? pls help",in progress,
+TKT-4711,13-Aug-26 08:00,C04555,7362124053,NULL,email,payment failed but money deducted pls help,resolved,
+TKT-4712,1786591800,C02796,6537406192,NULL,branch,"merchant says not received, bank says success. who is right?!!",open,
+TKT-4713,13/08/2026 10:00 AM,C04586,7181006821,T0051891,email,app not opening after update!!,in progress,
+TKT-4714,2026-08-13 15:00:00,C03658,6319286695,,email,DOUBLE DEBIT FOR SAME ORDER,in progress,
+TKT-4715,2026-08-13 17:00:00,C03238,91-6300387230,NULL,branch,double debit for same order!!,open,
+TKT-4716,2026-08-13 18:00:00,C03084,08743539870,T0052735,branch,"refund pending since 4 days, ticket #1625 reopened 2rd time  ",Closed,low
+TKT-4717,2026-08-13 19:00:00,C01823,9586276512,T0049457,twitter,payment failed but money deducted pls help,resolved,
+TKT-4718,2026-08-13 23:00:00,C00331,+916810381124,N/A,email,UPI pin reset not working  ,open,
+TKT-4719,2026-08-14 00:00:00,C03947,6800700316,T0041533,branch,app not opening after update,reopened,low
+TKT-4720,2026-08-13T19:30:00Z,,07239894929,NULL,app_chat,payment failed but money deducted,resolved,
+TKT-4721,1786653000,C01344,9593441857,N/A,twitter,"someone called saying card blocked, i gave otp. ₹42,100 debited!!  ",Closed,med
+TKT-4722,2026-08-14 02:00:00,C02794,82444 99406,T0019651,app_chat,transaction stuck in pending pls help,open,HIGH
+TKT-4723,2026-08-14 07:00:00,C03429,6318060597,N/A,app_chat,UPI pin reset not working pls help,in progress,med
+TKT-4724,2026-08-14 07:00:00,C02627,8170247358,unknown,email,app not opening after update,open,HIGH
+TKT-4725,2026-08-14 08:00:00,C02686,+916399341492,T0028576,email,need statement for last 3 months  ,OPEN,
+TKT-4726,2026-08-14 08:00:00,C00523,+918368211418,,call_center,cashback not received for last order,closed,
+TKT-4727,1786678200,C02807,91-7165701792,unknown,branch,app not opening after update pls help,in progress,med
+TKT-4728,2026-08-14 09:00:00,C01259,7152548536,NULL,branch,UPI pin reset not working,Closed,low
+TKT-4729,1786681800,C00965,9286604616,UPI2026000026173,app_chat,transaction stuck in pending  ,Closed,
+TKT-4730,2026-08-14 10:00:00,C04316,+916252956444,T0039032,call_center,UPI pin reset not working,OPEN,
+TKT-4731,2026-08-14 11:00:00,C02672,91-6932488018,T0006985,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!!!,resolved,
+TKT-4732,2026-08-14 11:00:00,C02111,91-6955778589,N/A,twitter,double debit for same order,closed,
+TKT-4733,2026-08-14 13:00:00,C02043,9557818534,UPI2026000031980,branch,payment failed but money deducted!!,closed,
+TKT-4734,2026-08-14 13:00:00,C01137,91-6746427680,T0001844,twitter,"refund pending since 3 days, ticket #7188 reopened 5rd time  ",open,med
+TKT-4735,2026-08-14 15:00:00,C03738,9266307337,T0006034,branch,app not opening after update!!,in progress,
+TKT-4736,2026-08-14 16:00:00,C03440,08307772123,N/A,branch,transaction stuck in pending  ,OPEN,
+TKT-4737,1786707000,,+918207327076,N/A,email,cashback not received for last order  ,open,low
+TKT-4738,2026-08-14T12:30:00Z,C02067,6949118461,T0026073,twitter,"paid 9k to seller on instagram, blocked me after payment  ",OPEN,
+TKT-4739,2026-08-14 18:00:00,C03015,+918226368602,N/A,call_center,double debit for same order,in progress,HIGH
+TKT-4740,2026-08-14T15:30:00Z,C04564,8196579164,T0022377,branch,"refund pending since 19 days, ticket #1051 reopened 5rd time  ",OPEN,
+TKT-4741,1786728600,C01855,+918689413927,N/A,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!,resolved,
+TKT-4742,2026-08-15 00:00:00,C04133,9637760660,UPI2026000002435,branch,UPI pin reset not working!!,resolved,
+TKT-4743,2026-08-15 02:00:00,C03048,+919207432627,NULL,branch,payment failed but money deducted!!,in progress,low
+TKT-4744,2026-08-15 04:00:00,C03620,+919831363649,,twitter,app not opening after update,reopened,
+TKT-4745,1786750200,C01887,9676874819,T0034292,call_center,"merchant says not received, bank says success. who is right?",OPEN,
+TKT-4746,2026-08-15 05:00:00,C00614,91-9593203027,T0031161,call_center,double debit for same order!!,resolved,
+TKT-4747,2026-08-15 07:00:00,C00140,6074184092,UPI2026000020713,twitter,app not opening after update  ,Closed,low
+TKT-4748,1786757400,C00157,06041583061,,call_center,UPI pin reset not working,closed,HIGH
+TKT-4749,2026-08-15 07:00:00,C03980,6376745366,,email,need statement for last 3 months pls help,resolved,HIGH
+TKT-4750,15/08/2026 08:00 AM,,+917165701792,UPI2026000047891,branch,NEED STATEMENT FOR LAST 3 MONTHS,resolved,low
+TKT-4751,15/08/2026 10:00 AM,C02645,78660 37089,T0030812,email,UPI pin reset not working pls help,Closed,low
+TKT-4752,2026-08-15 12:00:00,C02864,9294036209,T0009029,email,"refund pending since 19 days, ticket #4825 reopened 2rd time",closed,
+TKT-4753,2026-08-15 13:00:00,C04770,+917666845190,,call_center,"REFUND PENDING SINCE 12 DAYS, TICKET #9070 REOPENED 5RD TIME!!",reopened,HIGH
+TKT-4754,2026-08-15 13:00:00,C03305,+916849094883,T0001671,email,app not opening after update!!,OPEN,low
+TKT-4755,2026-08-15T08:30:00Z,C02948,+916746149235,T0041786,branch,double debit for same order pls help,open,
+TKT-4756,15-Aug-26 17:00,C01199,6260768448,T0037683,twitter,app not opening after update  ,closed,med
+TKT-4757,2026-08-15 19:00:00,C03882,91-9056910185,T0045768,twitter,UPI pin reset not working  ,open,
+TKT-4758,1786807800,C02159,+917972073647,NULL,twitter,transaction stuck in pending,resolved,HIGH
+TKT-4759,2026-08-15 21:00:00,C01828,8646557257,T0028368,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!,in progress,
+TKT-4760,2026-08-15T20:30:00Z,C03530,+916413192779,T0042566,call_center,PAISA KAT GAYA BUT MERCHANT BOL RAHA PAYMENT NAHI MILA!!,reopened,low
+TKT-4761,2026-08-16 02:00:00,C00838,+916868858115,NULL,twitter,need statement for last 3 months,open,
+TKT-4762,1786843800,C04758,90825 95257,,email,payment failed but money deducted,closed,
+TKT-4763,2026-08-16 08:00:00,C04853,8006516333,N/A,call_center,app not opening after update  ,resolved,
+TKT-4764,16/08/2026 08:00 AM,C02062,65875 47751,,twitter,cashback not received for last order,in progress,HIGH
+TKT-4765,16/08/2026 09:00 AM,C02999,8988785456,T0059137,app_chat,"refund pending since 13 days, ticket #6299 reopened 2rd time",Closed,HIGH
+TKT-4766,16/08/2026 11:00 AM,C00355,+918082289687,,call_center,app not opening after update  ,in progress,
+TKT-4767,2026-08-16 13:00:00,C04619,91-9242520423,T0028653,branch,double debit for same order pls help,reopened,low
+TKT-4768,16-Aug-26 14:00,C01062,91-7646321466,T0011191,twitter,double debit for same order,reopened,med
+TKT-4769,2026-08-16 15:00:00,C01139,07874196849,T0036670,branch,"merchant says not received, bank says success. who is right? pls help",Closed,HIGH
+TKT-4770,16-Aug-26 15:00,,9776412473,,app_chat,UPI PIN RESET NOT WORKING,closed,HIGH
+TKT-4771,2026-08-16T11:30:00Z,C04491,08462869663,T0009111,call_center,UPI pin reset not working pls help,open,low
+TKT-4772,16/08/2026 07:00 PM,C04953,9800354996,T0007508,branch,upi pin reset not working pls help,closed,med
+TKT-4773,16/08/2026 07:00 PM,C00938,87065 03984,T0008404,call_center,"merchant says not received, bank says success. who is right? pls help",resolved,
+TKT-4774,2026-08-16 22:00:00,C02828,65996 21404,,call_center,need statement for last 3 months,OPEN,
+TKT-4775,2026-08-17 01:00:00,C00370,6941198520,T0045831,twitter,payment failed but money deducted,in progress,low
+TKT-4776,2026-08-16T21:30:00Z,C04047,7776406390,,app_chat,"MERCHANT SAYS NOT RECEIVED, BANK SAYS SUCCESS. WHO IS RIGHT?",OPEN,
+TKT-4777,2026-08-17 04:00:00,C03931,9508108211,T0055439,app_chat,double debit for same order  ,in progress,
+TKT-4778,2026-08-17 05:00:00,C00454,91-8640116925,T0044780,app_chat,transaction stuck in pending,closed,
+TKT-4779,17-Aug-26 05:00,C00755,91-7826374477,UPI2026000037200,branch,UPI pin reset not working  ,Closed,
+TKT-4780,2026-08-17 06:00:00,,+916973825887,T0008267,email,payment failed but money deducted,reopened,HIGH
+TKT-4781,2026-08-17 07:00:00,,+919943646350,unknown,call_center,"refund pending since 7 days, ticket #6729 reopened 4rd time pls help",resolved,low
+TKT-4782,1786930200,C01772,6449121845,T0031485,branch,"refund pending since 17 days, ticket #6970 reopened 5rd time  ",OPEN,
+TKT-4783,2026-08-17 10:00:00,C00639,65998 35230,T0042285,twitter,payment failed but money deducted  ,closed,
+TKT-4784,2026-08-17 12:00:00,C03974,7592905423,,twitter,DOUBLE DEBIT FOR SAME ORDER pls help,resolved,
+TKT-4785,1786951800,,6034588820,T0024465,app_chat,"refund pending since 11 days, ticket #6487 reopened 5rd time",resolved,HIGH
+TKT-4786,2026-08-17 14:00:00,C00893,7246204931,unknown,app_chat,transaction stuck in pending pls help,Closed,
+TKT-4787,2026-08-17 15:00:00,,9053027210,T0043968,app_chat,"merchant says not received, bank says success. who is right?  ",open,
+TKT-4788,2026-08-17 15:00:00,C00628,7271982719,NULL,call_center,UPI pin reset not working  ,reopened,low
+TKT-4789,17/08/2026 04:00 PM,C00376,9816644174,UPI2026000025494,app_chat,"refund pending since 4 days, ticket #4548 reopened 3rd time pls help",reopened,low
+TKT-4790,1786977000,C00274,67388 78041,UPI2026000025855,app_chat,upi pin reset not working!!,resolved,
+TKT-4791,18/08/2026 03:00 AM,C04203,8879134555,T0002510,branch,APP NOT OPENING AFTER UPDATE pls help,Closed,med
+TKT-4792,2026-08-18 05:00:00,C00140,60741 84092,T0012018,branch,"refund pending since 8 days, ticket #2010 reopened 5rd time  ",reopened,med
+TKT-4793,2026-08-18 07:00:00,C02292,+916806369566,txn_15850,app_chat,"merchant says not received, bank says success. who is right?",OPEN,HIGH
+TKT-4794,2026-08-18 08:00:00,C02485,6102619122,N/A,branch,cashback not received for last order  ,open,
+TKT-4795,2026-08-18 08:00:00,C02640,8291905393,T0050641,branch,paisa kat gaya but merchant bol raha payment nahi mila!!,in progress,low
+TKT-4796,2026-08-18 09:00:00,,91-9855903079,UPI2026000052932,email,"refund pending since 4 days, ticket #5875 reopened 3rd time",closed,HIGH
+TKT-4797,2026-08-18 11:00:00,C03467,6935725136,T0006913,twitter,double debit for same order,Closed,med
+TKT-4798,2026-08-18 12:00:00,C04390,8282955216,UPI2026000042770,call_center,need statement for last 3 months,closed,
+TKT-4799,18/08/2026 02:00 PM,C00566,91-6359664458,,app_chat,app not opening after update,Closed,
+TKT-4800,2026-08-18 14:00:00,C00515,6801061210,NULL,twitter,payment failed but money deducted!!,Closed,
+TKT-4801,2026-08-18 15:00:00,C01661,98471 80194,N/A,app_chat,cashback not received for last order!!,Closed,
+TKT-4802,18/08/2026 04:00 PM,C00382,06750347430,,call_center,need statement for last 3 months,Closed,med
+TKT-4803,2026-08-18 17:00:00,C02132,+917722503536,T0002231,branch,payment failed but money deducted,in progress,
+TKT-4804,2026-08-18 18:00:00,C04789,8683142318,UPI2026000026295,app_chat,transaction stuck in pending,open,HIGH
+TKT-4805,2026-08-18 19:00:00,C03606,8078948825,T0055634,branch,"MERCHANT SAYS NOT RECEIVED, BANK SAYS SUCCESS. WHO IS RIGHT? pls help",open,HIGH
+TKT-4806,2026-08-18 19:00:00,C02500,6900910171,unknown,twitter,need statement for last 3 months  ,resolved,
+TKT-4807,18/08/2026 08:00 PM,C04344,7897506186,N/A,call_center,UPI pin reset not working,closed,
+TKT-4808,2026-08-18 22:00:00,C04575,9678345459,T0037567,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!!!,reopened,med
+TKT-4809,2026-08-18 22:00:00,C04992,9543145308,unknown,twitter,"refund pending since 5 days, ticket #7102 reopened 4rd time",Closed,
+TKT-4810,1787077800,C04817,7790662007,,email,app not opening after update,open,HIGH
+TKT-4811,2026-08-19 01:00:00,C03766,8447640368,T0048793,email,"MERCHANT SAYS NOT RECEIVED, BANK SAYS SUCCESS. WHO IS RIGHT?",open,
+TKT-4812,19/08/2026 02:00 AM,C03109,8764462105,T0025590,branch,cashback not received for last order,reopened,HIGH
+TKT-4813,19-Aug-26 02:00,C04979,6846782075,,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!,reopened,
+TKT-4814,2026-08-19 05:00:00,C00084,+918390143401,T0002377,app_chat,PAYMENT FAILED BUT MONEY DEDUCTED!!,OPEN,med
+TKT-4815,2026-08-19 06:00:00,C01684,91-9280313448,,call_center,"refund pending since 5 days, ticket #1961 reopened 5rd time pls help",closed,
+TKT-4816,2026-08-19T02:30:00Z,C03239,09629988311,T0022796,call_center,"REFUND PENDING SINCE 11 DAYS, TICKET #3841 REOPENED 4RD TIME  ",in progress,
+TKT-4817,1787113800,C00218,7021955076,unknown,email,"merchant says not received, bank says success. who is right?!!",open,
+TKT-4818,1787117400,C01346,+919972920235,T0057452,email,double debit for same order,in progress,med
+TKT-4819,19-Aug-26 15:00,C02692,80636 41030,T0016477,twitter,"collect request approve kiya, paisa mila nahi balki kat gaya 25200 rs pls help",reopened,HIGH
+TKT-4820,2026-08-19T10:30:00Z,C04106,65698 04190,NULL,twitter,transaction stuck in pending,resolved,
+TKT-4821,2026-08-19 20:00:00,C03095,7869180669,T0013588,call_center,double debit for same order,open,
+TKT-4822,1787153400,C01333,6761082246,T0053542,app_chat,payment failed but money deducted,Closed,
+TKT-4823,2026-08-19 22:00:00,C02054,78214 54187,T0054706,app_chat,"merchant says not received, bank says success. who is right?",closed,HIGH
+TKT-4824,2026-08-20 01:00:00,C04548,+916271704661,N/A,branch,cashback not received for last order,in progress,
+TKT-4825,1787175000,C03785,7252971979,T0045657,call_center,NEED STATEMENT FOR LAST 3 MONTHS,closed,
+TKT-4826,2026-08-20 04:00:00,C00313,98324 48194,T0038040,branch,paisa kat gaya but merchant bol raha payment nahi mila!!  ,closed,
+TKT-4827,2026-08-20 04:00:00,C01636,6549297665,T0005053,twitter,transaction stuck in pending!!,Closed,med
+TKT-4828,20/08/2026 05:00 AM,C01644,+916903076025,N/A,call_center,payment failed but money deducted!!,in progress,
+TKT-4829,20/08/2026 05:00 AM,C03204,8972719779,T0031084,branch,payment failed but money deducted pls help,open,
+TKT-4830,2026-08-19T23:30:00Z,C01211,6649379014,T0015102,call_center,"merchant says not received, bank says success. who is right?",Closed,low
+TKT-4831,1787189400,,+918726289345,T0025938,branch,"merchant says not received, bank says success. who is right?",closed,
+TKT-4832,20-Aug-26 08:00,C03082,+917276684637,,call_center,"refund pending since 7 days, ticket #4397 reopened 3rd time!!",reopened,HIGH
+TKT-4833,20/08/2026 09:00 AM,C03142,7070100952,T0057902,branch,transaction stuck in pending,Closed,
+TKT-4834,1787203800,C04503,9466146877,T0030099,email,payment failed but money deducted,resolved,HIGH
+TKT-4835,2026-08-20 13:00:00,C02527,9971874823,unknown,branch,"fake KYC call aaya tha, usne OTP maanga, mere account se 39k kat gaye",closed,med
+TKT-4836,2026-08-20 15:00:00,C00892,+919043005119,,app_chat,"refund pending since 5 days, ticket #5089 reopened 4rd time  ",Closed,med
+TKT-4837,1787221800,C02281,+919813959977,T0013283,email,double debit for same order,resolved,
+TKT-4838,2026-08-20 17:00:00,C04507,8894750098,T0021403,app_chat,transaction stuck in pending,reopened,low
+TKT-4839,2026-08-20 18:00:00,,9273919170,T0049247,email,transaction stuck in pending pls help,reopened,
+TKT-4840,2026-08-20 18:00:00,C00677,83419 44001,T0056285,call_center,"refund pending since 19 days, ticket #6552 reopened 2rd time  ",reopened,
+TKT-4841,2026-08-20 19:00:00,C00820,8340968254,T0048975,email,"sim card stopped working, got alerts for payments to unknown ids pls help",in progress,HIGH
+TKT-4842,1787243400,C02012,+916029541118,N/A,email,need statement for last 3 months,resolved,HIGH
+TKT-4843,1787254200,C03303,91-8199969510,T0052790,app_chat,transaction stuck in pending pls help,Closed,
+TKT-4844,2026-08-21 02:00:00,C03186,69738 25887,,twitter,double debit for same order,resolved,
+TKT-4845,2026-08-21 02:00:00,C03981,09785754355,T0021646,branch,"merchant says not received, bank says success. who is right?!!",Closed,
+TKT-4846,2026-08-21 03:00:00,C00904,91-6170395955,unknown,app_chat,"merchant says not received, bank says success. who is right? pls help",open,HIGH
+TKT-4847,21/08/2026 04:00 AM,C02107,91-6070401937,T0055350,call_center,need statement for last 3 months pls help,resolved,med
+TKT-4848,1787268600,C04057,06326874045,T0017533,twitter,"unauthorised transactions, i never added these beneficiaries. total loss 26774 rs pls help",closed,
+TKT-4849,2026-08-21 05:00:00,C04749,7064188431,,call_center,"unauthorised transactions, i never added these beneficiaries. total loss 32238 rs pls help",Closed,med
+TKT-4850,2026-08-20T23:30:00Z,C04014,8873753663,T0057906,app_chat,APP NOT OPENING AFTER UPDATE,open,
+TKT-4851,2026-08-21 05:00:00,C00800,91-6621192682,NULL,branch,payment failed but money deducted pls help,resolved,low
+TKT-4852,2026-08-21 05:00:00,C00738,+919568068174,T0034295,email,cashback not received for last order!!,OPEN,
+TKT-4853,2026-08-21 07:00:00,C04556,6445901407,N/A,email,cashback not received for last order,Closed,HIGH
+TKT-4854,2026-08-21 08:00:00,C02955,8820038461,T0029993,call_center,"merchant says not received, bank says success. who is right?",OPEN,
+TKT-4855,2026-08-21 09:00:00,C02739,65819 24873,T0055508,email,NEED STATEMENT FOR LAST 3 MONTHS!!,closed,med
+TKT-4856,2026-08-21 11:00:00,C01819,9057883454,unknown,email,need statement for last 3 months pls help,Closed,HIGH
+TKT-4857,21/08/2026 01:00 PM,C00892,+919043005119,unknown,twitter,transaction stuck in pending!!,closed,HIGH
+TKT-4858,2026-08-21 13:00:00,,+919816644174,NULL,app_chat,"refund pending since 8 days, ticket #7818 reopened 2rd time",closed,
+TKT-4859,2026-08-21 14:00:00,,+919266307337,,branch,need statement for last 3 months!!,in progress,
+TKT-4860,21-Aug-26 15:00,C01119,7727397579,T0026711,branch,"my phone suddenly lost network, then ₹35,049 was transferred without my knowledge pls help",OPEN,med
+TKT-4861,21/08/2026 03:00 PM,C01064,91499 52407,T0057087,app_chat,transaction stuck in pending  ,Closed,HIGH
+TKT-4862,2026-08-21 16:00:00,C02495,+918831871272,T0014366,email,"merchant says not received, bank says success. who is right?  ",in progress,
+TKT-4863,2026-08-21 17:00:00,,9880429026,T0028360,app_chat,double debit for same order!!,in progress,
+TKT-4864,2026-08-21 18:00:00,,+917881630279,,branch,PAYMENT FAILED BUT MONEY DEDUCTED  ,Closed,
+TKT-4865,2026-08-21 20:00:00,C01167,+916784595901,T0056614,branch,UPI pin reset not working,Closed,low
+TKT-4866,2026-08-21T15:30:00Z,,+917936371757,T0057457,app_chat,double debit for same order  ,OPEN,
+TKT-4867,2026-08-21 22:00:00,,91-8308829195,NULL,call_center,transaction stuck in pending,closed,med
+TKT-4868,2026-08-21T16:30:00Z,C02802,91-9296799610,UPI2026000047505,call_center,UPI pin reset not working  ,reopened,HIGH
+TKT-4869,2026-08-22 01:00:00,C01648,79958 94401,T0047467,call_center,"refund pending since 7 days, ticket #1219 reopened 2rd time!!",OPEN,HIGH
+TKT-4870,22/08/2026 05:00 AM,C00432,9212095973,T0031330,branch,paisa kat gaya but merchant bol raha payment nahi mila!!,OPEN,
+TKT-4871,2026-08-22 09:00:00,,+918677606985,T0057388,call_center,UPI pin reset not working,closed,low
+TKT-4872,2026-08-22 09:00:00,C00645,9913309627,T0035174,branch,UPI pin reset not working  ,closed,med
+TKT-4873,22/08/2026 10:00 AM,C00763,91-8892588365,UPI2026000018344,branch,app not opening after update  ,in progress,HIGH
+TKT-4874,2026-08-22 12:00:00,C04990,9362376475,,twitter,payment failed but money deducted,resolved,
+TKT-4875,22-Aug-26 13:00,C02229,7811270448,,app_chat,cashback not received for last order,closed,med
+TKT-4876,2026-08-22T07:30:00Z,C04899,7543323474,,app_chat,"refund pending since 20 days, ticket #9753 reopened 2rd time",reopened,
+TKT-4877,2026-08-22T07:30:00Z,C03500,7755586259,T0012781,email,"merchant says not received, bank says success. who is right?!!",resolved,
+TKT-4878,2026-08-22 14:00:00,C04420,9019937106,,branch,app not opening after update,resolved,
+TKT-4879,2026-08-22 14:00:00,C01757,9370595934,UPI2026000051865,twitter,"refund pending since 15 days, ticket #9376 reopened 3rd time!!",Closed,
+TKT-4880,2026-08-22T10:30:00Z,C01530,+917683797638,,email,"collect request approve kiya, paisa mila nahi balki kat gaya ₹14,800  ",resolved,med
+TKT-4881,2026-08-22T10:30:00Z,C00958,8887924986,T0029641,call_center,need statement for last 3 months pls help,closed,
+TKT-4882,2026-08-22 20:00:00,C03467,06935725136,T0042077,branch,UPI pin reset not working  ,OPEN,
+TKT-4883,2026-08-22 21:00:00,C02001,91-6601280765,N/A,twitter,transaction stuck in pending,closed,low
+TKT-4884,22/08/2026 09:00 PM,C02313,+917085586575,,call_center,need statement for last 3 months,resolved,
+TKT-4885,23/08/2026 09:00 AM,C01979,9114974429,T0028141,branch,"MERCHANT SAYS NOT RECEIVED, BANK SAYS SUCCESS. WHO IS RIGHT?  ",closed,
+TKT-4886,2026-08-23T05:30:00Z,C02000,8127799645,T0047402,email,"REFUND PENDING SINCE 11 DAYS, TICKET #7840 REOPENED 3RD TIME pls help",reopened,low
+TKT-4887,1787463000,C03625,+918564180500,T0052117,email,app not opening after update!!,reopened,med
+TKT-4888,23-Aug-26 13:00,,7559142665,T0035301,twitter,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,open,
+TKT-4889,2026-08-23 13:00:00,,+916666670488,T0010019,twitter,cashback not received for last order!!,open,
+TKT-4890,2026-08-23 15:00:00,,7542892112,T0007022,email,"refund pending since 10 days, ticket #9037 reopened 4rd time",resolved,med
+TKT-4891,2026-08-23T10:30:00Z,C03961,09899159498,T0049002,branch,cashback not received for last order pls help,OPEN,low
+TKT-4892,2026-08-23 17:00:00,C01950,9917228308,T0049350,email,transaction stuck in pending pls help,resolved,
+TKT-4893,1787488200,C03569,9402717796,T0017295,twitter,UPI pin reset not working!!,open,HIGH
+TKT-4894,23/08/2026 09:00 PM,C02438,91-6933989583,T0045871,branch,paisa kat gaya but merchant bol raha payment nahi mila!!,OPEN,
+TKT-4895,2026-08-24 00:00:00,C02048,6333422746,T0058801,app_chat,payment failed but money deducted,reopened,
+TKT-4896,24-Aug-26 00:00,C01513,91-9918256638,UPI2026000008074,app_chat,cashback not received for last order pls help,in progress,low
+TKT-4897,2026-08-24 01:00:00,C00091,6342202362,N/A,email,"merchant says not received, bank says success. who is right? pls help",reopened,
+TKT-4898,24-Aug-26 02:00,C01890,7675378202,T0026543,email,"paid 10700 rs to seller on instagram, blocked me after payment pls help",OPEN,
+TKT-4899,2026-08-24 04:00:00,C04897,91-8142907331,,branch,CASHBACK NOT RECEIVED FOR LAST ORDER pls help,open,low
+TKT-4900,2026-08-24 06:00:00,C03142,7070100952,,twitter,cashback not received for last order  ,open,med
+TKT-4901,24/08/2026 06:00 AM,C02940,8248943563,T0042619,branch,need statement for last 3 months,open,
+TKT-4902,2026-08-24 08:00:00,C01401,81729 59321,T0044297,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!!!,in progress,low
+TKT-4903,24/08/2026 09:00 AM,C04059,8163572230,T0031834,call_center,app not opening after update  ,OPEN,
+TKT-4904,1787553000,C02132,7722503536,,twitter,need statement for last 3 months!!,OPEN,HIGH
+TKT-4905,24/08/2026 01:00 PM,C00949,7171056568,,twitter,"online shopping page se order kiya, 18k diye, ab seller reply nahi kar raha",open,med
+TKT-4906,2026-08-24 14:00:00,C01479,66397 51450,T0051007,email,cashback not received for last order!!,in progress,
+TKT-4907,24/08/2026 03:00 PM,,6328586826,,call_center,"refund pending since 10 days, ticket #1298 reopened 2rd time!!",Closed,
+TKT-4908,2026-08-24 16:00:00,C00286,+918761187367,T0039729,call_center,"refund pending since 7 days, ticket #6411 reopened 4rd time pls help",reopened,med
+TKT-4909,2026-08-24 19:00:00,,+916060910110,T0024322,call_center,UPI pin reset not working pls help,reopened,
+TKT-4910,1787596200,C04939,06459419090,unknown,twitter,"refund pending since 19 days, ticket #8485 reopened 4rd time",OPEN,HIGH
+TKT-4911,1787599800,C00882,9612065590,T0020573,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!,OPEN,med
+TKT-4912,2026-08-25 05:00:00,C01838,6370904616,T0026693,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!!!,in progress,
+TKT-4913,1787617800,C04635,+919703879809,T0041683,call_center,UPI pin reset not working  ,closed,
+TKT-4914,2026-08-25 07:00:00,,91-6141190853,UPI2026000010351,branch,app not opening after update!!,open,
+TKT-4915,25/08/2026 07:00 AM,C04666,6142519824,UPI2026000044807,email,cashback not received for last order!!,closed,low
+TKT-4916,2026-08-25 08:00:00,,+918345259370,T0055493,twitter,TRANSACTION STUCK IN PENDING,in progress,low
+TKT-4917,2026-08-25 12:00:00,C00197,6545979618,txn_60134,call_center,UPI pin reset not working!!,reopened,
+TKT-4918,2026-08-25 13:00:00,,6329566172,txn_46866,branch,need statement for last 3 months pls help,closed,HIGH
+TKT-4919,25-Aug-26 14:00,,78080 28835,T0036788,twitter,cashback not received for last order pls help,reopened,med
+TKT-4920,2026-08-25 15:00:00,C02998,8677606985,,call_center,"merchant says not received, bank says success. who is right?!!",resolved,med
+TKT-4921,25/08/2026 03:00 PM,C02230,+916889497856,T0056304,twitter,"MERCHANT SAYS NOT RECEIVED, BANK SAYS SUCCESS. WHO IS RIGHT? pls help",resolved,HIGH
+TKT-4922,2026-08-25 18:00:00,C04732,68350 34069,,branch,transaction stuck in pending,in progress,med
+TKT-4923,2026-08-25 19:00:00,C00358,6418982996,N/A,call_center,payment failed but money deducted!!,OPEN,HIGH
+TKT-4924,2026-08-25 23:00:00,C01349,91-9684657852,T0031840,email,payment failed but money deducted pls help,OPEN,med
+TKT-4925,2026-08-26 00:00:00,C03906,+917037681927,T0031195,branch,"merchant says not received, bank says success. who is right? pls help",open,
+TKT-4926,2026-08-26 04:00:00,C00194,8146145006,N/A,email,paisa kat gaya but merchant bol raha payment nahi mila!!!!,open,HIGH
+TKT-4927,2026-08-25T23:30:00Z,C02213,9652401692,N/A,call_center,payment failed but money deducted!!,Closed,
+TKT-4928,2026-08-26 06:00:00,C04020,+916757649058,T0030194,app_chat,"someone called saying card blocked, i gave otp. ₹84,200 debited!!!!",reopened,med
+TKT-4929,2026-08-26 06:00:00,C04344,7897506186,T0032175,twitter,cashback not received for last order,resolved,
+TKT-4930,26/08/2026 08:00 AM,C03272,91-7239894929,N/A,twitter,"merchant says not received, bank says success. who is right?",resolved,HIGH
+TKT-4931,2026-08-26 09:00:00,C04081,6360999794,T0013474,twitter,"merchant says not received, bank says success. who is right?",resolved,HIGH
+TKT-4932,2026-08-26 10:00:00,C00843,09956521837,T0038623,email,"refund pending since 11 days, ticket #3128 reopened 2rd time  ",open,med
+TKT-4933,2026-08-26 11:00:00,,+917424367789,T0059435,app_chat,double debit for same order  ,resolved,
+TKT-4934,2026-08-26T05:30:00Z,C04286,+918781182323,T0047718,email,payment failed but money deducted pls help,open,
+TKT-4935,2026-08-26 12:00:00,C00845,9585448815,T0007540,app_chat,transaction stuck in pending,resolved,
+TKT-4936,2026-08-26 14:00:00,C04825,9449574022,T0050943,branch,need statement for last 3 months  ,in progress,HIGH
+TKT-4937,2026-08-26 17:00:00,C02572,9738279922,txn_37000,email,"my phone suddenly lost network, then 38218 rs was transferred without my knowledge",in progress,med
+TKT-4938,2026-08-26 17:00:00,C04230,+917698418259,T0004436,call_center,"i got a request to 'receive' money, approved it and paid 19k instead  ",reopened,
+TKT-4939,26-Aug-26 17:00,C03505,9861123376,T0000043,call_center,"refund pending since 19 days, ticket #7680 reopened 5rd time",open,
+TKT-4940,2026-08-26 19:00:00,C01414,06604316203,T0048094,branch,double debit for same order,in progress,
+TKT-4941,2026-08-26 20:00:00,C03437,8256611738,T0009710,branch,need statement for last 3 months,closed,
+TKT-4942,2026-08-27 00:00:00,C03485,09848251833,T0051805,app_chat,UPI pin reset not working pls help,closed,med
+TKT-4943,2026-08-27 01:00:00,C03221,9278468866,UPI2026000004909,branch,double debit for same order,closed,med
+TKT-4944,1787772600,C04716,8749670863,,email,need statement for last 3 months,closed,
+TKT-4945,2026-08-27 03:00:00,C02439,07810892214,unknown,app_chat,"refund pending since 16 days, ticket #9116 reopened 4rd time!!",resolved,med
+TKT-4946,1787779800,C04907,07525813747,unknown,email,app not opening after update  ,reopened,HIGH
+TKT-4947,2026-08-26T22:30:00Z,C03594,7314071631,T0020843,call_center,payment failed but money deducted,OPEN,med
+TKT-4948,1787783400,,06056641883,T0027849,twitter,upi pin reset not working pls help,Closed,
+TKT-4949,2026-08-27 06:00:00,C01638,07473405759,T0050596,branch,UPI pin reset not working!!,resolved,low
+TKT-4950,2026-08-27 07:00:00,C00338,6734543270,T0039085,twitter,"collect request approve kiya, paisa mila nahi balki kat gaya ₹12,200",closed,low
+TKT-4951,27/08/2026 09:00 AM,C02278,+916745547265,T0012527,twitter,app not opening after update,Closed,low
+TKT-4952,2026-08-27 11:00:00,C03844,91-6121298942,,app_chat,"got call from 'bank officer', shared otp, ₹22,800 gone. pls block!!",OPEN,
+TKT-4953,2026-08-27 12:00:00,C00906,6111227834,UPI2026000044168,branch,"merchant says not received, bank says success. who is right?",resolved,low
+TKT-4954,2026-08-27 17:00:00,C04438,7458451566,,call_center,"merchant says not received, bank says success. who is right? pls help",reopened,
+TKT-4955,2026-08-27 18:00:00,C03011,9896044575,N/A,branch,transaction stuck in pending pls help,OPEN,med
+TKT-4956,1787851800,C04058,7896343664,T0000449,email,"merchant says not received, bank says success. who is right?",open,
+TKT-4957,2026-08-28 02:00:00,C01109,9087468416,T0010977,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!,OPEN,HIGH
+TKT-4958,1787866200,C04676,+918950577214,T0050667,app_chat,transaction stuck in pending!!,closed,
+TKT-4959,2026-08-28 05:00:00,C03602,+916059597403,T0013952,email,app not opening after update,Closed,
+TKT-4960,2026-08-28 05:00:00,C00301,09667272039,NULL,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!,Closed,HIGH
+TKT-4961,2026-08-28 06:00:00,C01709,91-7463102316,N/A,email,"refund pending since 4 days, ticket #8421 reopened 5rd time!!",reopened,HIGH
+TKT-4962,28/08/2026 08:00 AM,C02839,7368691728,unknown,app_chat,app not opening after update pls help,reopened,HIGH
+TKT-4963,2026-08-28 08:00:00,C00992,+919791806480,N/A,app_chat,UPI pin reset not working!!,resolved,HIGH
+TKT-4964,2026-08-28T03:30:00Z,C00293,6179974080,T0050011,twitter,need statement for last 3 months  ,reopened,low
+TKT-4965,2026-08-28 11:00:00,C04404,98686 66632,T0047215,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,reopened,
+TKT-4966,1787898600,C03906,70376 81927,NULL,app_chat,payment failed but money deducted  ,Closed,low
+TKT-4967,2026-08-28 12:00:00,,8279536599,T0023432,branch,double debit for same order pls help,closed,HIGH
+TKT-4968,28/08/2026 01:00 PM,C01608,9061457581,txn_22419,app_chat,cashback not received for last order,reopened,
+TKT-4969,2026-08-28 17:00:00,C02020,6302447976,T0010106,branch,"merchant says not received, bank says success. who is right?  ",reopened,med
+TKT-4970,1787916600,C02019,91-8322803683,unknown,branch,app not opening after update,reopened,
+TKT-4971,2026-08-28 19:00:00,C03408,7541294972,T0013266,branch,cashback not received for last order,closed,low
+TKT-4972,2026-08-28 19:00:00,C04576,7010178634,N/A,twitter,"refund pending since 8 days, ticket #1008 reopened 4rd time  ",OPEN,low
+TKT-4973,2026-08-28 20:00:00,C02625,9951377498,,branch,paisa kat gaya but merchant bol raha payment nahi mila!!,reopened,
+TKT-4974,1787927400,,9732464648,,email,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,OPEN,med
+TKT-4975,2026-08-29 01:00:00,C04374,8586115347,T0025877,email,double debit for same order!!,Closed,
+TKT-4976,2026-08-29 01:00:00,C01638,+917473405759,T0001591,app_chat,double debit for same order!!,closed,low
+TKT-4977,29/08/2026 01:00 AM,,09463270993,,twitter,"merchant says not received, bank says success. who is right?  ",in progress,
+TKT-4978,2026-08-29 02:00:00,C02408,+916796545628,UPI2026000010231,email,"paid 14k to seller on instagram, blocked me after payment",Closed,
+TKT-4979,2026-08-28T21:30:00Z,C02143,91-8859093092,T0056950,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!,Closed,
+TKT-4980,2026-08-29 04:00:00,C03430,87370 77084,T0020297,twitter,cashback not received for last order,open,
+TKT-4981,29/08/2026 08:00 AM,C04074,9785351562,N/A,email,"merchant says not received, bank says success. who is right?",closed,low
+TKT-4982,2026-08-29 09:00:00,C01535,+918795636577,T0014024,branch,"merchant says not received, bank says success. who is right?  ",closed,med
+TKT-4983,29/08/2026 09:00 AM,C03142,7070100952,,branch,PAISA KAT GAYA BUT MERCHANT BOL RAHA PAYMENT NAHI MILA!!  ,OPEN,
+TKT-4984,2026-08-29 09:00:00,C04870,+917658819724,,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!!!,reopened,low
+TKT-4985,29/08/2026 10:00 AM,C00081,6333840628,T0059822,call_center,need statement for last 3 months  ,Closed,HIGH
+TKT-4986,2026-08-29 11:00:00,C01517,91-6136594249,,app_chat,payment failed but money deducted  ,resolved,low
+TKT-4987,2026-08-29 12:00:00,C04641,+918003897451,NULL,call_center,"merchant says not received, bank says success. who is right?",closed,
+TKT-4988,29-Aug-26 15:00,,+916186195781,T0013668,branch,"collect request approve kiya, paisa mila nahi balki kat gaya 30k",closed,
+TKT-4989,2026-08-29 17:00:00,,91-8048997384,T0057192,call_center,"merchant says not received, bank says success. who is right?!!",Closed,low
+TKT-4990,29-Aug-26 20:00,C00688,9488916248,T0007455,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!!!,in progress,
+TKT-4991,29-Aug-26 23:00,C00253,91-9792943795,T0056210,branch,payment failed but money deducted,closed,low
+TKT-4992,2026-08-30 01:00:00,C03013,6317500640,unknown,branch,"collect request approve kiya, paisa mila nahi balki kat gaya 22800 rs!!",in progress,
+TKT-4993,2026-08-29T21:30:00Z,C01215,+917997815437,T0034490,email,"refund pending since 19 days, ticket #9213 reopened 5rd time pls help",closed,
+TKT-4994,30/08/2026 05:00 AM,C01129,8884815008,T0011667,app_chat,"merchant says not received, bank says success. who is right?!!",reopened,HIGH
+TKT-4995,2026-08-30 08:00:00,C03009,7560639502,N/A,twitter,double debit for same order!!,reopened,low
+TKT-4996,1788075000,C03906,07037681927,T0018189,branch,need statement for last 3 months pls help,resolved,
+TKT-4997,2026-08-30 14:00:00,C00492,7508685895,,email,"got call from 'bank officer', shared OTP, ₹36,400 gone. pls block  ",open,
+TKT-4998,2026-08-30 15:00:00,C00057,7972855827,T0004999,call_center,UPI pin reset not working!!,in progress,
+TKT-4999,2026-08-30 15:00:00,,7722554830,T0025901,branch,payment failed but money deducted,open,low
+TKT-5000,2026-08-30 17:00:00,C04018,08308750806,T0032021,twitter,need statement for last 3 months,resolved,HIGH
+TKT-5001,2026-08-30 17:00:00,,8212087166,,branch,need statement for last 3 months  ,resolved,med
+TKT-5002,30/08/2026 06:00 PM,C02851,7740550925,T0059709,app_chat,payment failed but money deducted,open,
+TKT-5003,2026-08-30 19:00:00,C02919,7012273854,unknown,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!!!,reopened,
+TKT-5004,2026-08-30 22:00:00,C01090,7718918309,T0035916,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!!!,closed,HIGH
+TKT-5005,2026-08-31 00:00:00,C02156,91-8686338744,N/A,call_center,app not opening after update!!,resolved,
+TKT-5006,2026-08-31T01:30:00Z,,7340581854,,branch,"refund pending since 14 days, ticket #5998 reopened 4rd time pls help",in progress,
+TKT-5007,31/08/2026 08:00 AM,C02512,09930311757,,email,need statement for last 3 months!!,reopened,med
+TKT-5008,2026-08-31 08:00:00,C01182,7378984651,N/A,email,cashback not received for last order  ,OPEN,
+TKT-5009,2026-08-31 09:00:00,C02241,6314808152,T0035473,branch,payment failed but money deducted,resolved,
+TKT-5010,31/08/2026 09:00 AM,C01457,+919911426376,,app_chat,transaction stuck in pending  ,resolved,
+TKT-5011,2026-08-31 09:00:00,C01768,8500451012,T0011699,email,double debit for same order,in progress,
+TKT-5012,2026-08-31 10:00:00,,+919028261525,T0026412,email,"merchant says not received, bank says success. who is right?",in progress,HIGH
+TKT-5013,2026-08-31 10:00:00,C01281,7486376924,txn_844,email,need statement for last 3 months  ,OPEN,low
+TKT-5014,2026-08-31 10:00:00,C02786,91-8567618682,T0046275,email,app not opening after update pls help,OPEN,med
+TKT-5015,2026-08-31 11:00:00,C04931,6066198833,unknown,twitter,"i got a request to 'receive' money, approved it and paid ₹21,700 instead",Closed,
+TKT-5016,2026-08-31 12:00:00,C01535,+918795636577,,email,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,reopened,
+TKT-5017,2026-08-31 12:00:00,C01349,09684657852,UPI2026000005396,branch,transaction stuck in pending,resolved,
+TKT-5018,2026-08-31 13:00:00,C00612,8974092688,T0058548,app_chat,need statement for last 3 months,reopened,low
+TKT-5019,2026-08-31 14:00:00,C00892,09043005119,,call_center,double debit for same order,in progress,low
+TKT-5020,31/08/2026 03:00 PM,C02454,6104200974,T0037399,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!,OPEN,
+TKT-5021,2026-08-31 18:00:00,C03009,7560639502,T0048436,twitter,"my phone suddenly lost network, then 30k was transferred without my knowledge!!",in progress,
+TKT-5022,1788179400,C01284,+917724589670,,branch,double debit for same order  ,OPEN,HIGH
+TKT-5023,2026-08-31T14:30:00Z,C01171,6137314542,N/A,branch,"my phone suddenly lost network, then 40k was transferred without my knowledge",Closed,
+TKT-5024,2026-08-31 20:00:00,C04188,7199113018,NULL,email,cashback not received for last order!!,OPEN,
+TKT-5025,31/08/2026 10:00 PM,C02229,+917811270448,unknown,email,double debit for same order  ,resolved,
+TKT-5026,2026-09-01 01:00:00,C00098,8459725583,T0035587,call_center,"merchant says not received, bank says success. who is right?",reopened,low
+TKT-5027,1788208200,C00593,8399502663,NULL,twitter,app not opening after update!!,closed,
+TKT-5028,01/09/2026 02:00 AM,,+916582287656,T0038394,branch,app not opening after update  ,reopened,med
+TKT-5029,2026-09-01 04:00:00,C00946,6149077139,unknown,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!,in progress,low
+TKT-5030,1788219000,C04774,91-8603270143,T0037506,call_center,need statement for last 3 months!!,closed,HIGH
+TKT-5031,01/09/2026 07:00 AM,C04726,91-7040142291,T0036286,twitter,need statement for last 3 months!!,Closed,
+TKT-5032,2026-09-01 08:00:00,,9548229338,,call_center,UPI pin reset not working!!,reopened,low
+TKT-5033,2026-09-01 10:00:00,C03962,7055127313,,call_center,transaction stuck in pending,resolved,HIGH
+TKT-5034,2026-09-01 10:00:00,C01924,+919337997503,,twitter,payment failed but money deducted  ,reopened,
+TKT-5035,01/09/2026 12:00 PM,C03650,91-8699830087,N/A,branch,"merchant says not received, bank says success. who is right?",closed,med
+TKT-5036,1788247800,,6530377838,T0025691,app_chat,"merchant says not received, bank says success. who is right?!!",OPEN,med
+TKT-5037,2026-09-01T09:30:00Z,C03944,7545545057,UPI2026000003862,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!,OPEN,low
+TKT-5038,2026-09-01 20:00:00,,+916240500326,T0014696,branch,app not opening after update  ,open,low
+TKT-5039,2026-09-01 20:00:00,C00792,8124075536,unknown,call_center,need statement for last 3 months,reopened,
+TKT-5040,2026-09-01 21:00:00,C01509,+917618635069,T0041694,twitter,app not opening after update!!,Closed,
+TKT-5041,02/09/2026 12:00 AM,C02367,7246917037,N/A,app_chat,double debit for same order pls help,closed,
+TKT-5042,1788287400,C00524,+919222058672,,twitter,double debit for same order,closed,HIGH
+TKT-5043,02-Sep-26 03:00,C04335,06731625536,T0014165,app_chat,PAYMENT FAILED BUT MONEY DEDUCTED  ,reopened,low
+TKT-5044,02/09/2026 04:00 AM,C02605,91-6742588401,unknown,call_center,upi pin reset not working,in progress,
+TKT-5045,2026-09-02 05:00:00,C00981,8470453364,T0009148,email,TRANSACTION STUCK IN PENDING!!,closed,
+TKT-5046,2026-09-02 07:00:00,C01924,09337997503,NULL,branch,"refund pending since 10 days, ticket #6871 reopened 5rd time!!",OPEN,med
+TKT-5047,2026-09-02 08:00:00,C01346,9972920235,unknown,branch,paisa kat gaya but merchant bol raha payment nahi mila!!  ,OPEN,HIGH
+TKT-5048,02/09/2026 09:00 AM,C00904,6170395955,T0028950,twitter,"paid 7k to seller on instagram, blocked me after payment",reopened,med
+TKT-5049,02-Sep-26 09:00,C04205,81280 70737,T0028718,branch,"refund pending since 12 days, ticket #7550 reopened 2rd time  ",closed,
+TKT-5050,2026-09-02T05:30:00Z,C02912,6744875289,unknown,twitter,"refund pending since 15 days, ticket #4525 reopened 4rd time!!",reopened,med
+TKT-5051,2026-09-02 13:00:00,,+919715733212,T0016786,branch,cashback not received for last order  ,open,med
+TKT-5052,2026-09-02 15:00:00,C01690,+917777280014,T0030978,twitter,double debit for same order,open,HIGH
+TKT-5053,2026-09-02 15:00:00,,7516301346,txn_11974,call_center,payment failed but money deducted!!,Closed,HIGH
+TKT-5054,2026-09-02 17:00:00,C00496,6535821480,T0014795,call_center,UPI pin reset not working,OPEN,
+TKT-5055,02/09/2026 06:00 PM,C03019,7638675569,T0006229,call_center,"someone called saying card blocked, i gave otp. ₹54,300 debited!! pls help",open,
+TKT-5056,2026-09-02 18:00:00,C03115,7838505166,T0048007,app_chat,payment failed but money deducted,in progress,
+TKT-5057,02/09/2026 07:00 PM,C00365,06322878562,,call_center,app not opening after update  ,in progress,HIGH
+TKT-5058,2026-09-02 20:00:00,C00430,91-9359159819,T0028678,email,"paid 16400 rs to seller on instagram, blocked me after payment pls help",Closed,med
+TKT-5059,2026-09-02 20:00:00,C02473,6098562078,NULL,call_center,double debit for same order,resolved,med
+TKT-5060,1788359400,C04021,6618116832,UPI2026000047648,call_center,payment failed but money deducted!!,closed,low
+TKT-5061,02-Sep-26 21:00,,8057967100,T0021144,call_center,"refund pending since 16 days, ticket #7981 reopened 2rd time",in progress,
+TKT-5062,2026-09-02 21:00:00,C00170,91-7409759866,T0017747,branch,UPI PIN RESET NOT WORKING,closed,
+TKT-5063,2026-09-02 22:00:00,C04533,7498481611,NULL,branch,need statement for last 3 months,in progress,HIGH
+TKT-5064,1788381000,,60272 44355,T0057126,email,cashback not received for last order,reopened,
+TKT-5065,2026-09-03 02:00:00,,6074184092,unknown,branch,app not opening after update,reopened,
+TKT-5066,1788384600,C04057,+916326874045,unknown,call_center,need statement for last 3 months pls help,Closed,HIGH
+TKT-5067,1788384600,,78840 78751,T0043410,twitter,need statement for last 3 months pls help,OPEN,
+TKT-5068,03/09/2026 07:00 AM,C03440,8307772123,T0019935,app_chat,transaction stuck in pending,resolved,low
+TKT-5069,03-Sep-26 07:00,C03390,8899653513,UPI2026000025649,app_chat,"refund pending since 18 days, ticket #7271 reopened 2rd time pls help",in progress,low
+TKT-5070,03/09/2026 10:00 AM,C01084,9069482176,N/A,twitter,cashback not received for last order  ,in progress,
+TKT-5071,2026-09-03 10:00:00,C03586,09085699591,txn_40911,email,UPI pin reset not working pls help,OPEN,low
+TKT-5072,2026-09-03 10:00:00,C03294,8155727812,N/A,twitter,"refund pending since 7 days, ticket #9426 reopened 2rd time",Closed,
+TKT-5073,2026-09-03 10:00:00,,7711556766,UPI2026000058965,app_chat,PAISA KAT GAYA BUT MERCHANT BOL RAHA PAYMENT NAHI MILA!!  ,Closed,
+TKT-5074,2026-09-03 11:00:00,C02317,+918980694449,T0000724,call_center,cashback not received for last order pls help,closed,low
+TKT-5075,2026-09-03 12:00:00,,6221759342,T0041395,call_center,cashback not received for last order pls help,in progress,med
+TKT-5076,1788420600,C00847,+917257332935,NULL,app_chat,payment failed but money deducted pls help,open,
+TKT-5077,2026-09-03T08:30:00Z,C02036,08487491299,T0020014,branch,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,OPEN,low
+TKT-5078,03-Sep-26 15:00,C03332,94401 50145,T0017978,branch,"refund pending since 9 days, ticket #2427 reopened 2rd time!!",reopened,HIGH
+TKT-5079,1788427800,C02828,6599621404,T0049411,branch,need statement for last 3 months  ,closed,
+TKT-5080,2026-09-03 16:00:00,C02278,6745547265,T0047310,branch,cashback not received for last order,resolved,
+TKT-5081,2026-09-03 19:00:00,C00264,74976 51057,,call_center,"my phone suddenly lost network, then 31k was transferred without my knowledge  ",OPEN,low
+TKT-5082,2026-09-03 21:00:00,,87106 17328,T0043322,twitter,need statement for last 3 months!!,resolved,med
+TKT-5083,2026-09-03 21:00:00,C01617,7537298630,T0010630,app_chat,"refund pending since 15 days, ticket #3734 reopened 2rd time  ",open,
+TKT-5084,1788453000,C03305,+916849094883,T0043492,email,payment failed but money deducted,in progress,HIGH
+TKT-5085,1788456600,C00049,7246116364,,email,UPI pin reset not working,reopened,
+TKT-5086,2026-09-03 23:00:00,C03750,7486407790,T0031921,email,double debit for same order pls help,reopened,med
+TKT-5087,2026-09-04 01:00:00,C00926,9959688204,T0016530,app_chat,cashback not received for last order,closed,
+TKT-5088,04/09/2026 02:00 AM,C00892,9043005119,txn_17578,twitter,payment failed but money deducted pls help,OPEN,
+TKT-5089,2026-09-04 03:00:00,C01575,91-8126816590,N/A,twitter,"merchant says not received, bank says success. who is right?",OPEN,med
+TKT-5090,04/09/2026 03:00 AM,C01452,9999765454,,email,payment failed but money deducted,closed,
+TKT-5091,2026-09-04 04:00:00,C03647,9594173914,T0031460,call_center,need statement for last 3 months  ,open,
+TKT-5092,2026-09-04 05:00:00,C01335,+916748105387,T0043490,call_center,payment failed but money deducted  ,resolved,HIGH
+TKT-5093,2026-09-04 08:00:00,C03952,07808028835,,twitter,transaction stuck in pending  ,in progress,
+TKT-5094,2026-09-04 09:00:00,C04641,91-8003897451,T0045595,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!!!,open,
+TKT-5095,2026-09-04 09:00:00,C01085,+916080029827,T0037163,call_center,DOUBLE DEBIT FOR SAME ORDER!!,reopened,
+TKT-5096,04/09/2026 09:00 AM,C04984,07860089138,,twitter,"refund pending since 13 days, ticket #8068 reopened 3rd time",closed,
+TKT-5097,2026-09-04T04:30:00Z,C04565,9339238689,unknown,branch,"got call from 'bank officer', shared OTP, ₹53,700 gone. pls block",resolved,
+TKT-5098,2026-09-04 10:00:00,C04143,06153633350,T0029468,twitter,cashback not received for last order,resolved,
+TKT-5099,2026-09-04 11:00:00,C03186,6973825887,T0008265,email,need statement for last 3 months!!,open,low
+TKT-5100,2026-09-04 12:00:00,,7783155379,NULL,call_center,payment failed but money deducted pls help,in progress,
+TKT-5101,2026-09-04 13:00:00,C02201,7066833087,NULL,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!,resolved,med
+TKT-5102,2026-09-04 15:00:00,C02449,91-6108827032,NULL,app_chat,need statement for last 3 months pls help,reopened,low
+TKT-5103,04/09/2026 03:00 PM,C01396,9021064856,T0053633,twitter,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,resolved,
+TKT-5104,2026-09-04 17:00:00,C04516,8088947847,T0038039,app_chat,transaction stuck in pending,in progress,
+TKT-5105,1788521400,C00274,+916738878041,N/A,branch,UPI pin reset not working,closed,
+TKT-5106,2026-09-04T12:30:00Z,,91-8239847885,unknown,call_center,"someone called saying card blocked, i gave otp. ₹60,700 debited!!  ",Closed,
+TKT-5107,2026-09-04 18:00:00,C01504,7863407992,N/A,app_chat,UPI pin reset not working,in progress,
+TKT-5108,1788525000,C04259,+919731406168,,branch,"MERCHANT SAYS NOT RECEIVED, BANK SAYS SUCCESS. WHO IS RIGHT?  ",OPEN,
+TKT-5109,05/09/2026 12:00 AM,,6304400381,NULL,twitter,payment failed but money deducted,reopened,med
+TKT-5110,1788550200,C00227,+918155531525,T0057988,twitter,double debit for same order,resolved,
+TKT-5111,2026-09-04T19:30:00Z,C00182,+918481939891,N/A,branch,paisa kat gaya but merchant bol raha payment nahi mila!!,OPEN,
+TKT-5112,2026-09-05 02:00:00,C02314,90210 56458,NULL,email,"paid ₹18,800 to seller on instagram, blocked me after payment!!",Closed,
+TKT-5113,2026-09-05 03:00:00,C02371,7481250359,T0059367,app_chat,app not opening after update  ,resolved,
+TKT-5114,05/09/2026 05:00 AM,,66093 90331,T0014625,app_chat,"got call from 'bank officer', shared OTP, ₹28,100 gone. pls block!!",OPEN,med
+TKT-5115,2026-09-05 08:00:00,C00058,06137502141,N/A,twitter,cashback not received for last order!!,OPEN,low
+TKT-5116,2026-09-05 08:00:00,C00847,7257332935,T0015349,email,double debit for same order,OPEN,
+TKT-5117,2026-09-05 09:00:00,C03052,+916475348123,,app_chat,payment failed but money deducted pls help,OPEN,HIGH
+TKT-5118,2026-09-05 10:00:00,C03712,9150130540,T0026135,branch,"REFUND PENDING SINCE 11 DAYS, TICKET #2597 REOPENED 3RD TIME",Closed,
+TKT-5119,2026-09-05 11:00:00,C03432,91-7975495015,NULL,branch,"merchant says not received, bank says success. who is right?!!",open,
+TKT-5120,2026-09-05 12:00:00,C04137,8560760219,T0028725,email,"merchant says not received, bank says success. who is right?",resolved,
+TKT-5121,2026-09-05 13:00:00,C04898,7516301346,T0001143,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,Closed,
+TKT-5122,05/09/2026 01:00 PM,,08825343839,unknown,branch,"merchant says not received, bank says success. who is right? pls help",closed,HIGH
+TKT-5123,2026-09-05 15:00:00,C01802,+917411727617,T0015589,app_chat,"UNAUTHORISED TRANSACTIONS, I NEVER ADDED THESE BENEFICIARIES. TOTAL LOSS 33K",in progress,
+TKT-5124,05-Sep-26 17:00,C00930,91-7923527703,N/A,branch,transaction stuck in pending pls help,open,HIGH
+TKT-5125,05/09/2026 06:00 PM,C00285,92286 93667,T0020884,app_chat,payment failed but money deducted,resolved,med
+TKT-5126,05-Sep-26 18:00,C02623,7030507471,N/A,branch,UPI pin reset not working,reopened,
+TKT-5127,2026-09-05T14:30:00Z,C03946,8454889536,T0040341,call_center,cashback not received for last order,resolved,low
+TKT-5128,2026-09-05T16:30:00Z,C01721,9550838137,,twitter,"online shopping page se order kiya, 14k diye, ab seller reply nahi kar raha!!",reopened,med
+TKT-5129,2026-09-05 23:00:00,C04004,06098819085,,branch,need statement for last 3 months pls help,open,
+TKT-5130,2026-09-05 23:00:00,C04262,7108594367,T0048885,app_chat,need statement for last 3 months  ,in progress,low
+TKT-5131,2026-09-05 23:00:00,C04604,7405373732,T0053578,email,need statement for last 3 months,closed,
+TKT-5132,2026-09-06 00:00:00,C03689,6590636984,T0036758,branch,need statement for last 3 months!!,open,
+TKT-5133,06/09/2026 12:00 AM,C02271,6227681465,UPI2026000048319,email,double debit for same order,open,
+TKT-5134,06/09/2026 01:00 AM,C01257,+916299129369,unknown,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!,in progress,low
+TKT-5135,2026-09-06 03:00:00,C00704,+918572164837,T0054217,branch,"fake KYC call aaya tha, usne OTP maanga, mere account se 49600 rs kat gaye",closed,low
+TKT-5136,2026-09-06 04:00:00,C02585,+917177550948,,call_center,double debit for same order pls help,open,
+TKT-5137,1788647400,C00404,7988520540,N/A,twitter,need statement for last 3 months,OPEN,low
+TKT-5138,06/09/2026 05:00 AM,C01458,07010115571,T0039217,twitter,need statement for last 3 months!!,open,
+TKT-5139,1788658200,C03288,6279590312,unknown,app_chat,UPI pin reset not working,in progress,med
+TKT-5140,2026-09-06T02:30:00Z,C01379,6944053207,T0014999,branch,app not opening after update pls help,closed,
+TKT-5141,2026-09-06T02:30:00Z,C03011,91-9896044575,T0057424,call_center,PAISA KAT GAYA BUT MERCHANT BOL RAHA PAYMENT NAHI MILA!!!!,Closed,
+TKT-5142,2026-09-06 09:00:00,C01188,6841824863,,app_chat,transaction stuck in pending,closed,low
+TKT-5143,2026-09-06 12:00:00,C01238,7326094149,T0046499,email,cashback not received for last order!!,resolved,med
+TKT-5144,1788683400,C03328,80229 04662,T0036751,app_chat,app not opening after update,open,
+TKT-5145,2026-09-06T12:30:00Z,C00785,91-8731550037,unknown,email,need statement for last 3 months pls help,OPEN,med
+TKT-5146,2026-09-06 19:00:00,C04160,+916734616476,T0003865,call_center,"merchant says not received, bank says success. who is right?  ",open,low
+TKT-5147,06/09/2026 08:00 PM,C01224,9958460440,unknown,twitter,"refund pending since 20 days, ticket #2912 reopened 4rd time",resolved,low
+TKT-5148,06/09/2026 08:00 PM,C00934,6668001790,T0035825,twitter,payment failed but money deducted pls help,reopened,HIGH
+TKT-5149,06/09/2026 10:00 PM,C03142,7070100952,T0059123,call_center,double debit for same order!!,Closed,
+TKT-5150,2026-09-06 23:00:00,C03586,9085699591,N/A,branch,"someone called saying card blocked, i gave otp. 92900 rs debited!!",Closed,
+TKT-5151,07-Sep-26 01:00,C03732,6728262031,T0030851,branch,"merchant says not received, bank says success. who is right?!!",in progress,HIGH
+TKT-5152,07/09/2026 04:00 AM,,06591448420,unknown,email,UPI pin reset not working,reopened,
+TKT-5153,2026-09-07 06:00:00,C01556,+919074676483,,email,transaction stuck in pending pls help,open,HIGH
+TKT-5154,1788741000,C01518,8720069942,T0009860,branch,UPI pin reset not working pls help,reopened,
+TKT-5155,07-Sep-26 08:00,C02542,8565666743,T0031563,twitter,"someone called saying card blocked, i gave otp. 58600 rs debited!!",Closed,
+TKT-5156,07/09/2026 10:00 AM,C01640,8118638505,T0053640,app_chat,UPI pin reset not working!!,closed,
+TKT-5157,07-Sep-26 13:00,C00961,8206038695,T0000048,call_center,double debit for same order,reopened,
+TKT-5158,07/09/2026 01:00 PM,C00671,6700411979,T0010615,call_center,need statement for last 3 months!!,in progress,med
+TKT-5159,2026-09-07 14:00:00,C04074,9785351562,UPI2026000015376,twitter,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,Closed,low
+TKT-5160,07-Sep-26 14:00,C04491,84628 69663,T0016647,branch,transaction stuck in pending,reopened,
+TKT-5161,2026-09-07T12:30:00Z,C03313,+918689249959,unknown,email,double debit for same order!!,resolved,
+TKT-5162,2026-09-07 18:00:00,C02992,7959038920,unknown,twitter,app not opening after update  ,in progress,med
+TKT-5163,2026-09-07 18:00:00,C04251,9546049620,unknown,app_chat,payment failed but money deducted,resolved,low
+TKT-5164,2026-09-07 19:00:00,C03989,7628570220,T0041845,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!  ,OPEN,low
+TKT-5165,2026-09-07 21:00:00,C04805,+919422499743,UPI2026000055583,app_chat,double debit for same order,OPEN,HIGH
+TKT-5166,2026-09-08 00:00:00,,+917160574934,unknown,app_chat,need statement for last 3 months  ,Closed,med
+TKT-5167,08/09/2026 01:00 AM,C04456,+916386491997,N/A,branch,"merchant says not received, bank says success. who is right?",resolved,HIGH
+TKT-5168,08-Sep-26 02:00,C04004,6098819085,,call_center,transaction stuck in pending,open,med
+TKT-5169,2026-09-08 02:00:00,C00483,7201609917,T0005750,branch,paisa kat gaya but merchant bol raha payment nahi mila!!!!,in progress,low
+TKT-5170,2026-09-08 06:00:00,C02311,8797315637,T0027372,branch,DOUBLE DEBIT FOR SAME ORDER pls help,OPEN,
+TKT-5171,2026-09-08 07:00:00,C03186,91-6973825887,T0008264,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!!!,resolved,
+TKT-5172,08/09/2026 08:00 AM,C01259,7152548536,T0043161,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,closed,med
+TKT-5173,2026-09-08 08:00:00,C03387,91-6520606299,,twitter,DOUBLE DEBIT FOR SAME ORDER!!,Closed,
+TKT-5174,1788849000,,92940 36209,N/A,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!!!,Closed,
+TKT-5175,08/09/2026 02:00 PM,,93818 48066,N/A,call_center,app not opening after update pls help,open,med
+TKT-5176,08/09/2026 06:00 PM,C00051,6962567064,T0017735,twitter,"merchant says not received, bank says success. who is right?",reopened,low
+TKT-5177,2026-09-08 22:00:00,C00900,83040 56315,T0056257,branch,"merchant says not received, bank says success. who is right? pls help",open,
+TKT-5178,2026-09-08 23:00:00,C03642,6242831520,UPI2026000017594,twitter,double debit for same order!!,open,low
+TKT-5179,2026-09-09 05:00:00,C03300,8988212017,T0011806,branch,PAYMENT FAILED BUT MONEY DEDUCTED!!,closed,med
+TKT-5180,2026-09-09 05:00:00,C04937,+918085926341,T0010953,branch,UPI pin reset not working!!,closed,med
+TKT-5181,2026-09-09 08:00:00,C04666,6142519824,N/A,twitter,"MULTIPLE SMALL CHARGES ON MY CARD I DONT RECOGNISE, THEN ONE BIG OF 4900 RS",Closed,low
+TKT-5182,09/09/2026 09:00 AM,C03239,9629988311,T0051497,branch,APP NOT OPENING AFTER UPDATE  ,closed,med
+TKT-5183,09/09/2026 10:00 AM,C00547,91-9627457009,unknown,twitter,cashback not received for last order  ,reopened,HIGH
+TKT-5184,2026-09-09 11:00:00,C01719,+917276813410,N/A,email,"merchant says not received, bank says success. who is right? pls help",reopened,HIGH
+TKT-5185,2026-09-09 12:00:00,C01243,+919751993177,unknown,email,paisa kat gaya but merchant bol raha payment nahi mila!!,Closed,
+TKT-5186,1788939000,,62333 87404,unknown,branch,"refund pending since 6 days, ticket #9948 reopened 3rd time",reopened,
+TKT-5187,2026-09-09 14:00:00,C04776,7628410685,N/A,app_chat,"merchant says not received, bank says success. who is right?!!",open,low
+TKT-5188,1788949800,,8199745622,txn_19861,twitter,app not opening after update pls help,open,
+TKT-5189,2026-09-09 18:00:00,C04160,6734616476,T0032967,branch,paisa kat gaya but merchant bol raha payment nahi mila!!!!,Closed,
+TKT-5190,2026-09-09 19:00:00,C03635,6581733718,T0018751,app_chat,payment failed but money deducted,Closed,med
+TKT-5191,09/09/2026 08:00 PM,C03651,+917444883277,N/A,app_chat,"refund pending since 20 days, ticket #2289 reopened 4rd time!!",resolved,low
+TKT-5192,2026-09-09 22:00:00,,8993434459,,branch,APP NOT OPENING AFTER UPDATE,Closed,
+TKT-5193,09-Sep-26 22:00,C01158,6684104360,T0038124,call_center,UPI pin reset not working,reopened,
+TKT-5194,2026-09-09 22:00:00,C04762,+919811167447,N/A,twitter,payment failed but money deducted!!,resolved,
+TKT-5195,10/09/2026 12:00 AM,C04619,9242520423,,call_center,cashback not received for last order,reopened,HIGH
+TKT-5196,10/09/2026 02:00 AM,C04056,8919360699,,app_chat,APP NOT OPENING AFTER UPDATE!!,resolved,
+TKT-5197,10/09/2026 01:00 PM,C02167,06583212936,unknown,twitter,app not opening after update,OPEN,med
+TKT-5198,2026-09-10 13:00:00,C01163,6530377838,,twitter,"refund pending since 14 days, ticket #4116 reopened 2rd time  ",OPEN,
+TKT-5199,10/09/2026 02:00 PM,C03799,+916506059741,unknown,branch,"refund pending since 18 days, ticket #4485 reopened 5rd time  ",closed,low
+TKT-5200,2026-09-10 14:00:00,,8278230727,T0048868,email,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,closed,
+TKT-5201,2026-09-10 19:00:00,C03440,8307772123,txn_42273,app_chat,need statement for last 3 months  ,open,
+TKT-5202,10-Sep-26 21:00,C00838,+916868858115,T0047127,branch,payment failed but money deducted!!,reopened,
+TKT-5203,2026-09-10T17:30:00Z,C01453,75195 31011,,branch,APP NOT OPENING AFTER UPDATE,Closed,low
+TKT-5204,2026-09-11 02:00:00,C03608,08108796463,UPI2026000030958,call_center,UPI pin reset not working pls help,OPEN,
+TKT-5205,2026-09-11 03:00:00,C03934,9782243620,,app_chat,UPI pin reset not working pls help,open,med
+TKT-5206,1789079400,C03773,91-8313342915,N/A,branch,transaction stuck in pending,OPEN,
+TKT-5207,2026-09-11 05:00:00,C00696,+917599031672,,twitter,double debit for same order,in progress,low
+TKT-5208,2026-09-11 07:00:00,C00331,+916810381124,T0040519,branch,"refund pending since 7 days, ticket #9645 reopened 3rd time",open,
+TKT-5209,11-Sep-26 08:00,C04320,82986 42341,unknown,app_chat,transaction stuck in pending pls help,closed,med
+TKT-5210,2026-09-11 11:00:00,C03479,71760 90561,NULL,email,double debit for same order  ,closed,low
+TKT-5211,2026-09-11 11:00:00,C00274,91-6738878041,txn_394,branch,double debit for same order,reopened,low
+TKT-5212,11/09/2026 01:00 PM,C01878,91-6362639447,T0028437,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!  ,open,HIGH
+TKT-5213,2026-09-11T07:30:00Z,C01094,9647286330,T0016562,email,cashback not received for last order  ,in progress,
+TKT-5214,2026-09-11 15:00:00,,+916974722962,UPI2026000003129,app_chat,"merchant says not received, bank says success. who is right?",closed,
+TKT-5215,2026-09-11 15:00:00,,9548229338,,app_chat,NEED STATEMENT FOR LAST 3 MONTHS pls help,resolved,med
+TKT-5216,1789122600,C04083,91-6521154858,T0055322,twitter,transaction stuck in pending,OPEN,
+TKT-5217,2026-09-11 16:00:00,,6307369571,T0014603,branch,need statement for last 3 months!!,open,HIGH
+TKT-5218,1789137000,C00147,9606610104,T0006926,email,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,closed,
+TKT-5219,2026-09-11 21:00:00,C04666,+916142519824,,email,payment failed but money deducted,reopened,med
+TKT-5220,11/09/2026 10:00 PM,C00177,+919966028396,T0043356,app_chat,UPI pin reset not working pls help,closed,med
+TKT-5221,2026-09-11 23:00:00,C04370,+919164375690,T0001853,branch,cashback not received for last order,OPEN,
+TKT-5222,12/09/2026 01:00 AM,C03653,9277026659,,call_center,"refund pending since 4 days, ticket #3625 reopened 3rd time",resolved,low
+TKT-5223,2026-09-12 03:00:00,C01380,06733522229,,email,payment failed but money deducted,Closed,
+TKT-5224,2026-09-12 06:00:00,C01116,77149 41863,T0057408,call_center,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,resolved,HIGH
+TKT-5225,1789180200,C02564,9929195916,N/A,call_center,cashback not received for last order!!,Closed,
+TKT-5226,2026-09-12 12:00:00,C03567,+916613731568,,call_center,"merchant says not received, bank says success. who is right?",open,HIGH
+TKT-5227,2026-09-12 12:00:00,C03995,91-6125312081,T0034482,app_chat,transaction stuck in pending,closed,med
+TKT-5228,2026-09-12 13:00:00,C00454,8640116925,UPI2026000030322,branch,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,reopened,
+TKT-5229,1789219800,C04436,6243136325,N/A,email,"merchant says not received, bank says success. who is right?",reopened,
+TKT-5230,2026-09-12 21:00:00,C01567,9796980444,T0043298,app_chat,"collect request approve kiya, paisa mila nahi balki kat gaya ₹13,300",OPEN,
+TKT-5231,2026-09-12 21:00:00,C02784,8320051365,T0020057,branch,cashback not received for last order,open,med
+TKT-5232,2026-09-12 22:00:00,C02788,+919905040480,T0038947,call_center,double debit for same order!!,in progress,low
+TKT-5233,2026-09-13 00:00:00,,+916146402280,unknown,app_chat,"merchant says not received, bank says success. who is right?  ",in progress,
+TKT-5234,2026-09-13 02:00:00,C00822,8929723045,T0006197,app_chat,transaction stuck in pending!!,closed,HIGH
+TKT-5235,1789248600,C00403,6926991306,T0031537,twitter,"someone called saying card blocked, i gave otp. 62k debited!!",Closed,
+TKT-5236,2026-09-12T21:30:00Z,C03774,8380374711,T0007341,call_center,"merchant says not received, bank says success. who is right?",open,
+TKT-5237,2026-09-12T22:30:00Z,C01064,9149952407,UPI2026000028186,app_chat,need statement for last 3 months pls help,closed,
+TKT-5238,2026-09-13T01:30:00Z,C02678,+918240843893,,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!!!,Closed,HIGH
+TKT-5239,2026-09-13T02:30:00Z,C03453,9383746796,T0019345,call_center,"merchant says not received, bank says success. who is right? pls help",closed,
+TKT-5240,2026-09-13 10:00:00,C00319,7921495927,N/A,twitter,"merchant says not received, bank says success. who is right?!!",OPEN,HIGH
+TKT-5241,2026-09-13T04:30:00Z,C01429,82057 66760,,app_chat,double debit for same order pls help,reopened,HIGH
+TKT-5242,13-Sep-26 10:00,C03582,91-8169461502,T0020278,app_chat,double debit for same order  ,OPEN,
+TKT-5243,1789281000,C03094,+917626609621,NULL,email,cashback not received for last order pls help,resolved,
+TKT-5244,1789284600,C01258,9502974504,unknown,app_chat,cashback not received for last order  ,Closed,
+TKT-5245,2026-09-13 13:00:00,C03882,09056910185,T0012109,twitter,UPI pin reset not working,reopened,med
+TKT-5246,2026-09-13T08:30:00Z,,9615574459,T0010783,twitter,payment failed but money deducted!!,in progress,
+TKT-5247,2026-09-13 15:00:00,C01240,6306864169,unknown,app_chat,double debit for same order,Closed,HIGH
+TKT-5248,13-Sep-26 16:00,,6299209703,T0006638,call_center,cashback not received for last order!!,closed,low
+TKT-5249,2026-09-13 18:00:00,C00726,96490 21964,,email,"collect request approve kiya, paisa mila nahi balki kat gaya 3900 rs",closed,
+TKT-5250,2026-09-13 18:00:00,C02797,91-6115239685,T0026373,branch,cashback not received for last order  ,OPEN,HIGH
+TKT-5251,13-Sep-26 21:00,C02426,91-8740329042,T0035497,call_center,double debit for same order,resolved,
+TKT-5252,2026-09-13 22:00:00,C03113,8502067163,unknown,email,"merchant says not received, bank says success. who is right?  ",Closed,med
+TKT-5253,2026-09-13 22:00:00,C01573,6383834247,T0017051,call_center,app not opening after update  ,closed,HIGH
+TKT-5254,14/09/2026 01:00 AM,C01808,09482969820,T0020534,branch,payment failed but money deducted  ,in progress,
+TKT-5255,2026-09-14 01:00:00,C00527,6323434303,,email,cashback not received for last order  ,reopened,
+TKT-5256,2026-09-14 04:00:00,C02527,91-9971874823,NULL,app_chat,double debit for same order  ,reopened,low
+TKT-5257,2026-09-14 11:00:00,C03854,+919256551737,T0028870,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!,open,low
+TKT-5258,2026-09-14 11:00:00,C02746,+918758527708,,app_chat,transaction stuck in pending pls help,resolved,
+TKT-5259,14/09/2026 04:00 PM,C02476,8683656047,NULL,call_center,payment failed but money deducted,Closed,med
+TKT-5260,2026-09-14 17:00:00,,7866037089,T0030918,call_center,double debit for same order,Closed,
+TKT-5261,14/09/2026 05:00 PM,C03655,6558236598,T0038771,call_center,"refund pending since 20 days, ticket #7244 reopened 3rd time",Closed,
+TKT-5262,14-Sep-26 21:00,,09988297609,NULL,app_chat,need statement for last 3 months  ,reopened,med
+TKT-5263,14/09/2026 09:00 PM,C00758,6992373219,T0026139,email,cashback not received for last order  ,reopened,med
+TKT-5264,14-Sep-26 23:00,C01189,+917199654552,N/A,app_chat,need statement for last 3 months,in progress,
+TKT-5265,15-Sep-26 00:00,C04985,9030117023,NULL,app_chat,"refund pending since 14 days, ticket #3863 reopened 4rd time pls help",Closed,med
+TKT-5266,2026-09-15 03:00:00,C00257,+919234674135,,branch,transaction stuck in pending  ,Closed,HIGH
+TKT-5267,2026-09-15 03:00:00,,+918326726911,T0032511,branch,UPI pin reset not working,open,med
+TKT-5268,15/09/2026 03:00 AM,C04142,+918906187129,T0010896,email,UPI pin reset not working  ,in progress,med
+TKT-5269,15-Sep-26 04:00,C00071,8324357600,T0046699,branch,"my phone suddenly lost network, then ₹30,460 was transferred without my knowledge",open,
+TKT-5270,2026-09-15 04:00:00,C04248,08726289345,,app_chat,need statement for last 3 months!!,OPEN,low
+TKT-5271,2026-09-15 07:00:00,C03515,6876031308,unknown,email,payment failed but money deducted!!,resolved,med
+TKT-5272,2026-09-15 12:00:00,C04612,+919833676827,T0043043,app_chat,app not opening after update,reopened,
+TKT-5273,2026-09-15 13:00:00,C02352,+916380922763,,app_chat,payment failed but money deducted,closed,med
+TKT-5274,2026-09-15 20:00:00,C03849,7331493873,T0006434,call_center,payment failed but money deducted pls help,OPEN,med
+TKT-5275,2026-09-15 23:00:00,C03970,91-8349034645,T0021234,email,cashback not received for last order,Closed,med
+TKT-5276,16/09/2026 01:00 AM,C02773,7261180169,T0021172,app_chat,need statement for last 3 months  ,OPEN,med
+TKT-5277,2026-09-16 01:00:00,C02189,7578189573,T0011299,twitter,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,closed,
+TKT-5278,2026-09-16 03:00:00,C00351,7607708320,T0002177,twitter,upi pin reset not working!!,closed,HIGH
+TKT-5279,2026-09-15T23:30:00Z,,+918341107562,T0043191,call_center,"i got a request to 'receive' money, approved it and paid ₹15,800 instead  ",reopened,med
+TKT-5280,2026-09-16 06:00:00,C02978,91-9135598679,T0028179,app_chat,payment failed but money deducted pls help,OPEN,
+TKT-5281,16/09/2026 06:00 AM,C00887,+916997569958,txn_6931,branch,TRANSACTION STUCK IN PENDING!!,in progress,
+TKT-5282,2026-09-16 07:00:00,C01336,07564428780,,call_center,"refund pending since 11 days, ticket #6680 reopened 3rd time  ",open,HIGH
+TKT-5283,2026-09-16 11:00:00,C02768,7937684941,T0038613,twitter,payment failed but money deducted!!,in progress,low
+TKT-5284,2026-09-16 11:00:00,C02980,06036291902,NULL,email,"merchant says not received, bank says success. who is right?!!",closed,med
+TKT-5285,1789554600,,91-9819934999,unknown,twitter,double debit for same order,closed,
+TKT-5286,2026-09-16 16:00:00,C03832,7111633215,T0056595,call_center,need statement for last 3 months,Closed,med
+TKT-5287,2026-09-16 17:00:00,C04383,7104824988,unknown,branch,need statement for last 3 months  ,reopened,low
+TKT-5288,2026-09-16 18:00:00,C04153,+916292086403,,app_chat,"someone called saying card blocked, i gave otp. 80300 rs debited!!  ",OPEN,
+TKT-5289,16/09/2026 07:00 PM,C02012,6029541118,UPI2026000027732,email,NEED STATEMENT FOR LAST 3 MONTHS  ,reopened,HIGH
+TKT-5290,1789572600,C01006,91-7033256502,T0010738,branch,"merchant says not received, bank says success. who is right? pls help",OPEN,
+TKT-5291,2026-09-16 21:00:00,,+916537000590,T0056052,app_chat,double debit for same order,in progress,
+TKT-5292,1789572600,,+916074184092,unknown,twitter,payment failed but money deducted,in progress,HIGH
+TKT-5293,1789576200,C01054,91-6074570229,unknown,call_center,UPI pin reset not working,Closed,
+TKT-5294,2026-09-16 22:00:00,C03865,6377827619,unknown,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!,Closed,
+TKT-5295,17/09/2026 12:00 AM,C03770,7197700457,T0052802,branch,transaction stuck in pending!!,open,
+TKT-5296,2026-09-17 01:00:00,,9280313448,UPI2026000036420,branch,"SOMEONE USED MY CARD AT A STORE IN DUBAI, I NEVER LEFT INDIA pls help",reopened,
+TKT-5297,2026-09-17 01:00:00,C02729,91-9998205217,T0037304,app_chat,payment failed but money deducted  ,Closed,HIGH
+TKT-5298,2026-09-17 02:00:00,C00817,9987750920,T0051836,app_chat,transaction stuck in pending,open,low
+TKT-5299,17-Sep-26 07:00,C00888,+919985729939,,email,payment failed but money deducted,in progress,low
+TKT-5300,2026-09-17 09:00:00,,7312575962,unknown,email,"online shopping page se order kiya, ₹16,700 diye, ab seller reply nahi kar raha",open,HIGH
+TKT-5301,17/09/2026 10:00 AM,C01372,89744 75881,UPI2026000001634,email,payment failed but money deducted,resolved,med
+TKT-5302,2026-09-17 12:00:00,C02678,8240843893,unknown,call_center,"refund pending since 18 days, ticket #5339 reopened 3rd time",resolved,HIGH
+TKT-5303,2026-09-17 14:00:00,C02818,60711 83408,T0036926,branch,double debit for same order,reopened,HIGH
+TKT-5304,2026-09-17 15:00:00,C00693,07119456628,T0013228,email,"REFUND PENDING SINCE 8 DAYS, TICKET #4398 REOPENED 3RD TIME",Closed,
+TKT-5305,17/09/2026 03:00 PM,C04666,+916142519824,,call_center,double debit for same order pls help,resolved,med
+TKT-5306,2026-09-17 19:00:00,C04258,91-7893077396,unknown,email,transaction stuck in pending!!,resolved,
+TKT-5307,17/09/2026 07:00 PM,C02781,6968193561,T0042867,email,UPI PIN RESET NOT WORKING pls help,resolved,low
+TKT-5308,2026-09-17 20:00:00,C04862,9916237817,,email,"online shopping page se order kiya, 13000 rs diye, ab seller reply nahi kar raha",in progress,
+TKT-5309,2026-09-17T16:30:00Z,C01442,8548737499,,email,"SIM CARD STOPPED WORKING, GOT ALERTS FOR PAYMENTS TO UNKNOWN IDS pls help",resolved,HIGH
+TKT-5310,2026-09-17 22:00:00,C02308,61406 40977,T0014661,call_center,transaction stuck in pending,reopened,med
+TKT-5311,2026-09-17 23:00:00,C02729,9998205217,UPI2026000011392,twitter,double debit for same order,Closed,
+TKT-5312,2026-09-17T19:30:00Z,C00772,6883849784,unknown,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!!!,closed,HIGH
+TKT-5313,2026-09-18 04:00:00,,+918013778982,T0035001,call_center,"got call from 'bank officer', shared OTP, ₹46,800 gone. pls block",Closed,HIGH
+TKT-5314,2026-09-18 04:00:00,C01138,+918886511428,,branch,"refund pending since 19 days, ticket #2551 reopened 5rd time",open,med
+TKT-5315,18/09/2026 04:00 AM,C04669,09548229338,N/A,call_center,payment failed but money deducted,reopened,
+TKT-5316,18-Sep-26 06:00,C04247,+917810731539,,branch,DOUBLE DEBIT FOR SAME ORDER,OPEN,med
+TKT-5317,2026-09-18 06:00:00,C02163,7208547703,,call_center,payment failed but money deducted,open,HIGH
+TKT-5318,18/09/2026 07:00 AM,C02127,6989761945,N/A,twitter,"refund pending since 8 days, ticket #5044 reopened 4rd time",Closed,HIGH
+TKT-5319,2026-09-18T04:30:00Z,C02274,7997897765,T0013637,call_center,"merchant says not received, bank says success. who is right?",open,
+TKT-5320,2026-09-18 11:00:00,C03041,88113 18148,T0030619,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,Closed,
+TKT-5321,18/09/2026 12:00 PM,,91-6137502141,N/A,twitter,transaction stuck in pending pls help,in progress,
+TKT-5322,2026-09-18 13:00:00,C01780,6246125556,T0004496,email,cashback not received for last order!!,OPEN,low
+TKT-5323,18/09/2026 02:00 PM,,95901 00240,N/A,call_center,"refund pending since 11 days, ticket #8088 reopened 5rd time",OPEN,low
+TKT-5324,1789727400,C00527,63234 34303,T0024213,app_chat,"refund pending since 18 days, ticket #3764 reopened 4rd time pls help",in progress,HIGH
+TKT-5325,2026-09-18 16:00:00,C01021,6925020665,T0018941,email,app not opening after update  ,open,
+TKT-5326,2026-09-18 16:00:00,C03305,91-6849094883,T0042076,twitter,"merchant says not received, bank says success. who is right?",reopened,low
+TKT-5327,19/09/2026 01:00 AM,,7022803094,,branch,"refund pending since 15 days, ticket #4392 reopened 5rd time",reopened,
+TKT-5328,2026-09-19 02:00:00,C04009,7232397912,N/A,call_center,UPI pin reset not working!!,open,med
+TKT-5329,2026-09-19 02:00:00,,67796 51760,unknown,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!,closed,HIGH
+TKT-5330,2026-09-19 02:00:00,C01758,08185188612,T0039112,app_chat,app not opening after update!!,OPEN,HIGH
+TKT-5331,2026-09-19 03:00:00,C03112,71998 03001,,call_center,app not opening after update  ,open,low
+TKT-5332,2026-09-19 04:00:00,,06095635242,T0046887,twitter,UPI pin reset not working!!,open,med
+TKT-5333,2026-09-19 09:00:00,C01697,8998569950,T0023405,branch,need statement for last 3 months pls help,Closed,
+TKT-5334,1789799400,C00754,+916753151731,unknown,twitter,"refund pending since 10 days, ticket #5439 reopened 2rd time!!",Closed,HIGH
+TKT-5335,2026-09-19 13:00:00,C00324,+917432769149,T0031496,email,app not opening after update!!,Closed,
+TKT-5336,1789810200,C00692,89379 30639,UPI2026000043698,app_chat,"unauthorised transactions, i never added these beneficiaries. total loss 27k!!",open,
+TKT-5337,1789810200,C01140,91-7438284490,N/A,app_chat,UPI pin reset not working!!,closed,med
+TKT-5338,2026-09-19 15:00:00,C01774,8947480382,,twitter,UPI PIN RESET NOT WORKING  ,OPEN,
+TKT-5339,2026-09-19 19:00:00,C01686,7607676326,NULL,call_center,"online shopping page se order kiya, ₹16,100 diye, ab seller reply nahi kar raha pls help",resolved,med
+TKT-5340,2026-09-19T13:30:00Z,,+918397281063,T0049967,twitter,"someone called saying card blocked, i gave otp. ₹18,100 debited!!",OPEN,HIGH
+TKT-5341,19/09/2026 08:00 PM,C01282,8410415353,UPI2026000042947,branch,"collect request approve kiya, paisa mila nahi balki kat gaya 2k pls help",resolved,
+TKT-5342,19/09/2026 09:00 PM,C02774,6535725785,unknown,call_center,"refund pending since 16 days, ticket #5838 reopened 2rd time",reopened,
+TKT-5343,20/09/2026 01:00 AM,C00101,09819934999,T0008959,call_center,"online shopping page se order kiya, ₹10,800 diye, ab seller reply nahi kar raha",resolved,
+TKT-5344,2026-09-20 01:00:00,C02165,09467359224,T0013560,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!!!,closed,med
+TKT-5345,20/09/2026 05:00 AM,C03606,91-8078948825,N/A,app_chat,payment failed but money deducted,OPEN,
+TKT-5346,2026-09-20 06:00:00,C04642,7277783668,T0055917,branch,payment failed but money deducted,Closed,low
+TKT-5347,20-Sep-26 07:00,C03389,+916376963387,N/A,twitter,need statement for last 3 months  ,closed,
+TKT-5348,2026-09-20 07:00:00,C02156,+918686338744,,app_chat,APP NOT OPENING AFTER UPDATE,in progress,med
+TKT-5349,2026-09-20 08:00:00,C03327,+916341956450,,app_chat,app not opening after update pls help,closed,
+TKT-5350,20/09/2026 09:00 AM,C03549,8964053436,N/A,twitter,"merchant says not received, bank says success. who is right? pls help",in progress,low
+TKT-5351,2026-09-20 10:00:00,C02618,91-8879742624,T0026876,call_center,UPI pin reset not working,closed,
+TKT-5352,2026-09-20T09:30:00Z,C02212,06284301486,T0005688,call_center,"merchant says not received, bank says success. who is right?",Closed,
+TKT-5353,20/09/2026 04:00 PM,C00376,+919816644174,,branch,payment failed but money deducted,in progress,med
+TKT-5354,20-Sep-26 17:00,C00755,+917826374477,T0048536,app_chat,need statement for last 3 months!!,reopened,
+TKT-5355,2026-09-20 18:00:00,C04474,08345259370,N/A,call_center,double debit for same order,in progress,HIGH
+TKT-5356,20-Sep-26 18:00,C00248,97863 63098,T0028300,branch,paisa kat gaya but merchant bol raha payment nahi mila!!!!,closed,
+TKT-5357,2026-09-20 18:00:00,C04142,8906187129,T0002135,branch,cashback not received for last order pls help,open,med
+TKT-5358,20/09/2026 06:00 PM,C01613,06601836948,NULL,twitter,double debit for same order pls help,open,
+TKT-5359,2026-09-20 19:00:00,C00958,8887924986,T0053352,branch,"merchant says not received, bank says success. who is right?  ",closed,med
+TKT-5360,20-Sep-26 21:00,C02514,7191645882,txn_59753,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!!!,open,low
+TKT-5361,20/09/2026 09:00 PM,C01278,+918109287275,unknown,branch,UPI pin reset not working,reopened,
+TKT-5362,2026-09-20 21:00:00,C00923,7431057610,T0054910,email,"refund pending since 18 days, ticket #6050 reopened 3rd time",in progress,
+TKT-5363,2026-09-20 23:00:00,C01730,09053979058,txn_35923,app_chat,transaction stuck in pending!!,resolved,med
+TKT-5364,2026-09-21 05:00:00,C00771,+918574169559,N/A,branch,transaction stuck in pending  ,closed,
+TKT-5365,21/09/2026 07:00 AM,C00991,+918414602455,T0013356,email,transaction stuck in pending,in progress,med
+TKT-5366,2026-09-21 08:00:00,C04248,8726289345,UPI2026000025925,email,transaction stuck in pending  ,OPEN,
+TKT-5367,2026-09-21 09:00:00,C04255,9735596503,txn_55243,branch,UPI pin reset not working pls help,reopened,HIGH
+TKT-5368,2026-09-21 09:00:00,C03662,6792457235,T0005455,email,UPI PIN RESET NOT WORKING  ,Closed,med
+TKT-5369,2026-09-21 10:00:00,C04182,91-6756635784,T0028077,email,"sim card stopped working, got alerts for payments to unknown ids",resolved,HIGH
+TKT-5370,2026-09-21T10:30:00Z,C01950,9917228308,T0038367,branch,transaction stuck in pending!!,Closed,med
+TKT-5371,2026-09-21 19:00:00,,7937235130,,twitter,transaction stuck in pending,open,HIGH
+TKT-5372,2026-09-21 19:00:00,,08163572230,T0040099,call_center,paisa kat gaya but merchant bol raha payment nahi mila!!  ,resolved,low
+TKT-5373,2026-09-21 20:00:00,C00586,9184753242,,branch,UPI pin reset not working pls help,OPEN,low
+TKT-5374,2026-09-21 22:00:00,C01063,6311639581,UPI2026000047713,branch,app not opening after update  ,reopened,low
+TKT-5375,2026-09-21 23:00:00,C03933,7403016035,T0033907,call_center,UPI pin reset not working,resolved,med
+TKT-5376,1790015400,C02558,9569835808,UPI2026000010571,twitter,"refund pending since 15 days, ticket #3671 reopened 5rd time  ",Closed,low
+TKT-5377,2026-09-22 00:00:00,C02546,9513733865,T0001649,branch,DOUBLE DEBIT FOR SAME ORDER,resolved,HIGH
+TKT-5378,22/09/2026 01:00 AM,C03246,74859 03081,UPI2026000036776,branch,"merchant says not received, bank says success. who is right? pls help",open,
+TKT-5379,2026-09-22 01:00:00,C01477,7649575102,T0004143,email,transaction stuck in pending,closed,
+TKT-5380,2026-09-22 02:00:00,C01370,6343436074,N/A,app_chat,double debit for same order pls help,in progress,low
+TKT-5381,2026-09-22 03:00:00,C01758,8185188612,NULL,call_center,cashback not received for last order,OPEN,
+TKT-5382,22/09/2026 04:00 AM,C04098,+918779949400,UPI2026000029311,branch,TRANSACTION STUCK IN PENDING!!,reopened,med
+TKT-5383,22-Sep-26 04:00,C04223,6436820160,T0045284,email,need statement for last 3 months pls help,closed,
+TKT-5384,2026-09-22 07:00:00,C01308,6386166297,T0051495,twitter,payment failed but money deducted pls help,closed,
+TKT-5385,22/09/2026 08:00 AM,C03799,+916506059741,NULL,branch,"merchant says not received, bank says success. who is right?",Closed,
+TKT-5386,2026-09-22 08:00:00,C04161,6432475085,T0022112,call_center,cashback not received for last order,in progress,
+TKT-5387,22/09/2026 09:00 AM,C02542,08565666743,T0026759,call_center,payment failed but money deducted!!,reopened,
+TKT-5388,2026-09-22 11:00:00,C02650,7641824091,NULL,app_chat,"merchant says not received, bank says success. who is right?",resolved,med
+TKT-5389,22/09/2026 12:00 PM,C04082,+916882368577,T0029861,email,cashback not received for last order,reopened,HIGH
+TKT-5390,2026-09-22T06:30:00Z,C00032,06538819687,UPI2026000017523,twitter,payment failed but money deducted!!,OPEN,med
+TKT-5391,22/09/2026 03:00 PM,C00273,6608682904,T0010573,branch,UPI PIN RESET NOT WORKING,resolved,low
+TKT-5392,22-Sep-26 15:00,C00022,8636516371,T0011663,email,app not opening after update,reopened,med
+TKT-5393,2026-09-22 18:00:00,C00421,9226005184,T0024034,email,app not opening after update!!,resolved,
+TKT-5394,2026-09-22 18:00:00,C01480,9240577050,unknown,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!!!,resolved,
+TKT-5395,2026-09-22 23:00:00,C00659,08284740178,unknown,app_chat,app not opening after update  ,Closed,
+TKT-5396,2026-09-23 01:00:00,C03157,9532081225,T0037449,twitter,paisa kat gaya but merchant bol raha payment nahi mila!!,in progress,
+TKT-5397,23/09/2026 03:00 AM,,+917757635669,T0017806,twitter,"merchant says not received, bank says success. who is right?",in progress,
+TKT-5398,2026-09-23 03:00:00,C01189,7199654552,T0005115,call_center,app not opening after update pls help,closed,HIGH
+TKT-5399,2026-09-23 04:00:00,C02411,8694294514,NULL,call_center,payment failed but money deducted pls help,in progress,med
+TKT-5400,23/09/2026 04:00 AM,C02367,7246917037,N/A,call_center,transaction stuck in pending  ,OPEN,low
+TKT-5401,2026-09-23 04:00:00,,8840240982,T0047640,twitter,"refund pending since 7 days, ticket #5183 reopened 4rd time!!",closed,low
+TKT-5402,2026-09-23 05:00:00,C02864,+919294036209,T0017701,branch,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,Closed,low
+TKT-5403,1790123400,,+919987381348,N/A,call_center,app not opening after update,open,
+TKT-5404,23/09/2026 08:00 AM,C00934,6668001790,unknown,branch,UPI pin reset not working pls help,in progress,
+TKT-5405,2026-09-23 12:00:00,C04010,07580256657,T0021574,call_center,transaction stuck in pending  ,reopened,
+TKT-5406,1790148600,C02323,+918583200322,UPI2026000015328,branch,cashback not received for last order,closed,
+TKT-5407,1790159400,C02162,9335574320,,branch,transaction stuck in pending  ,Closed,med
+TKT-5408,23/09/2026 05:00 PM,C02148,6992192147,T0043765,branch,paisa kat gaya but merchant bol raha payment nahi mila!!!!,reopened,
+TKT-5409,2026-09-23 17:00:00,,7922538934,T0025811,twitter,payment failed but money deducted  ,resolved,
+TKT-5410,2026-09-23 17:00:00,C03518,6132579777,T0011535,call_center,transaction stuck in pending,OPEN,
+TKT-5411,2026-09-23 18:00:00,,7214758807,T0028705,email,cashback not received for last order  ,reopened,
+TKT-5412,23/09/2026 06:00 PM,C04148,6307369571,txn_26713,call_center,"merchant says not received, bank says success. who is right?",in progress,HIGH
+TKT-5413,1790173800,C03932,9682930987,,twitter,double debit for same order  ,open,
+TKT-5414,1790188200,C04459,+916005561112,txn_49296,app_chat,app not opening after update,closed,
+TKT-5415,24-Sep-26 01:00,C03425,7296281428,T0003440,twitter,double debit for same order,resolved,HIGH
+TKT-5416,24/09/2026 03:00 AM,C03305,+916849094883,UPI2026000020556,twitter,UPI pin reset not working  ,OPEN,
+TKT-5417,2026-09-24 04:00:00,,+919076534170,,call_center,"refund pending since 14 days, ticket #3211 reopened 5rd time  ",resolved,
+TKT-5418,2026-09-24 06:00:00,,8873105756,T0055022,twitter,payment failed but money deducted,OPEN,low
+TKT-5419,1790220600,C02776,8495555127,N/A,branch,UPI pin reset not working pls help,Closed,med
+TKT-5420,1790220600,C01868,8460062042,unknown,call_center,UPI PIN RESET NOT WORKING!!,Closed,
+TKT-5421,2026-09-24 11:00:00,C03205,91-7782961300,T0057598,call_center,UPI PIN RESET NOT WORKING,Closed,med
+TKT-5422,24-Sep-26 13:00,C00127,7214345559,T0001275,twitter,need statement for last 3 months pls help,OPEN,
+TKT-5423,24/09/2026 02:00 PM,,91-6907721735,T0054100,email,need statement for last 3 months,Closed,low
+TKT-5424,2026-09-24 14:00:00,C03981,+919785754355,T0021495,twitter,need statement for last 3 months,Closed,low
+TKT-5425,2026-09-24T09:30:00Z,,6326081525,T0026854,email,DOUBLE DEBIT FOR SAME ORDER,reopened,
+TKT-5426,2026-09-24 16:00:00,,08466207175,,branch,app not opening after update,closed,HIGH
+TKT-5427,2026-09-24 18:00:00,C00178,+919509985526,T0019275,app_chat,"merchant says not received, bank says success. who is right?",closed,
+TKT-5428,2026-09-24 19:00:00,C01684,+919280313448,unknown,email,"merchant says not received, bank says success. who is right? pls help",OPEN,
+TKT-5429,2026-09-24 19:00:00,,6367319701,T0053469,app_chat,transaction stuck in pending,open,
+TKT-5430,1790260200,C00218,7021955076,T0048956,branch,double debit for same order,closed,HIGH
+TKT-5431,2026-09-24 21:00:00,C02166,+916304400381,T0008663,app_chat,need statement for last 3 months,resolved,med
+TKT-5432,24-Sep-26 22:00,C00186,+916014127260,NULL,branch,double debit for same order pls help,Closed,low
+TKT-5433,2026-09-25 01:00:00,C01854,8484638457,T0001653,twitter,double debit for same order  ,in progress,
+TKT-5434,1790285400,C02259,+917878830420,T0031739,branch,paisa kat gaya but merchant bol raha payment nahi mila!!,OPEN,
+TKT-5435,25/09/2026 05:00 AM,C01196,60345 88820,T0060243,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!,open,HIGH
+TKT-5436,2026-09-25 06:00:00,C02678,+918240843893,T0043375,twitter,UPI pin reset not working,OPEN,med
+TKT-5437,25/09/2026 08:00 AM,C01078,+917131686140,T0035456,branch,cashback not received for last order  ,open,
+TKT-5438,2026-09-25 09:00:00,C03901,06713084014,T0009172,app_chat,need statement for last 3 months,closed,
+TKT-5439,2026-09-25 11:00:00,,+916155837069,T0005838,app_chat,"fake KYC call aaya tha, usne OTP maanga, mere account se ₹91,700 kat gaye  ",in progress,
+TKT-5440,2026-09-25 11:00:00,C02337,09317384791,,email,UPI pin reset not working,in progress,low
+TKT-5441,2026-09-25 12:00:00,C03212,+917612879811,,twitter,need statement for last 3 months  ,open,
+TKT-5442,25/09/2026 01:00 PM,C02576,+919871463465,T0046924,twitter,payment failed but money deducted,open,
+TKT-5443,2026-09-25 16:00:00,C04946,91-7385801087,T0057257,call_center,cashback not received for last order  ,closed,low
+TKT-5444,25-Sep-26 16:00,C04612,+919833676827,txn_17703,call_center,double debit for same order,in progress,med
+TKT-5445,2026-09-25 16:00:00,C03113,+918502067163,,twitter,transaction stuck in pending pls help,OPEN,med
+TKT-5446,2026-09-25 17:00:00,C00719,8868830658,NULL,email,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,OPEN,low
+TKT-5447,1790343000,C03655,6558236598,T0060290,app_chat,need statement for last 3 months pls help,open,low
+TKT-5448,25/09/2026 09:00 PM,C02593,7143541610,NULL,email,transaction stuck in pending  ,Closed,HIGH
+TKT-5449,25/09/2026 09:00 PM,C01457,91-9911426376,T0031790,app_chat,cashback not received for last order,reopened,low
+TKT-5450,2026-09-25 22:00:00,C02210,9713404038,unknown,call_center,need statement for last 3 months pls help,open,HIGH
+TKT-5451,1790382600,C04149,8092561728,T0047394,call_center,need statement for last 3 months pls help,resolved,med
+TKT-5452,2026-09-26T01:30:00Z,,+918190209672,NULL,branch,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,closed,HIGH
+TKT-5453,2026-09-26 08:00:00,C02637,8920704489,NULL,call_center,transaction stuck in pending,open,
+TKT-5454,2026-09-26 10:00:00,,8114505696,T0021224,call_center,transaction stuck in pending,closed,low
+TKT-5455,1790397000,C02153,8295134134,T0013495,branch,"merchant says not received, bank says success. who is right? pls help",Closed,low
+TKT-5456,2026-09-26 12:00:00,C03945,7263625132,,branch,"unauthorised transactions, i never added these beneficiaries. total loss 38534 rs",resolved,
+TKT-5457,2026-09-26 12:00:00,C04548,+916271704661,T0015807,branch,app not opening after update,closed,HIGH
+TKT-5458,2026-09-26 13:00:00,,6121298942,T0054722,branch,paisa kat gaya but merchant bol raha payment nahi mila!!,open,
+TKT-5459,26-Sep-26 16:00,C00906,+916111227834,NULL,twitter,UPI PIN RESET NOT WORKING!!,resolved,med
+TKT-5460,2026-09-26 16:00:00,C04600,9118953968,,twitter,payment failed but money deducted pls help,Closed,
+TKT-5461,2026-09-26 16:00:00,C02485,6102619122,UPI2026000045262,email,double debit for same order,open,
+TKT-5462,2026-09-26 17:00:00,C02978,9135598679,T0007585,app_chat,transaction stuck in pending,open,
+TKT-5463,2026-09-26T15:30:00Z,,+918691838774,T0038170,twitter,"REFUND PENDING SINCE 10 DAYS, TICKET #1198 REOPENED 5RD TIME  ",Closed,
+TKT-5464,2026-09-26 21:00:00,,+916590636984,T0050432,call_center,payment failed but money deducted,closed,
+TKT-5465,27-Sep-26 00:00,C04327,+918882177726,T0025958,app_chat,double debit for same order,OPEN,med
+TKT-5466,2026-09-27 00:00:00,C00853,6713596556,T0012197,call_center,payment failed but money deducted,reopened,
+TKT-5467,27-Sep-26 01:00,,07438448114,T0009389,twitter,transaction stuck in pending!!,resolved,low
+TKT-5468,27/09/2026 02:00 AM,C03018,7908286875,T0043857,branch,cashback not received for last order  ,Closed,
+TKT-5469,27/09/2026 02:00 AM,C03476,8486418713,T0026427,twitter,app not opening after update,closed,low
+TKT-5470,2026-09-27 04:00:00,C02529,6601671866,T0000769,app_chat,need statement for last 3 months pls help,closed,HIGH
+TKT-5471,2026-09-27 05:00:00,C01617,7537298630,UPI2026000006715,email,transaction stuck in pending  ,Closed,low
+TKT-5472,27-Sep-26 05:00,C00397,+918075331152,T0011316,call_center,cashback not received for last order,reopened,
+TKT-5473,27/09/2026 06:00 AM,C02156,+918686338744,N/A,app_chat,cashback not received for last order pls help,resolved,HIGH
+TKT-5474,2026-09-27 06:00:00,,7064188431,T0032756,branch,transaction stuck in pending  ,closed,HIGH
+TKT-5475,27-Sep-26 07:00,C01136,07236604781,T0003918,call_center,app not opening after update,closed,
+TKT-5476,2026-09-27 12:00:00,C04776,7628410685,T0004133,email,app not opening after update  ,Closed,low
+TKT-5477,2026-09-27 19:00:00,,6237092317,T0040707,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!! pls help,OPEN,
+TKT-5478,27-Sep-26 21:00,C04753,+919940629170,T0039649,email,"fake KYC call aaya tha, usne OTP maanga, mere account se ₹61,100 kat gaye!!",resolved,HIGH
+TKT-5479,2026-09-27 22:00:00,C02180,8873443164,N/A,call_center,app not opening after update pls help,in progress,low
+TKT-5480,28-Sep-26 01:00,C04152,+917267118970,,call_center,payment failed but money deducted!!,OPEN,
+TKT-5481,2026-09-28 01:00:00,,7252971979,NULL,twitter,UPI PIN RESET NOT WORKING  ,Closed,
+TKT-5482,2026-09-27T19:30:00Z,C02791,6696277425,,twitter,double debit for same order,open,
+TKT-5483,28/09/2026 03:00 AM,C00691,+917658132774,unknown,app_chat,transaction stuck in pending,Closed,
+TKT-5484,28-Sep-26 06:00,C01745,6595220625,T0003059,twitter,cashback not received for last order!!,open,
+TKT-5485,2026-09-28 09:00:00,C04561,+916621339678,,app_chat,UPI pin reset not working,resolved,med
+TKT-5486,28-Sep-26 14:00,C04946,91-7385801087,,twitter,need statement for last 3 months pls help,closed,HIGH
+TKT-5487,2026-09-28 15:00:00,C02255,93602 96355,T0004027,call_center,payment failed but money deducted,open,
+TKT-5488,28/09/2026 04:00 PM,C02307,6277420833,N/A,branch,APP NOT OPENING AFTER UPDATE,open,
+TKT-5489,29/09/2026 12:00 AM,C01829,6280215158,T0049256,app_chat,cashback not received for last order pls help,closed,
+TKT-5490,29-Sep-26 00:00,C01386,91-7321976925,unknown,twitter,cashback not received for last order,closed,
+TKT-5491,2026-09-29 02:00:00,C01437,6186195781,T0022833,branch,double debit for same order,resolved,
+TKT-5492,1790627400,C04404,+919868666632,T0042148,call_center,cashback not received for last order pls help,open,med
+TKT-5493,29/09/2026 02:00 AM,C03800,91-7441910416,NULL,app_chat,paisa kat gaya but merchant bol raha payment nahi mila!!,reopened,med
+TKT-5494,29/09/2026 05:00 AM,,06677369220,txn_18924,twitter,payment failed but money deducted  ,OPEN,
+TKT-5495,2026-09-29 06:00:00,C00892,9043005119,T0017558,app_chat,"multiple small charges on my card i dont recognise, then one big of ₹18,800!!",closed,
+TKT-5496,2026-09-29 06:00:00,C00649,+918636747812,N/A,call_center,need statement for last 3 months pls help,reopened,
+TKT-5497,2026-09-29 07:00:00,C03272,7239894929,T0033932,twitter,transaction stuck in pending,reopened,low
+TKT-5498,2026-09-29 08:00:00,C01477,07649575102,N/A,twitter,need statement for last 3 months!!,closed,HIGH
+TKT-5499,2026-09-29 10:00:00,C04990,9362376475,T0024270,app_chat,need statement for last 3 months pls help,in progress,
+TKT-5500,1790674200,C04004,+916098819085,N/A,twitter,"multiple small charges on my card i dont recognise, then one big of ₹13,400 pls help",closed,
+TKT-5501,2026-09-29 15:00:00,C02868,8919443227,,app_chat,payment failed but money deducted  ,resolved,low
+TKT-5502,2026-09-29 16:00:00,,+919473278679,UPI2026000042266,call_center,"refund pending since 19 days, ticket #1344 reopened 4rd time  ",Closed,
+TKT-5503,2026-09-29 16:00:00,C00892,9043005119,NULL,branch,"merchant says not received, bank says success. who is right?",in progress,
+TKT-5504,29/09/2026 10:00 PM,C00892,9043005119,N/A,twitter,"merchant says not received, bank says success. who is right?",Closed,
+TKT-5505,2026-09-29T16:30:00Z,,91-6664786971,txn_30952,email,"refund pending since 9 days, ticket #7008 reopened 5rd time  ",OPEN,
+TKT-5506,2026-09-29 23:00:00,C00735,6783540470,,branch,APP NOT OPENING AFTER UPDATE,closed,
+TKT-5507,30/09/2026 02:00 AM,C00603,+917670071334,,email,"fake KYC call aaya tha, usne OTP maanga, mere account se ₹67,600 kat gaye",closed,
+TKT-5508,30/09/2026 02:00 AM,C02980,06036291902,N/A,email,"refund pending since 16 days, ticket #8612 reopened 4rd time",in progress,
+TKT-5509,1790713800,C02506,+919678829691,T0014067,call_center,"merchant says not received, bank says success. who is right?!!",reopened,
+TKT-5510,2026-09-30 03:00:00,C04192,6502095839,T0049885,call_center,"someone called saying card blocked, i gave otp. ₹70,400 debited!! pls help",resolved,
+TKT-5511,2026-09-30 06:00:00,,9548229338,,email,transaction stuck in pending pls help,Closed,
+TKT-5512,2026-09-30 06:00:00,C00677,08341944001,UPI2026000015966,app_chat,need statement for last 3 months  ,Closed,low
+TKT-5513,2026-09-30 09:00:00,C03651,7444883277,,call_center,"merchant says not received, bank says success. who is right?",Closed,HIGH
+TKT-5514,2026-09-30 09:00:00,C01423,91-7936371757,T0057457,twitter,transaction stuck in pending  ,Closed,
+TKT-5515,2026-09-30 10:00:00,C04876,+916822223652,txn_36874,app_chat,UPI pin reset not working  ,reopened,
+TKT-5516,30-Sep-26 11:00,C01800,8681426723,T0048331,call_center,"refund pending since 17 days, ticket #6257 reopened 4rd time",closed,
+TKT-5517,2026-09-30 12:00:00,C04004,+916098819085,T0015008,branch,double debit for same order pls help,resolved,med
+TKT-5518,1790749800,C02533,75091 61061,NULL,call_center,app not opening after update  ,open,HIGH
+TKT-5519,2026-09-30 13:00:00,C00480,91-8308829195,unknown,twitter,"REFUND PENDING SINCE 14 DAYS, TICKET #7176 REOPENED 5RD TIME pls help",resolved,
+TKT-5520,30-Sep-26 13:00,C02571,63201 40610,UPI2026000044173,call_center,"refund pending since 17 days, ticket #9931 reopened 3rd time  ",OPEN,
+TKT-5521,2026-09-30 13:00:00,C03118,8856712182,UPI2026000047350,email,transaction stuck in pending,closed,low
+TKT-5522,2026-09-30 16:00:00,,8498927117,N/A,branch,UPI pin reset not working  ,OPEN,low
+TKT-5523,2026-09-30T11:30:00Z,C01372,91-8974475881,T0043029,branch,UPI pin reset not working,closed,med
+TKT-5524,2026-09-30 18:00:00,C03184,9521072796,NULL,app_chat,need statement for last 3 months pls help,OPEN,low
+TKT-5525,2026-09-30 19:00:00,C03264,8365558983,,app_chat,UPI pin reset not working!!,open,
+TKT-5526,1790778600,C03613,+916609592342,,app_chat,payment failed but money deducted!!,reopened,
