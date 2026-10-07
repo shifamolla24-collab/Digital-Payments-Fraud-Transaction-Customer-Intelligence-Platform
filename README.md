@@ -62,7 +62,7 @@ flowchart LR
 ### 1. Data cleaning (Python / pandas)
 
 | Problem | Fix |
-
+|---|---|
 | 5 timestamp formats; ~20% were UTC | Parsed each format; converted UTC to IST |
 | Amounts like `Rs. 1,499.00`, `₹49999`, `INR 463` | Stripped symbols; converted to numeric; added `amount_abs` for reversals |
 | Status and channel spelled many ways | Mapped to canonical values |
@@ -85,7 +85,7 @@ Business questions, written as queries, with window functions (`LAG`, `NTILE`, `
 ### 3. Rule-based fraud detection
 
 | Rule | Logic | Targets |
-
+|---|---|---|
 | R1 | Payment ≥ ₹1,000 within 2 h of a SIM change | Account takeover |
 | R2 | UPI, first payment to a stranger, ≥ ₹10k and ≥ 5× the customer's own average | Vishing / OTP scam |
 | R3 | ≥ 5 charges ≤ ₹10 within 30 min on a card | Card testing |
@@ -113,7 +113,7 @@ Thresholds were chosen by inspecting the data (the three fake merchants sit at 3
 ### Rule engine performance
 
 | Fraud type | Recall (Python rules) | Note |
-
+|---|---|---|
 | Collect scam | 100% | |
 | Refund abuse | 100% | |
 | Mule fan-in | 98.6% | |
