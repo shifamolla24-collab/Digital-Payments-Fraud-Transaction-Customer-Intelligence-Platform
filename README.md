@@ -136,7 +136,12 @@ The SQL version of the mule rule is slightly broader, which lifts overall recall
 | [Customer & Merchant Intelligence] | RFM segments, merchant refund ranking |
 |[Behavioral & Geographic Analysis]  | Daily/hourly volume, channel mix, failures, citys |
 
-![Executive overview](docs/images/dashboard_overview.png)
+<img width="783" height="502" alt="Transaction Overview" src="https://github.com/user-attachments/assets/f95e949a-06cf-4346-8fc2-f8ae1f0f232f" />
+<img width="897" height="502" alt="Fraud   Risk Monitoring" src="https://github.com/user-attachments/assets/7deeb4a9-65f0-4dfb-91c2-3e70e15ec8a2" />
+<img width="982" height="506" alt="Customer   Merchant Intelligence" src="https://github.com/user-attachments/assets/16a2bda5-f56c-4835-a1ff-9157d15150ef" />
+<img width="962" height="507" alt="Behavioral   Geographic Analysis" src="https://github.com/user-attachments/assets/59d8e2e5-a533-488f-b823-32273c6b914e" />
+
+
 
 
 
