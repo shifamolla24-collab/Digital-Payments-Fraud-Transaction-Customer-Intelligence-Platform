@@ -131,10 +131,10 @@ The SQL version of the mule rule is slightly broader, which lifts overall recall
 
 | Page | Purpose |
 |---|---|
-| Executive overview | KPIs: volume, fraud rate, customer loss, rule precision and recall |
-| Transaction trends | Daily/hourly volume, channel mix, failures |
-| Fraud explorer | Fraud by type, hour × channel heatmap, flagged transactions |
-| Customer and merchant risk | RFM segments, merchant refund ranking |
+| [Transaction Overview]| KPIs: volume, fraud rate, customer loss, rule precision and recall |
+|[Fraud & Risk Monitoring]  | Fraud by type, hour × channel heatmap, flagged transactions|
+| [Customer & Merchant Intelligence] | RFM segments, merchant refund ranking |
+|[Behavioral & Geographic Analysis]  | Daily/hourly volume, channel mix, failures, citys |
 
 ![Executive overview](docs/images/dashboard_overview.png)
 
